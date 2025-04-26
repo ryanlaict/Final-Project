@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,email,age,gender,city,state,country,favorite_nba_team,favorite_players,wnba_team_interest,merch_purchased,total_spent_usd,purchase_frequency,game_attendance,tv_viewing_hours,social_media_engagement,sports_news_engagement,recommendation_score
+error: undefined method `first' for nil:NilClass,Karolina,Blades,kblades0@fda.gov,69,F,Omaha,NE,United States,Houston Rockets,Russell Westbrook,Chicago Sky,socks,Dollar,4,1,5.0,48,71,0.36
+error: undefined method `first' for nil:NilClass,Charlean,Sherrard,csherrard1@unesco.org,69,F,Springfield,MA,United States,Golden State Warriors,Luka Doncic,Los Angeles Sparks,backpacks,Dollar,1,1,11.5,86,66,0.35
+error: undefined method `first' for nil:NilClass,Solly,Rammell,srammell2@hc360.com,54,M,Newark,NJ,United States,Toronto Raptors,Zach LaVine,,posters,Dollar,0,4,7.1,73,69,0.34
+error: undefined method `first' for nil:NilClass,Atalanta,Bathersby,abathersby3@liveinternet.ru,66,F,Saint Louis,MO,United States,Miami Heat,Paul George,Atlanta Dream,jerseys,Dollar,3,2,6.0,72,65,0.37
+error: undefined method `first' for nil:NilClass,Rafe,Manners,rmanners4@clickbank.net,76,M,Burbank,CA,United States,Los Angeles Lakers,Dejounte Murray,Seattle Storm,posters,Dollar,1,4,4.0,76,62,0.37
+error: undefined method `first' for nil:NilClass,Weston,Dunridge,wdunridge5@soundcloud.com,20,M,Palmdale,CA,United States,Miami Heat,Julius Randle,Los Angeles Sparks,jerseys,Dollar,1,8,8.2,64,68,0.51
+error: undefined method `first' for nil:NilClass,Jamie,Gore,jgore6@rediff.com,72,M,Van Nuys,CA,United States,Chicago Bulls,Rudy Gobert,Dallas Wings,blankets,Dollar,4,6,4.7,54,44,0.5
+error: undefined method `first' for nil:NilClass,Ricoriki,Balser,rbalser7@columbia.edu,20,M,Jacksonville,FL,United States,Golden State Warriors,Stephen Curry,Seattle Storm,socks,Dollar,1,7,5.6,76,64,0.45
+error: undefined method `first' for nil:NilClass,Goldi,Flett,gflett8@google.it,32,F,West Palm Beach,FL,United States,Dallas Mavericks,Jayson Tatum,Chicago Sky,hats,Dollar,1,0,7.9,63,47,0.69
+error: undefined method `first' for nil:NilClass,Justine,Mold,jmold9@un.org,22,F,Las Vegas,NV,United States,Toronto Raptors,CJ McCollum,Dallas Wings,phone cases,Dollar,3,0,9.8,62,52,0.35
+error: undefined method `first' for nil:NilClass,Opalina,Delgaty,odelgatya@cyberchimps.com,41,F,Los Angeles,CA,United States,Golden State Warriors,Ben Simmons,,blankets,Dollar,1,7,5.5,34,57,0.66
+error: undefined method `first' for nil:NilClass,Lorain,Kaufman,lkaufmanb@ed.gov,37,F,Saint Joseph,MO,United States,Golden State Warriors,Deandre Ayton,Minnesota Lynx,jerseys,Dollar,4,0,7.3,89,46,0.74
+error: undefined method `first' for nil:NilClass,Garfield,Wardroper,gwardroperc@wisc.edu,56,M,Washington,DC,United States,Toronto Raptors,Chris Paul,Atlanta Dream,blankets,Dollar,4,6,5.1,84,51,0.5
+error: undefined method `first' for nil:NilClass,Leora,Groves,lgrovesd@businesswire.com,75,F,Saint Louis,MO,United States,Chicago Bulls,Brandon Ingram,Washington Mystics,hats,Dollar,4,7,4.3,44,52,0.52
+error: undefined method `first' for nil:NilClass,Patsy,Orsman,porsmane@bloglines.com,29,M,Atlanta,GA,United States,Dallas Mavericks,Deandre Ayton,Los Angeles Sparks,sweatshirts,Dollar,2,5,6.9,64,51,0.48
+error: undefined method `first' for nil:NilClass,Cornelius,Leavens,cleavensf@hao123.com,61,M,Wilmington,DE,United States,Dallas Mavericks,Karl-Anthony Towns,,backpacks,Dollar,0,0,10.5,61,52,0.54
+error: undefined method `first' for nil:NilClass,Barnard,Martello,bmartellog@oracle.com,80,M,Portland,OR,United States,Golden State Warriors,Joel Embiid,,jerseys,Dollar,3,2,8.2,65,60,0.48
+error: undefined method `first' for nil:NilClass,Dreddy,Jeffry,djeffryh@jiathis.com,76,F,Chicago,IL,United States,Los Angeles Lakers,Deandre Ayton,Dallas Wings,jerseys,Dollar,4,8,8.6,78,50,0.35
+error: undefined method `first' for nil:NilClass,Myrtie,Samsworth,msamsworthi@issuu.com,52,F,Detroit,MI,United States,Golden State Warriors,De'Aaron Fox,Seattle Storm,posters,Dollar,6,2,8.3,82,56,0.72
+error: undefined method `first' for nil:NilClass,Taryn,Grainge,tgraingej@google.de,46,F,Albany,NY,United States,Los Angeles Lakers,Kristaps Porzingis,Seattle Storm,hats,Dollar,6,7,10.2,57,41,0.41
+error: undefined method `first' for nil:NilClass,Liane,Dmych,ldmychk@github.com,52,F,Denver,CO,United States,Los Angeles Lakers,Giannis Antetokounmpo,Washington Mystics,jerseys,Dollar,0,5,4.5,78,78,0.75
+error: undefined method `first' for nil:NilClass,Netti,Lorinez,nlorinezl@webnode.com,62,F,Modesto,CA,United States,Golden State Warriors,Trae Young,Washington Mystics,keychains,Dollar,2,1,4.4,78,59,0.61
+error: undefined method `first' for nil:NilClass,Salomi,Uttridge,suttridgem@yale.edu,59,F,Colorado Springs,CO,United States,Los Angeles Lakers,DeMar DeRozan,Chicago Sky,posters,Dollar,1,0,7.9,78,71,0.72
+error: undefined method `first' for nil:NilClass,Letti,Faivre,lfaivren@acquirethisname.com,69,F,Fort Myers,FL,United States,Golden State Warriors,D'Angelo Russell,Los Angeles Sparks,socks,Dollar,4,1,11.5,63,49,0.55
+error: undefined method `first' for nil:NilClass,Rollin,Etchingham,retchinghamo@irs.gov,42,M,Buffalo,NY,United States,Golden State Warriors,Domantas Sabonis,Chicago Sky,blankets,Dollar,0,8,6.7,30,43,0.77
+error: undefined method `first' for nil:NilClass,Brinn,Delap,bdelapp@hibu.com,20,F,Kansas City,MO,United States,Philadelphia 76ers,Kawhi Leonard,Washington Mystics,posters,Dollar,6,5,8.1,57,72,0.44
+error: undefined method `first' for nil:NilClass,Christine,Buxton,cbuxtonq@wikipedia.org,66,F,Los Angeles,CA,United States,Miami Heat,Dejounte Murray,Washington Mystics,jerseys,Dollar,5,2,5.2,45,48,0.52
+error: undefined method `first' for nil:NilClass,Kalil,Cowx,kcowxr@mozilla.com,21,M,Oakland,CA,United States,Chicago Bulls,De'Aaron Fox,Los Angeles Sparks,phone cases,Dollar,5,5,7.1,52,40,0.68
+error: undefined method `first' for nil:NilClass,Tannie,Currey,tcurreys@hud.gov,69,M,Englewood,CO,United States,Boston Celtics,Brandon Ingram,Las Vegas Aces,phone cases,Dollar,1,0,7.9,47,41,0.72
+error: undefined method `first' for nil:NilClass,Kippie,Hoffmann,khoffmannt@cdc.gov,76,M,Tampa,FL,United States,Dallas Mavericks,John Collins,Phoenix Mercury,backpacks,Dollar,4,8,6.6,90,59,0.37
+error: undefined method `first' for nil:NilClass,Adah,Care,acareu@hhs.gov,54,F,Norfolk,VA,United States,Dallas Mavericks,Pascal Siakam,Chicago Sky,backpacks,Dollar,6,1,11.9,34,70,0.41
+error: undefined method `first' for nil:NilClass,Donalt,Greenard,dgreenardv@unicef.org,61,M,Largo,FL,United States,Los Angeles Lakers,Julius Randle,,water bottles,Dollar,4,2,10.9,73,72,0.6
+error: undefined method `first' for nil:NilClass,Coleen,Holstein,cholsteinw@fotki.com,67,F,Las Vegas,NV,United States,Miami Heat,Joel Embiid,Phoenix Mercury,water bottles,Dollar,4,4,8.4,45,49,0.56
+error: undefined method `first' for nil:NilClass,Maryrose,Mulhill,mmulhillx@tripadvisor.com,57,F,Las Vegas,NV,United States,Boston Celtics,Julius Randle,,sweatshirts,Dollar,1,1,10.2,65,76,0.41
+error: undefined method `first' for nil:NilClass,Tobey,Heinzler,theinzlery@people.com.cn,63,F,Columbia,SC,United States,Chicago Bulls,Bradley Beal,Los Angeles Sparks,posters,Dollar,2,5,8.7,51,71,0.45
+error: undefined method `first' for nil:NilClass,Gene,Menichino,gmenichinoz@mashable.com,77,M,South Bend,IN,United States,Philadelphia 76ers,Zach LaVine,Las Vegas Aces,blankets,Dollar,4,1,5.4,70,76,0.78
+error: undefined method `first' for nil:NilClass,Justine,Crat,jcrat10@canalblog.com,18,F,Billings,MT,United States,Los Angeles Lakers,Kristaps Porzingis,Washington Mystics,sweatshirts,Dollar,6,8,9.2,38,62,0.32
+error: undefined method `first' for nil:NilClass,Farleigh,MacDougall,fmacdougall11@trellian.com,69,M,Houston,TX,United States,Golden State Warriors,Tobias Harris,,jerseys,Dollar,0,4,11.6,41,80,0.6
+error: undefined method `first' for nil:NilClass,Kordula,Ottley,kottley12@home.pl,38,F,Hartford,CT,United States,Boston Celtics,Kyle Lowry,Las Vegas Aces,socks,Dollar,4,2,5.6,71,80,0.51
+error: undefined method `first' for nil:NilClass,Dolley,Broggini,dbroggini13@last.fm,34,F,Los Angeles,CA,United States,Chicago Bulls,Kyrie Irving,Las Vegas Aces,keychains,Dollar,6,5,10.4,65,55,0.79
+error: undefined method `first' for nil:NilClass,Ozzy,Dawtrey,odawtrey14@ask.com,74,M,San Antonio,TX,United States,Los Angeles Lakers,Klay Thompson,Seattle Storm,jerseys,Dollar,3,4,10.4,39,43,0.58
+error: undefined method `first' for nil:NilClass,Lu,Cormack,lcormack15@nhs.uk,35,F,Phoenix,AZ,United States,Los Angeles Lakers,Kyle Lowry,Los Angeles Sparks,keychains,Dollar,2,8,8.2,67,59,0.42
+error: undefined method `first' for nil:NilClass,Isiahi,Grogono,igrogono16@mysql.com,69,M,Raleigh,NC,United States,Dallas Mavericks,Jamal Murray,New York Liberty,hats,Dollar,6,8,9.6,81,63,0.76
+error: undefined method `first' for nil:NilClass,Harland,Livingstone,hlivingstone17@addtoany.com,61,M,Phoenix,AZ,United States,Denver Nuggets,Russell Westbrook,Seattle Storm,keychains,Dollar,1,7,10.1,71,57,0.67
+error: undefined method `first' for nil:NilClass,Galina,Elleyne,gelleyne18@fda.gov,40,F,Virginia Beach,VA,United States,Houston Rockets,Jamal Murray,,sweatshirts,Dollar,6,6,4.7,53,77,0.55
+error: undefined method `first' for nil:NilClass,Sarah,Blewmen,sblewmen19@1und1.de,26,F,Topeka,KS,United States,Philadelphia 76ers,Kyle Lowry,Dallas Wings,water bottles,Dollar,4,5,10.5,33,48,0.64
+error: undefined method `first' for nil:NilClass,Quintilla,Togwell,qtogwell1a@amazon.co.uk,60,F,Vancouver,WA,United States,Los Angeles Lakers,Stephen Curry,New York Liberty,blankets,Dollar,5,2,7.9,50,74,0.61
+error: undefined method `first' for nil:NilClass,Denna,Merriment,dmerriment1b@webmd.com,56,F,Fort Smith,AR,United States,Golden State Warriors,DeMar DeRozan,,blankets,Dollar,0,3,5.6,69,64,0.51
+error: undefined method `first' for nil:NilClass,Michal,Biggerstaff,mbiggerstaff1c@nytimes.com,77,M,Atlanta,GA,United States,Dallas Mavericks,Myles Turner,Los Angeles Sparks,hats,Dollar,5,3,8.9,75,62,0.4
+error: undefined method `first' for nil:NilClass,Alli,Bottini,abottini1d@nifty.com,44,F,Schenectady,NY,United States,Denver Nuggets,LeBron James,,socks,Dollar,0,6,6.8,82,55,0.73
+error: undefined method `first' for nil:NilClass,Mae,Python,mpython1e@multiply.com,64,F,Saint Joseph,MO,United States,Golden State Warriors,Julius Randle,,sweatshirts,Dollar,6,8,7.9,60,59,0.67
+error: undefined method `first' for nil:NilClass,Gar,Daniaud,gdaniaud1f@accuweather.com,26,M,Washington,DC,United States,Houston Rockets,Kyrie Irving,Minnesota Lynx,keychains,Dollar,3,2,6.4,82,80,0.37
+error: undefined method `first' for nil:NilClass,Nealson,MacClenan,nmacclenan1g@t.co,76,M,Houston,TX,United States,Toronto Raptors,Zion Williamson,Dallas Wings,keychains,Dollar,6,3,8.9,56,52,0.66
+error: undefined method `first' for nil:NilClass,Donielle,Rossander,drossander1h@mayoclinic.com,30,F,Tucson,AZ,United States,Dallas Mavericks,Stephen Curry,,phone cases,Dollar,3,1,8.5,50,68,0.76
+error: undefined method `first' for nil:NilClass,Zach,Swannack,zswannack1i@networkadvertising.org,60,M,Roanoke,VA,United States,Los Angeles Lakers,CJ McCollum,,water bottles,Dollar,4,1,6.3,77,65,0.44
+error: undefined method `first' for nil:NilClass,Rozanne,Brasseur,rbrasseur1j@alibaba.com,44,F,Bozeman,MT,United States,Miami Heat,Russell Westbrook,Los Angeles Sparks,sweatshirts,Dollar,4,7,5.0,40,64,0.79
+error: undefined method `first' for nil:NilClass,Myriam,Saltsberger,msaltsberger1k@ed.gov,49,F,Kansas City,MO,United States,Houston Rockets,Shai Gilgeous-Alexander,,backpacks,Dollar,1,2,6.5,35,77,0.53
+error: undefined method `first' for nil:NilClass,Maitilde,Valentin,mvalentin1l@i2i.jp,49,F,Shawnee Mission,KS,United States,Boston Celtics,Tobias Harris,Chicago Sky,socks,Dollar,4,8,4.7,37,73,0.74
+error: undefined method `first' for nil:NilClass,Tyne,Finnemore,tfinnemore1m@loc.gov,47,F,Knoxville,TN,United States,Boston Celtics,Donovan Mitchell,Seattle Storm,phone cases,Dollar,5,6,9.9,79,60,0.39
+error: undefined method `first' for nil:NilClass,Katie,Blodg,kblodg1n@netvibes.com,23,F,Chicago,IL,United States,Golden State Warriors,Giannis Antetokounmpo,Las Vegas Aces,socks,Dollar,0,8,7.6,86,73,0.61
+error: undefined method `first' for nil:NilClass,Bird,Mynott,bmynott1o@microsoft.com,20,F,Orange,CA,United States,Dallas Mavericks,Karl-Anthony Towns,Las Vegas Aces,sweatshirts,Dollar,2,1,7.9,30,41,0.73
+error: undefined method `first' for nil:NilClass,Feodor,Wane,fwane1p@weibo.com,37,M,El Paso,TX,United States,Miami Heat,Dejounte Murray,Las Vegas Aces,backpacks,Dollar,3,7,5.5,78,54,0.67
+error: undefined method `first' for nil:NilClass,Abraham,Madine,amadine1q@mayoclinic.com,74,M,Montgomery,AL,United States,Boston Celtics,Kyle Lowry,Washington Mystics,water bottles,Dollar,2,6,5.6,42,53,0.45
+error: undefined method `first' for nil:NilClass,Olenolin,Jinkin,ojinkin1r@ask.com,72,M,Whittier,CA,United States,Miami Heat,John Collins,Dallas Wings,blankets,Dollar,1,7,4.0,64,75,0.67
+error: undefined method `first' for nil:NilClass,Berty,Tommaseo,btommaseo1s@ca.gov,49,M,Brockton,MA,United States,Toronto Raptors,Jaylen Brown,Dallas Wings,posters,Dollar,5,8,8.7,75,42,0.8
+error: undefined method `first' for nil:NilClass,Rawley,Marshall,rmarshall1t@webs.com,61,M,San Francisco,CA,United States,Dallas Mavericks,Kawhi Leonard,Phoenix Mercury,phone cases,Dollar,5,3,10.1,72,77,0.74
+error: undefined method `first' for nil:NilClass,Hoyt,Penylton,hpenylton1u@de.vu,79,M,Boston,MA,United States,Chicago Bulls,Chris Paul,Las Vegas Aces,backpacks,Dollar,6,2,7.4,90,43,0.38
+error: undefined method `first' for nil:NilClass,Yance,Eliff,yeliff1v@npr.org,47,M,Omaha,NE,United States,Houston Rockets,Paul George,Minnesota Lynx,posters,Dollar,6,4,10.7,82,69,0.79
+error: undefined method `first' for nil:NilClass,Pier,Lagne,plagne1w@arstechnica.com,24,F,Denton,TX,United States,Golden State Warriors,Donovan Mitchell,Washington Mystics,water bottles,Dollar,6,0,6.9,83,64,0.54
+error: undefined method `first' for nil:NilClass,Zebulon,O'Cahsedy,zocahsedy1x@barnesandnoble.com,37,M,Tulsa,OK,United States,Los Angeles Lakers,Jimmy Butler,,hats,Dollar,5,4,9.1,70,56,0.43
+error: undefined method `first' for nil:NilClass,Thalia,Tinkler,ttinkler1y@reference.com,76,F,Austin,TX,United States,Miami Heat,LeBron James,Los Angeles Sparks,backpacks,Dollar,3,6,9.7,67,52,0.34
+error: undefined method `first' for nil:NilClass,Tobiah,Cossentine,tcossentine1z@nhs.uk,43,M,Birmingham,AL,United States,Miami Heat,Pascal Siakam,,phone cases,Dollar,3,7,10.3,42,69,0.76
+error: undefined method `first' for nil:NilClass,Colet,Earie,cearie20@google.de,76,M,Norfolk,VA,United States,Golden State Warriors,Ben Simmons,Phoenix Mercury,water bottles,Dollar,2,6,4.3,30,42,0.56
+error: undefined method `first' for nil:NilClass,Reidar,Wattisham,rwattisham21@tamu.edu,30,M,Boulder,CO,United States,Philadelphia 76ers,Pascal Siakam,New York Liberty,phone cases,Dollar,6,7,4.3,39,59,0.54
+error: undefined method `first' for nil:NilClass,Ray,Stones,rstones22@networkadvertising.org,35,F,Portland,OR,United States,Denver Nuggets,Ben Simmons,,jerseys,Dollar,6,8,5.4,35,50,0.41
+error: undefined method `first' for nil:NilClass,Fabian,Wilbraham,fwilbraham23@wikia.com,67,M,Virginia Beach,VA,United States,Golden State Warriors,Damian Lillard,,sweatshirts,Dollar,2,7,9.9,67,73,0.37
+error: undefined method `first' for nil:NilClass,Simone,Derricoat,sderricoat24@addthis.com,49,F,Springfield,IL,United States,Philadelphia 76ers,Brandon Ingram,Chicago Sky,jerseys,Dollar,0,3,8.0,66,45,0.4
+error: undefined method `first' for nil:NilClass,Peter,Trubshaw,ptrubshaw25@woothemes.com,27,M,Corpus Christi,TX,United States,Miami Heat,Devin Booker,Dallas Wings,socks,Dollar,4,4,6.3,83,43,0.7
+error: undefined method `first' for nil:NilClass,Gypsy,Redholls,gredholls26@dot.gov,65,F,Bowie,MD,United States,Miami Heat,Myles Turner,,socks,Dollar,1,2,6.8,60,49,0.64
+error: undefined method `first' for nil:NilClass,Eugenia,Serris,eserris27@com.com,48,F,Fort Wayne,IN,United States,Miami Heat,John Collins,Washington Mystics,posters,Dollar,3,3,8.3,84,79,0.75
+error: undefined method `first' for nil:NilClass,Carlin,Weinmann,cweinmann28@shinystat.com,30,M,Southfield,MI,United States,Chicago Bulls,Donovan Mitchell,Washington Mystics,posters,Dollar,0,1,5.4,51,62,0.32
+error: undefined method `first' for nil:NilClass,Lutero,Pinwill,lpinwill29@spotify.com,27,M,Erie,PA,United States,Philadelphia 76ers,Kyrie Irving,Dallas Wings,phone cases,Dollar,1,5,6.2,33,55,0.36
+error: undefined method `first' for nil:NilClass,Ina,McGirr,imcgirr2a@acquirethisname.com,68,F,San Jose,CA,United States,Dallas Mavericks,Fred VanVleet,,blankets,Dollar,0,5,10.7,66,69,0.31
+error: undefined method `first' for nil:NilClass,Christa,Demangel,cdemangel2b@free.fr,66,F,Raleigh,NC,United States,Los Angeles Lakers,Fred VanVleet,Los Angeles Sparks,sweatshirts,Dollar,2,6,6.9,53,68,0.49
+error: undefined method `first' for nil:NilClass,Lila,Snedker,lsnedker2c@about.me,36,F,San Antonio,TX,United States,Golden State Warriors,Kawhi Leonard,,phone cases,Dollar,5,1,5.7,78,63,0.56
+error: undefined method `first' for nil:NilClass,Ludovico,Eckh,leckh2d@cam.ac.uk,45,M,Washington,DC,United States,Philadelphia 76ers,Klay Thompson,,sweatshirts,Dollar,4,2,9.0,42,77,0.71
+error: undefined method `first' for nil:NilClass,Tyrone,Sandifer,tsandifer2e@123-reg.co.uk,25,M,Cedar Rapids,IA,United States,Chicago Bulls,Zach LaVine,New York Liberty,keychains,Dollar,3,3,4.9,85,45,0.54
+error: undefined method `first' for nil:NilClass,Annadiane,MacRedmond,amacredmond2f@123-reg.co.uk,50,F,Garland,TX,United States,Los Angeles Lakers,Fred VanVleet,Seattle Storm,water bottles,Dollar,0,5,7.9,43,74,0.37
+error: undefined method `first' for nil:NilClass,Ricca,Clissell,rclissell2g@howstuffworks.com,35,F,Boca Raton,FL,United States,Denver Nuggets,D'Angelo Russell,Los Angeles Sparks,phone cases,Dollar,3,0,9.3,44,48,0.55
+error: undefined method `first' for nil:NilClass,Aloisia,Quantrill,aquantrill2h@biglobe.ne.jp,35,F,Shawnee Mission,KS,United States,Boston Celtics,Deandre Ayton,New York Liberty,keychains,Dollar,6,7,6.9,75,76,0.74
+error: undefined method `first' for nil:NilClass,Kali,Petrelluzzi,kpetrelluzzi2i@cnn.com,74,F,Miami,FL,United States,Los Angeles Lakers,James Harden,New York Liberty,blankets,Dollar,1,6,8.7,66,63,0.71
+error: undefined method `first' for nil:NilClass,Fredrick,Hearnden,fhearnden2j@youtu.be,79,M,New Bedford,MA,United States,Dallas Mavericks,LeBron James,Chicago Sky,backpacks,Dollar,5,1,11.4,82,65,0.56
+error: undefined method `first' for nil:NilClass,Niki,Gilfillan,ngilfillan2k@unicef.org,24,F,Juneau,AK,United States,Golden State Warriors,Shai Gilgeous-Alexander,New York Liberty,blankets,Dollar,1,6,8.2,90,75,0.55
+error: undefined method `first' for nil:NilClass,Quinn,Skuse,qskuse2l@yolasite.com,30,F,Huntsville,TX,United States,Houston Rockets,Jayson Tatum,Seattle Storm,jerseys,Dollar,4,1,8.4,45,66,0.37
+error: undefined method `first' for nil:NilClass,Zarla,Gamet,zgamet2m@reverbnation.com,38,F,Clearwater,FL,United States,Chicago Bulls,De'Aaron Fox,Washington Mystics,sweatshirts,Dollar,4,5,5.6,46,48,0.63
+error: undefined method `first' for nil:NilClass,Caprice,MacAlister,cmacalister2n@seesaa.net,24,F,Minneapolis,MN,United States,Miami Heat,Shai Gilgeous-Alexander,Las Vegas Aces,hats,Dollar,3,5,5.8,85,66,0.62
+error: undefined method `first' for nil:NilClass,Melony,Gircke,mgircke2o@opera.com,70,F,Washington,DC,United States,Chicago Bulls,Ben Simmons,,hats,Dollar,0,6,4.9,55,55,0.45
+error: undefined method `first' for nil:NilClass,Susette,Callaby,scallaby2p@nature.com,19,F,Charlotte,NC,United States,Toronto Raptors,D'Angelo Russell,,hats,Dollar,6,7,4.1,80,50,0.79
+error: undefined method `first' for nil:NilClass,Hilly,Doig,hdoig2q@mit.edu,48,M,Orlando,FL,United States,Golden State Warriors,CJ McCollum,,backpacks,Dollar,5,6,10.5,56,48,0.31
+error: undefined method `first' for nil:NilClass,Marthe,Dimitrov,mdimitrov2r@1und1.de,29,F,Dallas,TX,United States,Miami Heat,Domantas Sabonis,New York Liberty,water bottles,Dollar,6,2,5.4,90,49,0.57
+error: undefined method `first' for nil:NilClass,Kennie,Hadenton,khadenton2s@wikispaces.com,77,M,Hartford,CT,United States,Philadelphia 76ers,Jaylen Brown,New York Liberty,socks,Dollar,0,5,9.5,76,56,0.59
+error: undefined method `first' for nil:NilClass,Jeramey,Arckoll,jarckoll2t@blogtalkradio.com,30,M,Houston,TX,United States,Houston Rockets,Donovan Mitchell,,water bottles,Dollar,3,8,11.9,89,41,0.33
+error: undefined method `first' for nil:NilClass,Karlik,Tolerton,ktolerton2u@virginia.edu,37,M,New York City,NY,United States,Toronto Raptors,Jaylen Brown,,jerseys,Dollar,4,7,9.6,71,76,0.52
+error: undefined method `first' for nil:NilClass,Rina,Guidetti,rguidetti2v@addtoany.com,25,F,Corona,CA,United States,Philadelphia 76ers,Rudy Gobert,Chicago Sky,socks,Dollar,3,3,9.0,56,56,0.42
+error: undefined method `first' for nil:NilClass,Gerrie,Tuckerman,gtuckerman2w@webnode.com,74,M,Winston Salem,NC,United States,Houston Rockets,LeBron James,,posters,Dollar,0,2,5.4,77,54,0.66
+error: undefined method `first' for nil:NilClass,Filberte,Kurdani,fkurdani2x@google.it,41,M,Atlanta,GA,United States,Denver Nuggets,Zion Williamson,Minnesota Lynx,water bottles,Dollar,4,3,4.3,53,50,0.54
+error: undefined method `first' for nil:NilClass,Steward,Showalter,sshowalter2y@ning.com,20,M,Ashburn,VA,United States,Houston Rockets,Kyrie Irving,Seattle Storm,sweatshirts,Dollar,5,6,8.4,82,74,0.8
+error: undefined method `first' for nil:NilClass,Avivah,Worsnup,aworsnup2z@mlb.com,19,F,Orlando,FL,United States,Golden State Warriors,Zach LaVine,Phoenix Mercury,socks,Dollar,1,5,10.3,67,79,0.54
+error: undefined method `first' for nil:NilClass,Helene,McGovern,hmcgovern30@paginegialle.it,20,F,Los Angeles,CA,United States,Philadelphia 76ers,Klay Thompson,,socks,Dollar,0,6,4.9,53,77,0.43
+error: undefined method `first' for nil:NilClass,Basilius,Insko,binsko31@google.com.br,35,M,Richmond,VA,United States,Dallas Mavericks,DeMar DeRozan,Atlanta Dream,posters,Dollar,4,4,7.5,52,70,0.4
+error: undefined method `first' for nil:NilClass,Marlyn,Blomefield,mblomefield32@apache.org,49,F,Providence,RI,United States,Philadelphia 76ers,Kyle Lowry,Washington Mystics,hats,Dollar,5,3,9.9,45,53,0.78
+error: undefined method `first' for nil:NilClass,Alano,Grimster,agrimster33@usa.gov,77,M,Huntington,WV,United States,Chicago Bulls,Karl-Anthony Towns,,sweatshirts,Dollar,1,8,9.0,87,50,0.53
+error: undefined method `first' for nil:NilClass,Laurena,Crallan,lcrallan34@godaddy.com,71,F,Harrisburg,PA,United States,Philadelphia 76ers,Jimmy Butler,Los Angeles Sparks,keychains,Dollar,3,8,8.5,66,59,0.75
+error: undefined method `first' for nil:NilClass,Kelly,Seadon,kseadon35@nps.gov,25,F,Chattanooga,TN,United States,Philadelphia 76ers,Tobias Harris,,phone cases,Dollar,4,0,6.0,61,63,0.63
+error: undefined method `first' for nil:NilClass,Fletch,McNea,fmcnea36@simplemachines.org,51,M,Chesapeake,VA,United States,Dallas Mavericks,Dejounte Murray,,phone cases,Dollar,1,8,11.1,39,47,0.47
+error: undefined method `first' for nil:NilClass,Claudetta,Pinar,cpinar37@yellowbook.com,31,F,Grand Rapids,MI,United States,Golden State Warriors,Deandre Ayton,Seattle Storm,keychains,Dollar,1,7,11.3,62,56,0.39
+error: undefined method `first' for nil:NilClass,Seline,Round,sround38@yelp.com,50,F,Wichita Falls,TX,United States,Los Angeles Lakers,Bradley Beal,,backpacks,Dollar,2,6,4.6,34,46,0.36
+error: undefined method `first' for nil:NilClass,Fabio,Pedracci,fpedracci39@gmpg.org,79,M,Atlanta,GA,United States,Denver Nuggets,Luka Doncic,Atlanta Dream,backpacks,Dollar,3,5,7.8,36,65,0.66
+error: undefined method `first' for nil:NilClass,Griz,Antonucci,gantonucci3a@skyrock.com,19,M,Independence,MO,United States,Chicago Bulls,Jayson Tatum,Phoenix Mercury,posters,Dollar,2,6,5.5,36,58,0.38
+error: undefined method `first' for nil:NilClass,Cristian,Meers,cmeers3b@seattletimes.com,69,M,Akron,OH,United States,Philadelphia 76ers,Tobias Harris,Atlanta Dream,posters,Dollar,0,6,7.8,86,68,0.53
+error: undefined method `first' for nil:NilClass,Mikel,Pulfer,mpulfer3c@adobe.com,29,M,Minneapolis,MN,United States,Philadelphia 76ers,Kyle Lowry,Minnesota Lynx,hats,Dollar,5,5,9.2,73,48,0.66
+error: undefined method `first' for nil:NilClass,Darby,Albasiny,dalbasiny3d@goodreads.com,55,M,Shawnee Mission,KS,United States,Los Angeles Lakers,Karl-Anthony Towns,,phone cases,Dollar,3,1,7.5,48,68,0.74
+error: undefined method `first' for nil:NilClass,Gardie,Doale,gdoale3e@tripadvisor.com,34,M,Milwaukee,WI,United States,Chicago Bulls,Paul George,Phoenix Mercury,backpacks,Dollar,4,0,6.2,54,49,0.56
+error: undefined method `first' for nil:NilClass,Dud,Shotboult,dshotboult3f@vk.com,24,M,Lafayette,LA,United States,Houston Rockets,Trae Young,Dallas Wings,water bottles,Dollar,0,0,5.6,48,66,0.62
+error: undefined method `first' for nil:NilClass,Clarabelle,Anton,canton3g@github.io,46,F,Tulsa,OK,United States,Dallas Mavericks,Karl-Anthony Towns,Los Angeles Sparks,phone cases,Dollar,2,7,9.2,86,74,0.71
+error: undefined method `first' for nil:NilClass,Babbie,Dyhouse,bdyhouse3h@gmpg.org,45,F,Asheville,NC,United States,Los Angeles Lakers,Ja Morant,Dallas Wings,phone cases,Dollar,6,7,9.1,57,53,0.68
+error: undefined method `first' for nil:NilClass,Jacinthe,Yukhnin,jyukhnin3i@wisc.edu,43,F,Canton,OH,United States,Los Angeles Lakers,DeMar DeRozan,Chicago Sky,backpacks,Dollar,3,2,4.6,79,75,0.55
+error: undefined method `first' for nil:NilClass,Gaile,Sharkey,gsharkey3j@smugmug.com,77,M,Houston,TX,United States,Dallas Mavericks,Deandre Ayton,Dallas Wings,blankets,Dollar,5,3,4.1,43,67,0.39
+error: undefined method `first' for nil:NilClass,Eloisa,Cardon,ecardon3k@dell.com,23,F,Philadelphia,PA,United States,Chicago Bulls,James Harden,Chicago Sky,blankets,Dollar,4,0,4.1,63,56,0.73
+error: undefined method `first' for nil:NilClass,Mattie,Franchioni,mfranchioni3l@foxnews.com,66,M,Lincoln,NE,United States,Philadelphia 76ers,Nikola Jokic,Minnesota Lynx,keychains,Dollar,4,8,11.6,30,64,0.78
+error: undefined method `first' for nil:NilClass,Andre,Stebbing,astebbing3m@va.gov,54,M,Terre Haute,IN,United States,Boston Celtics,Chris Paul,Atlanta Dream,sweatshirts,Dollar,1,0,11.6,72,41,0.71
+error: undefined method `first' for nil:NilClass,Loy,Peinton,lpeinton3n@aboutads.info,52,M,Tampa,FL,United States,Dallas Mavericks,Pascal Siakam,Dallas Wings,posters,Dollar,5,1,4.8,76,78,0.48
+error: undefined method `first' for nil:NilClass,Jania,Hawkshaw,jhawkshaw3o@last.fm,66,F,Louisville,KY,United States,Denver Nuggets,CJ McCollum,,backpacks,Dollar,1,4,10.1,41,51,0.3
+error: undefined method `first' for nil:NilClass,Barbabas,Harryman,bharryman3p@cbslocal.com,74,M,El Paso,TX,United States,Philadelphia 76ers,Anthony Davis,Minnesota Lynx,socks,Dollar,6,5,11.0,62,66,0.62
+error: undefined method `first' for nil:NilClass,Marlee,Pilsbury,mpilsbury3q@businesswire.com,24,F,Cincinnati,OH,United States,Los Angeles Lakers,Tobias Harris,,backpacks,Dollar,4,8,4.7,74,76,0.34
+error: undefined method `first' for nil:NilClass,Gerik,Minshall,gminshall3r@apache.org,57,M,Dallas,TX,United States,Philadelphia 76ers,Jaylen Brown,Washington Mystics,water bottles,Dollar,1,0,7.2,73,44,0.47
+error: undefined method `first' for nil:NilClass,Lydie,Skelbeck,lskelbeck3s@time.com,43,F,Anchorage,AK,United States,Los Angeles Lakers,Kawhi Leonard,,water bottles,Dollar,3,1,9.5,53,60,0.52
+error: undefined method `first' for nil:NilClass,Marisa,Choke,mchoke3t@bluehost.com,63,F,Tallahassee,FL,United States,Miami Heat,Shai Gilgeous-Alexander,Chicago Sky,hats,Dollar,0,7,7.1,40,77,0.45
+error: undefined method `first' for nil:NilClass,Elga,Bacop,ebacop3u@stanford.edu,74,F,Fairbanks,AK,United States,Boston Celtics,Karl-Anthony Towns,Minnesota Lynx,jerseys,Dollar,0,8,4.4,34,76,0.48
+error: undefined method `first' for nil:NilClass,Felicity,Elliot,felliot3v@wordpress.org,21,F,Wilkes Barre,PA,United States,Philadelphia 76ers,Ben Simmons,Los Angeles Sparks,blankets,Dollar,0,4,6.1,55,63,0.53
+error: undefined method `first' for nil:NilClass,Thomas,De Wolfe,tdewolfe3w@list-manage.com,74,M,Bakersfield,CA,United States,Miami Heat,Joel Embiid,Las Vegas Aces,socks,Dollar,6,5,8.7,61,50,0.53
+error: undefined method `first' for nil:NilClass,Robinson,Spurling,rspurling3x@newsvine.com,27,M,Oklahoma City,OK,United States,Boston Celtics,Brandon Ingram,Los Angeles Sparks,sweatshirts,Dollar,2,8,5.8,34,62,0.53
+error: undefined method `first' for nil:NilClass,Cindy,McCarle,cmccarle3y@huffingtonpost.com,43,F,Austin,TX,United States,Dallas Mavericks,Trae Young,,posters,Dollar,4,6,4.9,62,74,0.57
+error: undefined method `first' for nil:NilClass,Tybalt,Seyffert,tseyffert3z@ebay.com,66,M,San Francisco,CA,United States,Denver Nuggets,Kyle Lowry,Washington Mystics,jerseys,Dollar,3,8,9.8,66,55,0.65
+error: undefined method `first' for nil:NilClass,Heywood,Burnhams,hburnhams40@china.com.cn,57,M,Lexington,KY,United States,Chicago Bulls,Anthony Davis,Phoenix Mercury,posters,Dollar,1,5,7.5,70,41,0.4
+error: undefined method `first' for nil:NilClass,Ignaz,Hexter,ihexter41@constantcontact.com,79,M,Los Angeles,CA,United States,Houston Rockets,LeBron James,Las Vegas Aces,backpacks,Dollar,5,5,5.2,31,45,0.5
+error: undefined method `first' for nil:NilClass,Crosby,Gribbell,cgribbell42@biblegateway.com,36,M,Madison,WI,United States,Golden State Warriors,John Collins,Seattle Storm,keychains,Dollar,4,0,10.7,88,65,0.58
+error: undefined method `first' for nil:NilClass,Lenard,Matchitt,lmatchitt43@comcast.net,32,M,Anderson,IN,United States,Chicago Bulls,Joel Embiid,Los Angeles Sparks,keychains,Dollar,0,8,8.9,84,74,0.31
+error: undefined method `first' for nil:NilClass,Shurlocke,Weild,sweild44@cnbc.com,65,M,Fresno,CA,United States,Golden State Warriors,Paul George,Phoenix Mercury,jerseys,Dollar,6,7,6.9,75,71,0.52
+error: undefined method `first' for nil:NilClass,Whitman,Gauntley,wgauntley45@tinyurl.com,44,M,Grand Forks,ND,United States,Philadelphia 76ers,D'Angelo Russell,,keychains,Dollar,0,7,9.5,56,47,0.42
+error: undefined method `first' for nil:NilClass,Cinderella,Cormode,ccormode46@booking.com,71,F,Washington,DC,United States,Golden State Warriors,LeBron James,Los Angeles Sparks,backpacks,Dollar,1,5,7.6,82,44,0.64
+error: undefined method `first' for nil:NilClass,Denyse,Endon,dendon47@cmu.edu,67,F,Las Vegas,NV,United States,Dallas Mavericks,De'Aaron Fox,Phoenix Mercury,backpacks,Dollar,4,8,8.1,31,74,0.59
+error: undefined method `first' for nil:NilClass,Sapphira,Mateos,smateos48@sohu.com,30,F,Saint Louis,MO,United States,Denver Nuggets,Bradley Beal,Chicago Sky,keychains,Dollar,1,7,4.0,67,46,0.67
+error: undefined method `first' for nil:NilClass,Carney,de Broke,cdebroke49@google.pl,66,M,Knoxville,TN,United States,Boston Celtics,Julius Randle,,keychains,Dollar,6,1,10.2,52,77,0.8
+error: undefined method `first' for nil:NilClass,Sher,Norres,snorres4a@ehow.com,29,F,Washington,DC,United States,Los Angeles Lakers,Russell Westbrook,,sweatshirts,Dollar,5,2,5.6,87,79,0.53
+error: undefined method `first' for nil:NilClass,Olympie,O'Fihily,oofihily4b@forbes.com,38,F,Norwalk,CT,United States,Miami Heat,CJ McCollum,,socks,Dollar,1,6,4.1,45,44,0.52
+error: undefined method `first' for nil:NilClass,Bette,Bour,bbour4c@typepad.com,28,F,Birmingham,AL,United States,Los Angeles Lakers,CJ McCollum,Dallas Wings,keychains,Dollar,6,5,10.1,70,51,0.32
+error: undefined method `first' for nil:NilClass,Shaylah,Beckett,sbeckett4d@hubpages.com,36,F,Abilene,TX,United States,Philadelphia 76ers,Domantas Sabonis,Seattle Storm,backpacks,Dollar,3,7,6.3,89,59,0.45
+error: undefined method `first' for nil:NilClass,Peyton,Cruddas,pcruddas4e@comcast.net,79,M,Phoenix,AZ,United States,Denver Nuggets,Brandon Ingram,Dallas Wings,socks,Dollar,2,3,9.1,65,59,0.32
+error: undefined method `first' for nil:NilClass,Hedvig,Thurston,hthurston4f@nationalgeographic.com,33,F,Pensacola,FL,United States,Golden State Warriors,Jaylen Brown,Chicago Sky,sweatshirts,Dollar,2,5,6.6,90,40,0.37
+error: undefined method `first' for nil:NilClass,Esmeralda,Woolforde,ewoolforde4g@guardian.co.uk,56,F,Johnstown,PA,United States,Golden State Warriors,Jayson Tatum,New York Liberty,sweatshirts,Dollar,3,1,5.1,38,48,0.75
+error: undefined method `first' for nil:NilClass,Clifford,Lebrun,clebrun4h@guardian.co.uk,24,M,Lansing,MI,United States,Los Angeles Lakers,Kristaps Porzingis,Atlanta Dream,water bottles,Dollar,1,3,9.5,32,56,0.45
+error: undefined method `first' for nil:NilClass,Holly,Moreno,hmoreno4i@omniture.com,20,M,Oklahoma City,OK,United States,Miami Heat,Stephen Curry,Phoenix Mercury,water bottles,Dollar,5,1,6.7,39,72,0.32
+error: undefined method `first' for nil:NilClass,Ardelis,Castellino,acastellino4j@cdc.gov,24,F,Washington,DC,United States,Denver Nuggets,De'Aaron Fox,Washington Mystics,hats,Dollar,3,7,8.1,81,80,0.46
+error: undefined method `first' for nil:NilClass,Rafe,Clack,rclack4k@youtu.be,25,M,Lake Worth,FL,United States,Denver Nuggets,Jaylen Brown,Minnesota Lynx,socks,Dollar,5,5,8.3,42,44,0.47
+error: undefined method `first' for nil:NilClass,Adelind,Fowlestone,afowlestone4l@bizjournals.com,21,F,Milwaukee,WI,United States,Dallas Mavericks,LeBron James,,posters,Dollar,4,0,7.3,72,58,0.35
+error: undefined method `first' for nil:NilClass,Ethelbert,Janikowski,ejanikowski4m@jiathis.com,54,M,Philadelphia,PA,United States,Miami Heat,Luka Doncic,Atlanta Dream,posters,Dollar,6,6,8.4,81,40,0.71
+error: undefined method `first' for nil:NilClass,Myer,Bullar,mbullar4n@imgur.com,35,M,Cincinnati,OH,United States,Denver Nuggets,John Collins,Dallas Wings,posters,Dollar,0,0,9.8,63,52,0.38
+error: undefined method `first' for nil:NilClass,Yoshi,Mycroft,ymycroft4o@delicious.com,55,F,San Francisco,CA,United States,Los Angeles Lakers,Pascal Siakam,Dallas Wings,blankets,Dollar,6,6,7.5,51,74,0.6
+error: undefined method `first' for nil:NilClass,Forbes,Fleeming,ffleeming4p@chron.com,21,M,Cincinnati,OH,United States,Houston Rockets,Anthony Davis,,socks,Dollar,6,6,5.2,35,63,0.41
+error: undefined method `first' for nil:NilClass,Fredrick,Bratty,fbratty4q@furl.net,62,M,Lafayette,IN,United States,Denver Nuggets,Dejounte Murray,Atlanta Dream,posters,Dollar,2,6,10.7,76,78,0.5
+error: undefined method `first' for nil:NilClass,Jaquenetta,Schrei,jschrei4r@google.cn,67,F,Fort Myers,FL,United States,Los Angeles Lakers,Trae Young,Washington Mystics,water bottles,Dollar,2,7,7.3,32,52,0.54
+error: undefined method `first' for nil:NilClass,Malvina,Slevin,mslevin4s@guardian.co.uk,30,F,Denver,CO,United States,Miami Heat,Jimmy Butler,Las Vegas Aces,phone cases,Dollar,4,3,7.6,62,78,0.46
+error: undefined method `first' for nil:NilClass,Evvie,Glasper,eglasper4t@facebook.com,71,F,Minneapolis,MN,United States,Golden State Warriors,Joel Embiid,Dallas Wings,blankets,Dollar,0,8,10.6,33,46,0.36
+error: undefined method `first' for nil:NilClass,Jo ann,Arkle,jarkle4u@amazon.com,63,F,Boston,MA,United States,Golden State Warriors,Luka Doncic,,posters,Dollar,0,2,9.5,41,56,0.77
+error: undefined method `first' for nil:NilClass,Chane,Walbrook,cwalbrook4v@harvard.edu,28,M,Colorado Springs,CO,United States,Los Angeles Lakers,Fred VanVleet,New York Liberty,posters,Dollar,4,6,6.3,57,79,0.38
+error: undefined method `first' for nil:NilClass,Jarrid,Freckingham,jfreckingham4w@geocities.jp,64,M,Young America,MN,United States,Miami Heat,Bradley Beal,Los Angeles Sparks,keychains,Dollar,3,6,5.6,83,41,0.78
+error: undefined method `first' for nil:NilClass,Andrej,Kornacki,akornacki4x@sun.com,58,M,Lexington,KY,United States,Dallas Mavericks,Fred VanVleet,Las Vegas Aces,posters,Dollar,4,3,9.8,55,44,0.63
+error: undefined method `first' for nil:NilClass,Gay,Seeks,gseeks4y@arstechnica.com,24,F,Milwaukee,WI,United States,Los Angeles Lakers,Shai Gilgeous-Alexander,Seattle Storm,posters,Dollar,5,7,8.5,41,64,0.72
+error: undefined method `first' for nil:NilClass,Editha,Creboe,ecreboe4z@zdnet.com,49,F,Vero Beach,FL,United States,Golden State Warriors,Devin Booker,Chicago Sky,posters,Dollar,1,1,4.6,47,40,0.42
+error: undefined method `first' for nil:NilClass,Sutherlan,Shallcrass,sshallcrass50@so-net.ne.jp,69,M,Wichita,KS,United States,Philadelphia 76ers,Karl-Anthony Towns,Chicago Sky,jerseys,Dollar,6,5,6.4,37,56,0.66
+error: undefined method `first' for nil:NilClass,Timoteo,Kernan,tkernan51@dagondesign.com,22,M,Lexington,KY,United States,Los Angeles Lakers,Bam Adebayo,,backpacks,Dollar,3,4,9.0,90,66,0.71
+error: undefined method `first' for nil:NilClass,Lorrayne,Fowley,lfowley52@nba.com,67,F,Albuquerque,NM,United States,Miami Heat,Pascal Siakam,Atlanta Dream,keychains,Dollar,1,3,10.0,71,54,0.32
+error: undefined method `first' for nil:NilClass,Nevil,Peyton,npeyton53@elpais.com,43,M,San Antonio,TX,United States,Golden State Warriors,Stephen Curry,Chicago Sky,phone cases,Dollar,4,4,7.0,63,50,0.47
+error: undefined method `first' for nil:NilClass,Moria,Usborn,musborn54@vkontakte.ru,47,F,Washington,DC,United States,Golden State Warriors,Nikola Jokic,Las Vegas Aces,phone cases,Dollar,0,1,9.1,58,61,0.42
+error: undefined method `first' for nil:NilClass,Andros,Godwyn,agodwyn55@bluehost.com,20,M,Cincinnati,OH,United States,Toronto Raptors,Fred VanVleet,Chicago Sky,jerseys,Dollar,4,2,9.0,75,68,0.59
+error: undefined method `first' for nil:NilClass,Emlynn,Pickles,epickles56@vkontakte.ru,20,F,New York City,NY,United States,Philadelphia 76ers,Myles Turner,New York Liberty,phone cases,Dollar,4,2,8.9,58,67,0.57
+error: undefined method `first' for nil:NilClass,Bartholomeus,Jersh,bjersh57@miibeian.gov.cn,73,M,Seattle,WA,United States,Denver Nuggets,Fred VanVleet,,posters,Dollar,3,3,4.2,75,41,0.33
+error: undefined method `first' for nil:NilClass,Annice,Whipple,awhipple58@google.com.hk,75,F,Columbus,GA,United States,Dallas Mavericks,Giannis Antetokounmpo,Chicago Sky,blankets,Dollar,0,0,7.7,35,57,0.42
+error: undefined method `first' for nil:NilClass,Dominique,Goodwill,dgoodwill59@ed.gov,57,F,Milwaukee,WI,United States,Denver Nuggets,Kawhi Leonard,Las Vegas Aces,backpacks,Dollar,2,8,5.9,83,65,0.44
+error: undefined method `first' for nil:NilClass,Emyle,Terran,eterran5a@networkadvertising.org,60,F,Rochester,NY,United States,Los Angeles Lakers,Kevin Durant,,sweatshirts,Dollar,4,5,4.4,71,75,0.62
+error: undefined method `first' for nil:NilClass,Buddy,Baukham,bbaukham5b@cisco.com,46,M,Pensacola,FL,United States,Houston Rockets,Anthony Davis,Las Vegas Aces,backpacks,Dollar,1,7,5.7,84,73,0.46
+error: undefined method `first' for nil:NilClass,Clive,Diemer,cdiemer5c@umn.edu,62,M,Fresno,CA,United States,Boston Celtics,Karl-Anthony Towns,Washington Mystics,socks,Dollar,2,8,10.9,31,64,0.53
+error: undefined method `first' for nil:NilClass,Henrie,Daid,hdaid5d@wikia.com,42,F,Pompano Beach,FL,United States,Boston Celtics,Bradley Beal,Seattle Storm,sweatshirts,Dollar,0,1,8.8,65,67,0.47
+error: undefined method `first' for nil:NilClass,Clara,Brickell,cbrickell5e@dailymail.co.uk,27,F,Santa Ana,CA,United States,Chicago Bulls,Fred VanVleet,New York Liberty,blankets,Dollar,1,1,6.0,48,58,0.58
+error: undefined method `first' for nil:NilClass,Bank,Poulsum,bpoulsum5f@flickr.com,78,M,Houston,TX,United States,Chicago Bulls,Brandon Ingram,Washington Mystics,keychains,Dollar,4,4,11.6,81,48,0.7
+error: undefined method `first' for nil:NilClass,Matt,MacGarrity,mmacgarrity5g@phoca.cz,45,M,Plano,TX,United States,Golden State Warriors,Russell Westbrook,Las Vegas Aces,keychains,Dollar,6,7,5.2,72,75,0.5
+error: undefined method `first' for nil:NilClass,Donovan,Vooght,dvooght5h@dailymotion.com,60,M,Las Vegas,NV,United States,Dallas Mavericks,Ja Morant,Las Vegas Aces,water bottles,Dollar,6,4,6.0,73,46,0.52
+error: undefined method `first' for nil:NilClass,Tybalt,Van Velden,tvanvelden5i@usnews.com,21,M,Abilene,TX,United States,Los Angeles Lakers,Karl-Anthony Towns,,posters,Dollar,1,6,6.4,55,51,0.34
+error: undefined method `first' for nil:NilClass,Emilie,Reynard,ereynard5j@npr.org,75,F,Anaheim,CA,United States,Golden State Warriors,Domantas Sabonis,,keychains,Dollar,1,2,11.5,85,52,0.82
+error: undefined method `first' for nil:NilClass,Gerianne,Guillain,gguillain5k@google.com.br,40,F,Harrisburg,PA,United States,Golden State Warriors,CJ McCollum,Phoenix Mercury,backpacks,Dollar,0,0,4.9,72,54,0.81
+error: undefined method `first' for nil:NilClass,Haslett,Oliveti,holiveti5l@bbc.co.uk,57,M,Amarillo,TX,United States,Los Angeles Lakers,Pascal Siakam,New York Liberty,phone cases,Dollar,3,4,4.5,85,80,0.78
+error: undefined method `first' for nil:NilClass,Ami,Plumtree,aplumtree5m@forbes.com,38,F,Bowie,MD,United States,Miami Heat,Jamal Murray,Washington Mystics,posters,Dollar,4,3,4.4,77,49,0.36
+error: undefined method `first' for nil:NilClass,Sarge,Melbert,smelbert5n@japanpost.jp,28,M,Mesquite,TX,United States,Dallas Mavericks,LeBron James,Seattle Storm,water bottles,Dollar,4,2,8.1,64,63,0.31
+error: undefined method `first' for nil:NilClass,Pavla,Worster,pworster5o@mlb.com,37,F,Cleveland,OH,United States,Denver Nuggets,Kyle Lowry,,backpacks,Dollar,3,8,8.4,73,54,0.43
+error: undefined method `first' for nil:NilClass,Jae,Belchambers,jbelchambers5p@51.la,38,M,Tacoma,WA,United States,Golden State Warriors,Devin Booker,,backpacks,Dollar,1,6,11.1,46,57,0.46
+error: undefined method `first' for nil:NilClass,Raychel,Houselee,rhouselee5q@studiopress.com,28,F,Glendale,CA,United States,Golden State Warriors,Julius Randle,,water bottles,Dollar,6,6,6.9,60,52,0.51
+error: undefined method `first' for nil:NilClass,Christie,Matches,cmatches5r@unicef.org,57,M,Albuquerque,NM,United States,Golden State Warriors,Dejounte Murray,,jerseys,Dollar,0,1,7.6,46,72,0.55
+error: undefined method `first' for nil:NilClass,Ron,Mollindinia,rmollindinia5s@guardian.co.uk,42,M,Austin,TX,United States,Houston Rockets,DeMar DeRozan,Atlanta Dream,sweatshirts,Dollar,1,7,7.4,30,70,0.42
+error: undefined method `first' for nil:NilClass,Obadiah,MacCaffrey,omaccaffrey5t@techcrunch.com,24,M,Louisville,KY,United States,Miami Heat,Pascal Siakam,Las Vegas Aces,sweatshirts,Dollar,1,4,8.7,38,74,0.55
+error: undefined method `first' for nil:NilClass,Bradly,Scullion,bscullion5u@ed.gov,64,M,Albany,GA,United States,Philadelphia 76ers,Deandre Ayton,,phone cases,Dollar,0,0,11.4,47,70,0.8
+error: undefined method `first' for nil:NilClass,Hali,Debenham,hdebenham5v@abc.net.au,80,F,Portland,OR,United States,Dallas Mavericks,Myles Turner,Minnesota Lynx,hats,Dollar,6,8,7.5,47,70,0.51
+error: undefined method `first' for nil:NilClass,Lanette,Dresche,ldresche5w@cornell.edu,58,F,Washington,DC,United States,Dallas Mavericks,Deandre Ayton,Washington Mystics,posters,Dollar,4,3,9.0,70,43,0.51
+error: undefined method `first' for nil:NilClass,Margarethe,Boyer,mboyer5x@chronoengine.com,38,F,Visalia,CA,United States,Denver Nuggets,Tobias Harris,,posters,Dollar,3,7,9.9,52,79,0.4
+error: undefined method `first' for nil:NilClass,Cassi,Spurett,cspurett5y@yellowpages.com,75,F,Boston,MA,United States,Philadelphia 76ers,Kevin Durant,Las Vegas Aces,blankets,Dollar,6,6,5.3,75,77,0.35
+error: undefined method `first' for nil:NilClass,Paddie,Yakobowitch,pyakobowitch5z@amazon.co.jp,54,M,El Paso,TX,United States,Golden State Warriors,Russell Westbrook,Los Angeles Sparks,jerseys,Dollar,0,1,4.0,52,44,0.67
+error: undefined method `first' for nil:NilClass,Cullin,Lowless,clowless60@epa.gov,58,M,Tacoma,WA,United States,Miami Heat,Jaylen Brown,,jerseys,Dollar,3,6,7.8,65,40,0.74
+error: undefined method `first' for nil:NilClass,Ernst,Easthope,eeasthope61@cafepress.com,62,M,Anderson,IN,United States,Boston Celtics,Deandre Ayton,Minnesota Lynx,blankets,Dollar,0,7,7.6,76,52,0.63
+error: undefined method `first' for nil:NilClass,Ragnar,Hastewell,rhastewell62@stumbleupon.com,67,M,Philadelphia,PA,United States,Philadelphia 76ers,Fred VanVleet,,phone cases,Dollar,4,4,11.4,43,65,0.69
+error: undefined method `first' for nil:NilClass,Baryram,Ackroyd,backroyd63@feedburner.com,54,M,Des Moines,IA,United States,Houston Rockets,Luka Doncic,,sweatshirts,Dollar,1,1,10.4,89,57,0.57
+error: undefined method `first' for nil:NilClass,Jena,McKeurton,jmckeurton64@globo.com,40,F,Bronx,NY,United States,Miami Heat,Bradley Beal,Minnesota Lynx,blankets,Dollar,5,6,11.8,72,77,0.57
+error: undefined method `first' for nil:NilClass,Gypsy,Sudell,gsudell65@studiopress.com,73,F,Melbourne,FL,United States,Miami Heat,Kawhi Leonard,Washington Mystics,phone cases,Dollar,0,4,5.8,87,60,0.6
+error: undefined method `first' for nil:NilClass,Odie,Aspden,oaspden66@techcrunch.com,28,M,Lake Worth,FL,United States,Denver Nuggets,Chris Paul,Minnesota Lynx,posters,Dollar,3,7,7.9,88,61,0.33
+error: undefined method `first' for nil:NilClass,Trumaine,Samsonsen,tsamsonsen67@wordpress.org,31,M,Denver,CO,United States,Philadelphia 76ers,LeBron James,Washington Mystics,water bottles,Dollar,2,7,9.0,33,69,0.74
+error: undefined method `first' for nil:NilClass,Kanya,Ponceford,kponceford68@fda.gov,40,F,Kansas City,MO,United States,Chicago Bulls,Dejounte Murray,Los Angeles Sparks,posters,Dollar,5,2,8.3,88,72,0.72
+error: undefined method `first' for nil:NilClass,Arney,McNaughton,amcnaughton69@newyorker.com,74,M,Jacksonville,FL,United States,Philadelphia 76ers,De'Aaron Fox,Atlanta Dream,hats,Dollar,2,4,5.2,50,51,0.58
+error: undefined method `first' for nil:NilClass,Maurise,Firmin,mfirmin6a@domainmarket.com,32,F,Fresno,CA,United States,Miami Heat,Julius Randle,Las Vegas Aces,keychains,Dollar,5,8,9.7,51,75,0.32
+error: undefined method `first' for nil:NilClass,Michel,Brankley,mbrankley6b@discuz.net,61,F,Peoria,IL,United States,Los Angeles Lakers,Bam Adebayo,,phone cases,Dollar,3,7,9.2,45,77,0.41
+error: undefined method `first' for nil:NilClass,Fabian,Messenger,fmessenger6c@twitpic.com,47,M,Southfield,MI,United States,Dallas Mavericks,CJ McCollum,,socks,Dollar,4,0,8.4,32,47,0.61
+error: undefined method `first' for nil:NilClass,Becka,Aggio,baggio6d@posterous.com,61,F,Naperville,IL,United States,Houston Rockets,Kyle Lowry,Washington Mystics,hats,Dollar,2,8,9.2,69,69,0.41
+error: undefined method `first' for nil:NilClass,Adelind,Jerrand,ajerrand6e@amazonaws.com,41,F,Northridge,CA,United States,Miami Heat,Russell Westbrook,,keychains,Dollar,1,0,9.7,54,74,0.32
+error: undefined method `first' for nil:NilClass,Franny,Higford,fhigford6f@furl.net,75,F,Des Moines,IA,United States,Miami Heat,Joel Embiid,Las Vegas Aces,keychains,Dollar,4,1,4.2,45,43,0.73
+error: undefined method `first' for nil:NilClass,Austin,Spurman,aspurman6g@nhs.uk,54,M,Springfield,MA,United States,Chicago Bulls,Giannis Antetokounmpo,,jerseys,Dollar,1,3,6.7,41,76,0.35
+error: undefined method `first' for nil:NilClass,Norine,Dalwood,ndalwood6h@facebook.com,51,F,Columbus,GA,United States,Chicago Bulls,Ben Simmons,Las Vegas Aces,posters,Dollar,1,8,4.3,49,80,0.7
+error: undefined method `first' for nil:NilClass,Timotheus,Hawe,thawe6i@cocolog-nifty.com,20,M,Monticello,MN,United States,Golden State Warriors,Luka Doncic,Seattle Storm,water bottles,Dollar,4,2,6.7,84,77,0.81
+error: undefined method `first' for nil:NilClass,Margi,Nassie,mnassie6j@wikispaces.com,75,F,Billings,MT,United States,Toronto Raptors,Nikola Jokic,,hats,Dollar,1,8,5.7,52,55,0.33
+error: undefined method `first' for nil:NilClass,Desmund,Tether,dtether6k@accuweather.com,67,M,Pittsburgh,PA,United States,Houston Rockets,Kyle Lowry,Phoenix Mercury,jerseys,Dollar,0,8,9.5,33,78,0.73
+error: undefined method `first' for nil:NilClass,Cesya,Robiou,crobiou6l@dell.com,79,F,Long Beach,CA,United States,Philadelphia 76ers,Kyle Lowry,Chicago Sky,backpacks,Dollar,0,8,7.6,83,59,0.74
+error: undefined method `first' for nil:NilClass,Ky,Loftin,kloftin6m@live.com,48,M,Tulsa,OK,United States,Golden State Warriors,LeBron James,New York Liberty,jerseys,Dollar,6,8,9.7,81,70,0.78
+error: undefined method `first' for nil:NilClass,Brit,Cloney,bcloney6n@github.io,39,M,Cape Coral,FL,United States,Boston Celtics,Ja Morant,Phoenix Mercury,backpacks,Dollar,0,4,10.5,39,56,0.8
+error: undefined method `first' for nil:NilClass,Ara,A'field,aafield6o@jigsy.com,36,M,Littleton,CO,United States,Los Angeles Lakers,Kawhi Leonard,Washington Mystics,jerseys,Dollar,5,1,10.7,55,47,0.49
+error: undefined method `first' for nil:NilClass,Greg,Felmingham,gfelmingham6p@foxnews.com,79,M,Syracuse,NY,United States,Denver Nuggets,James Harden,Minnesota Lynx,backpacks,Dollar,0,5,8.6,86,63,0.8
+error: undefined method `first' for nil:NilClass,Norry,Cristofvao,ncristofvao6q@dmoz.org,34,M,Irvine,CA,United States,Miami Heat,Anthony Davis,Seattle Storm,jerseys,Dollar,1,7,8.6,65,69,0.8
+error: undefined method `first' for nil:NilClass,Merrie,McCalum,mmccalum6r@statcounter.com,61,F,Baton Rouge,LA,United States,Golden State Warriors,Julius Randle,,sweatshirts,Dollar,2,6,5.3,37,52,0.49
+error: undefined method `first' for nil:NilClass,Zed,Aslum,zaslum6s@weibo.com,58,M,Daytona Beach,FL,United States,Golden State Warriors,Joel Embiid,New York Liberty,water bottles,Dollar,4,7,6.9,77,71,0.52
+error: undefined method `first' for nil:NilClass,Myriam,Andrei,mandrei6t@ox.ac.uk,65,F,Huntington,WV,United States,Dallas Mavericks,Stephen Curry,,socks,Dollar,3,8,10.9,73,65,0.65
+error: undefined method `first' for nil:NilClass,Marris,Terne,mterne6u@netscape.com,35,F,Amarillo,TX,United States,Philadelphia 76ers,De'Aaron Fox,,socks,Dollar,3,5,11.1,52,71,0.68
+error: undefined method `first' for nil:NilClass,Tansy,Huyche,thuyche6v@mayoclinic.com,51,F,Bethesda,MD,United States,Miami Heat,Tobias Harris,,jerseys,Dollar,1,3,6.3,36,65,0.8
+error: undefined method `first' for nil:NilClass,Aloisia,Cuttell,acuttell6w@biglobe.ne.jp,33,F,Aiken,SC,United States,Chicago Bulls,Bradley Beal,Minnesota Lynx,socks,Dollar,1,7,5.9,47,51,0.54
+error: undefined method `first' for nil:NilClass,Andonis,Dufaire,adufaire6x@cbslocal.com,69,M,Washington,DC,United States,Golden State Warriors,Donovan Mitchell,Seattle Storm,jerseys,Dollar,0,1,7.4,58,79,0.67
+error: undefined method `first' for nil:NilClass,Archy,Shanahan,ashanahan6y@sogou.com,78,M,Van Nuys,CA,United States,Houston Rockets,James Harden,Phoenix Mercury,sweatshirts,Dollar,0,0,7.6,86,53,0.58
+error: undefined method `first' for nil:NilClass,Betti,Lintill,blintill6z@businesswire.com,20,F,Birmingham,AL,United States,Los Angeles Lakers,Ja Morant,Phoenix Mercury,keychains,Dollar,2,6,9.9,67,50,0.37
+error: undefined method `first' for nil:NilClass,Franzen,Jakoviljevic,fjakoviljevic70@sun.com,38,M,Houston,TX,United States,Miami Heat,LeBron James,New York Liberty,sweatshirts,Dollar,5,7,10.7,33,80,0.74
+error: undefined method `first' for nil:NilClass,Carleton,Colthurst,ccolthurst71@ocn.ne.jp,57,M,Aurora,CO,United States,Philadelphia 76ers,Zion Williamson,Seattle Storm,backpacks,Dollar,2,2,7.8,85,62,0.71
+error: undefined method `first' for nil:NilClass,Rowen,Elleray,relleray72@nifty.com,75,M,Oklahoma City,OK,United States,Boston Celtics,Kyrie Irving,Chicago Sky,hats,Dollar,6,6,9.6,41,75,0.79
+error: undefined method `first' for nil:NilClass,Marleah,Curedale,mcuredale73@mit.edu,42,F,Oklahoma City,OK,United States,Toronto Raptors,Russell Westbrook,Los Angeles Sparks,jerseys,Dollar,5,4,4.7,52,78,0.75
+error: undefined method `first' for nil:NilClass,Malina,Boniface,mboniface74@bbb.org,42,F,Newport Beach,CA,United States,Denver Nuggets,Damian Lillard,Seattle Storm,backpacks,Dollar,2,4,12.0,81,65,0.42
+error: undefined method `first' for nil:NilClass,Sebastien,Rosen,srosen75@geocities.com,69,M,Las Vegas,NV,United States,Toronto Raptors,Anthony Davis,Phoenix Mercury,backpacks,Dollar,3,0,10.7,46,73,0.52
+error: undefined method `first' for nil:NilClass,Derril,Eby,deby76@gnu.org,25,M,Philadelphia,PA,United States,Chicago Bulls,Chris Paul,Los Angeles Sparks,hats,Dollar,0,2,6.8,87,41,0.31
+error: undefined method `first' for nil:NilClass,Alyda,Pople,apople77@marketwatch.com,42,F,Madison,WI,United States,Los Angeles Lakers,Shai Gilgeous-Alexander,Minnesota Lynx,jerseys,Dollar,6,7,10.3,32,67,0.7
+error: undefined method `first' for nil:NilClass,Wheeler,Foulsham,wfoulsham78@angelfire.com,46,M,Saint Louis,MO,United States,Boston Celtics,Bradley Beal,Washington Mystics,jerseys,Dollar,3,4,5.0,33,47,0.46
+error: undefined method `first' for nil:NilClass,Brewster,Grigorey,bgrigorey79@umich.edu,50,M,Tulsa,OK,United States,Miami Heat,Kyle Lowry,,water bottles,Dollar,0,2,9.8,85,77,0.5
+error: undefined method `first' for nil:NilClass,Reid,Pol,rpol7a@about.com,40,M,Charlotte,NC,United States,Chicago Bulls,Dejounte Murray,Minnesota Lynx,keychains,Dollar,2,0,9.9,48,62,0.59
+error: undefined method `first' for nil:NilClass,Patrick,Karoly,pkaroly7b@yolasite.com,77,M,Cleveland,OH,United States,Chicago Bulls,Kristaps Porzingis,Dallas Wings,backpacks,Dollar,3,5,7.0,55,51,0.82
+error: undefined method `first' for nil:NilClass,Latia,Leither,lleither7c@timesonline.co.uk,70,F,Memphis,TN,United States,Toronto Raptors,Brandon Ingram,,jerseys,Dollar,4,0,4.8,54,58,0.59
+error: undefined method `first' for nil:NilClass,Violante,Argabrite,vargabrite7d@cnet.com,19,F,Tulsa,OK,United States,Denver Nuggets,Kristaps Porzingis,,blankets,Dollar,1,4,8.8,62,41,0.52
+error: undefined method `first' for nil:NilClass,Christopher,Lamberts,clamberts7e@cmu.edu,79,M,Sacramento,CA,United States,Miami Heat,LeBron James,Las Vegas Aces,posters,Dollar,0,6,4.7,54,75,0.44
+error: undefined method `first' for nil:NilClass,Paola,Schustl,pschustl7f@blinklist.com,51,F,Lehigh Acres,FL,United States,Houston Rockets,Devin Booker,,keychains,Dollar,5,0,9.9,43,72,0.6
+error: undefined method `first' for nil:NilClass,Thebault,Dominicacci,tdominicacci7g@multiply.com,36,M,Austin,TX,United States,Los Angeles Lakers,Zach LaVine,Atlanta Dream,phone cases,Dollar,5,8,7.8,76,50,0.57
+error: undefined method `first' for nil:NilClass,Garreth,Pygott,gpygott7h@ted.com,61,M,Temple,TX,United States,Golden State Warriors,Jamal Murray,,posters,Dollar,1,2,7.9,33,51,0.62
+error: undefined method `first' for nil:NilClass,Bert,Ullock,bullock7i@deliciousdays.com,33,F,Tyler,TX,United States,Miami Heat,Jaylen Brown,,backpacks,Dollar,2,0,4.6,39,80,0.59
+error: undefined method `first' for nil:NilClass,Edin,McNeilley,emcneilley7j@spiegel.de,78,F,Hartford,CT,United States,Golden State Warriors,DeMar DeRozan,Dallas Wings,socks,Dollar,0,6,7.7,38,78,0.8
+error: undefined method `first' for nil:NilClass,Beverlee,Packwood,bpackwood7k@senate.gov,69,F,Orlando,FL,United States,Philadelphia 76ers,Domantas Sabonis,Chicago Sky,hats,Dollar,1,1,8.6,78,79,0.77
+error: undefined method `first' for nil:NilClass,Eldredge,Welbourn,ewelbourn7l@reverbnation.com,40,M,Houston,TX,United States,Miami Heat,Dejounte Murray,,sweatshirts,Dollar,2,0,6.9,69,55,0.45
+error: undefined method `first' for nil:NilClass,Atalanta,Growcott,agrowcott7m@list-manage.com,49,F,Birmingham,AL,United States,Chicago Bulls,Julius Randle,Los Angeles Sparks,socks,Dollar,5,5,9.8,40,73,0.79
+error: undefined method `first' for nil:NilClass,Corie,Sewley,csewley7n@columbia.edu,70,F,New York City,NY,United States,Boston Celtics,Jayson Tatum,Washington Mystics,phone cases,Dollar,0,5,9.6,76,54,0.46
+error: undefined method `first' for nil:NilClass,Boycie,Rule,brule7o@hc360.com,70,M,Long Beach,CA,United States,Dallas Mavericks,Anthony Davis,Las Vegas Aces,sweatshirts,Dollar,5,8,6.2,46,79,0.72
+error: undefined method `first' for nil:NilClass,Laurence,Colyer,lcolyer7p@nhs.uk,58,M,Brockton,MA,United States,Philadelphia 76ers,Kyle Lowry,Washington Mystics,backpacks,Dollar,1,6,7.6,71,50,0.45
+error: undefined method `first' for nil:NilClass,Zorine,Dugmore,zdugmore7q@senate.gov,25,F,Young America,MN,United States,Golden State Warriors,Jamal Murray,New York Liberty,backpacks,Dollar,1,4,11.2,36,40,0.46
+error: undefined method `first' for nil:NilClass,Ralina,Kitt,rkitt7r@posterous.com,43,F,Burbank,CA,United States,Denver Nuggets,Myles Turner,,backpacks,Dollar,1,6,11.9,37,64,0.49
+error: undefined method `first' for nil:NilClass,Mimi,Allaker,mallaker7s@de.vu,39,F,Washington,DC,United States,Philadelphia 76ers,Klay Thompson,Phoenix Mercury,keychains,Dollar,0,0,8.6,46,72,0.49
+error: undefined method `first' for nil:NilClass,Valida,Somerville,vsomerville7t@51.la,41,F,Los Angeles,CA,United States,Dallas Mavericks,Kyrie Irving,,blankets,Dollar,1,8,9.5,86,79,0.82
+error: undefined method `first' for nil:NilClass,Amity,Pavlov,apavlov7u@vimeo.com,20,F,Woburn,MA,United States,Miami Heat,Bam Adebayo,Washington Mystics,sweatshirts,Dollar,6,4,8.1,65,55,0.53
+error: undefined method `first' for nil:NilClass,Kessiah,Franceschi,kfranceschi7v@hao123.com,52,F,Nashville,TN,United States,Toronto Raptors,D'Angelo Russell,Dallas Wings,keychains,Dollar,5,1,7.4,74,69,0.8
+error: undefined method `first' for nil:NilClass,Tamra,Perelli,tperelli7w@phpbb.com,79,F,Phoenix,AZ,United States,Golden State Warriors,Devin Booker,Washington Mystics,socks,Dollar,3,7,10.5,60,53,0.35
+error: undefined method `first' for nil:NilClass,Gallagher,Brunini,gbrunini7x@ucla.edu,38,M,Fort Worth,TX,United States,Denver Nuggets,Domantas Sabonis,Seattle Storm,backpacks,Dollar,1,3,7.5,34,57,0.63
+error: undefined method `first' for nil:NilClass,Arne,Kmieciak,akmieciak7y@hostgator.com,27,M,Atlanta,GA,United States,Golden State Warriors,Rudy Gobert,Chicago Sky,sweatshirts,Dollar,5,0,8.3,59,77,0.61
+error: undefined method `first' for nil:NilClass,Carlyn,Do,cdo7z@51.la,46,F,Houston,TX,United States,Golden State Warriors,Fred VanVleet,Phoenix Mercury,phone cases,Dollar,5,7,5.3,82,48,0.65
+error: undefined method `first' for nil:NilClass,Luis,Pitkethly,lpitkethly80@elegantthemes.com,58,M,Cincinnati,OH,United States,Toronto Raptors,Stephen Curry,Minnesota Lynx,jerseys,Dollar,0,3,5.0,59,80,0.39
+error: undefined method `first' for nil:NilClass,Kamila,Carillo,kcarillo81@clickbank.net,66,F,Nashville,TN,United States,Philadelphia 76ers,Jaylen Brown,,jerseys,Dollar,4,3,8.4,81,41,0.75
+error: undefined method `first' for nil:NilClass,Maryjo,Gosselin,mgosselin82@canalblog.com,25,F,Tampa,FL,United States,Golden State Warriors,Myles Turner,Los Angeles Sparks,jerseys,Dollar,5,2,5.0,73,65,0.42
+error: undefined method `first' for nil:NilClass,Allys,Furnell,afurnell83@rediff.com,22,F,Knoxville,TN,United States,Philadelphia 76ers,D'Angelo Russell,Seattle Storm,jerseys,Dollar,5,8,9.5,54,80,0.64
+error: undefined method `first' for nil:NilClass,Sherie,Le Sieur,slesieur84@unc.edu,63,F,Charleston,WV,United States,Golden State Warriors,John Collins,Seattle Storm,blankets,Dollar,2,1,5.9,38,62,0.41
+error: undefined method `first' for nil:NilClass,Booth,Bosenworth,bbosenworth85@va.gov,18,M,Everett,WA,United States,Dallas Mavericks,James Harden,,phone cases,Dollar,5,7,10.1,58,50,0.6
+error: undefined method `first' for nil:NilClass,Raddie,Alexsandrov,ralexsandrov86@aol.com,52,M,Hartford,CT,United States,Chicago Bulls,Rudy Gobert,Seattle Storm,jerseys,Dollar,5,2,10.4,44,58,0.78
+error: undefined method `first' for nil:NilClass,Johnathan,Slark,jslark87@goo.ne.jp,66,M,Philadelphia,PA,United States,Philadelphia 76ers,Jayson Tatum,,backpacks,Dollar,5,2,10.2,44,72,0.35
+error: undefined method `first' for nil:NilClass,Arty,Firebrace,afirebrace88@oakley.com,68,M,Flint,MI,United States,Philadelphia 76ers,D'Angelo Russell,,hats,Dollar,0,2,5.0,59,43,0.46
+error: undefined method `first' for nil:NilClass,Kerby,Alpe,kalpe89@twitter.com,43,M,Beaufort,SC,United States,Dallas Mavericks,Zach LaVine,Phoenix Mercury,jerseys,Dollar,1,2,10.5,31,67,0.78
+error: undefined method `first' for nil:NilClass,Cristin,Northing,cnorthing8a@ezinearticles.com,61,F,Minneapolis,MN,United States,Denver Nuggets,Shai Gilgeous-Alexander,Washington Mystics,hats,Dollar,2,2,10.5,88,66,0.57
+error: undefined method `first' for nil:NilClass,Keefe,Loveridge,kloveridge8b@ycombinator.com,59,M,Evansville,IN,United States,Chicago Bulls,Shai Gilgeous-Alexander,Seattle Storm,socks,Dollar,6,0,6.0,49,61,0.78
+error: undefined method `first' for nil:NilClass,Fidelio,Rays,frays8c@ovh.net,42,M,Houston,TX,United States,Chicago Bulls,Devin Booker,Atlanta Dream,blankets,Dollar,2,6,10.1,79,48,0.79
+error: undefined method `first' for nil:NilClass,Birgit,Hargerie,bhargerie8d@theguardian.com,33,F,Fort Wayne,IN,United States,Los Angeles Lakers,Julius Randle,Chicago Sky,water bottles,Dollar,6,2,6.5,77,55,0.37
+error: undefined method `first' for nil:NilClass,Lemuel,Robertsson,lrobertsson8e@google.es,53,M,Detroit,MI,United States,Philadelphia 76ers,Kyle Lowry,Seattle Storm,jerseys,Dollar,3,6,6.1,63,56,0.44
+error: undefined method `first' for nil:NilClass,Antone,Pentercost,apentercost8f@jiathis.com,32,M,Miami,FL,United States,Philadelphia 76ers,Deandre Ayton,New York Liberty,keychains,Dollar,4,0,7.8,53,47,0.34
+error: undefined method `first' for nil:NilClass,Dorothee,Godman,dgodman8g@sciencedirect.com,43,F,Columbia,SC,United States,Chicago Bulls,Jimmy Butler,Las Vegas Aces,phone cases,Dollar,3,4,9.2,47,50,0.72
+error: undefined method `first' for nil:NilClass,Claybourne,Dennison,cdennison8h@tamu.edu,61,M,Tyler,TX,United States,Toronto Raptors,Stephen Curry,,sweatshirts,Dollar,6,7,10.1,64,70,0.48
+error: undefined method `first' for nil:NilClass,Tirrell,Normandale,tnormandale8i@sciencedaily.com,68,M,Minneapolis,MN,United States,Los Angeles Lakers,Jamal Murray,Phoenix Mercury,keychains,Dollar,4,3,6.8,57,52,0.62
+error: undefined method `first' for nil:NilClass,Armin,Flowitt,aflowitt8j@ucoz.com,77,M,Sacramento,CA,United States,Toronto Raptors,Luka Doncic,Minnesota Lynx,socks,Dollar,6,4,6.8,89,51,0.81
+error: undefined method `first' for nil:NilClass,Kitti,Collumbell,kcollumbell8k@studiopress.com,54,F,Louisville,KY,United States,Philadelphia 76ers,Giannis Antetokounmpo,Las Vegas Aces,blankets,Dollar,0,1,11.3,75,80,0.7
+error: undefined method `first' for nil:NilClass,Roselle,Buye,rbuye8l@senate.gov,74,F,Louisville,KY,United States,Denver Nuggets,Trae Young,Chicago Sky,keychains,Dollar,4,0,10.4,31,77,0.49
+error: undefined method `first' for nil:NilClass,Gerek,Carlile,gcarlile8m@shop-pro.jp,21,M,Abilene,TX,United States,Philadelphia 76ers,Russell Westbrook,Seattle Storm,posters,Dollar,3,0,6.9,34,41,0.78
+error: undefined method `first' for nil:NilClass,Benita,Pedwell,bpedwell8n@ihg.com,22,F,Norfolk,VA,United States,Golden State Warriors,Giannis Antetokounmpo,,sweatshirts,Dollar,6,2,7.7,66,76,0.39
+error: undefined method `first' for nil:NilClass,Manolo,Eyrl,meyrl8o@hugedomains.com,39,M,Virginia Beach,VA,United States,Los Angeles Lakers,John Collins,,socks,Dollar,5,3,10.1,31,48,0.69
+error: undefined method `first' for nil:NilClass,Bastian,Maudson,bmaudson8p@edublogs.org,73,M,Honolulu,HI,United States,Boston Celtics,Kristaps Porzingis,Minnesota Lynx,blankets,Dollar,1,0,11.2,42,75,0.32
+error: undefined method `first' for nil:NilClass,Gerrie,Stainton,gstainton8q@sogou.com,67,M,Clearwater,FL,United States,Houston Rockets,Jaylen Brown,Atlanta Dream,blankets,Dollar,2,8,9.0,77,60,0.47
+error: undefined method `first' for nil:NilClass,Nikkie,Spancock,nspancock8r@com.com,38,F,Nashville,TN,United States,Los Angeles Lakers,Donovan Mitchell,New York Liberty,hats,Dollar,0,1,7.7,67,70,0.79
+error: undefined method `first' for nil:NilClass,Judy,Sealey,jsealey8s@guardian.co.uk,66,F,Wilkes Barre,PA,United States,Toronto Raptors,Nikola Jokic,,sweatshirts,Dollar,0,6,6.1,50,51,0.76
+error: undefined method `first' for nil:NilClass,Barton,Tute,btute8t@shinystat.com,64,M,Austin,TX,United States,Golden State Warriors,Anthony Davis,,posters,Dollar,4,4,9.9,65,64,0.41
+error: undefined method `first' for nil:NilClass,Kinna,Cottle,kcottle8u@com.com,56,F,Waco,TX,United States,Los Angeles Lakers,Zion Williamson,Minnesota Lynx,posters,Dollar,2,8,7.5,84,50,0.74
+error: undefined method `first' for nil:NilClass,Jerrie,Gainsborough,jgainsborough8v@abc.net.au,37,F,Hamilton,OH,United States,Los Angeles Lakers,Jimmy Butler,Las Vegas Aces,backpacks,Dollar,1,4,6.9,66,41,0.71
+error: undefined method `first' for nil:NilClass,Isabella,Hubbock,ihubbock8w@oracle.com,49,F,Austin,TX,United States,Dallas Mavericks,Giannis Antetokounmpo,Dallas Wings,posters,Dollar,4,4,10.0,41,45,0.34
+error: undefined method `first' for nil:NilClass,Jeri,Vasile,jvasile8x@issuu.com,21,F,Las Vegas,NV,United States,Denver Nuggets,Shai Gilgeous-Alexander,,jerseys,Dollar,4,2,11.8,39,74,0.48
+error: undefined method `first' for nil:NilClass,Laney,Sparks,lsparks8y@cornell.edu,42,F,Ventura,CA,United States,Golden State Warriors,Devin Booker,,sweatshirts,Dollar,2,2,7.1,47,49,0.54
+error: undefined method `first' for nil:NilClass,Beau,Barnaby,bbarnaby8z@globo.com,69,M,Bradenton,FL,United States,Golden State Warriors,Damian Lillard,,socks,Dollar,2,7,5.8,68,68,0.43
+error: undefined method `first' for nil:NilClass,Chrissie,Waddicor,cwaddicor90@cdbaby.com,60,M,Peoria,IL,United States,Philadelphia 76ers,De'Aaron Fox,Minnesota Lynx,backpacks,Dollar,0,0,4.0,31,51,0.51
+error: undefined method `first' for nil:NilClass,Marve,Summerlee,msummerlee91@meetup.com,31,M,Birmingham,AL,United States,Los Angeles Lakers,Ja Morant,Seattle Storm,keychains,Dollar,3,3,4.2,80,59,0.74
+error: undefined method `first' for nil:NilClass,Ginger,Nyssens,gnyssens92@bbc.co.uk,33,M,Birmingham,AL,United States,Miami Heat,Klay Thompson,Phoenix Mercury,keychains,Dollar,5,6,8.7,60,41,0.7
+error: undefined method `first' for nil:NilClass,Nolly,Ayers,nayers93@china.com.cn,63,M,Brockton,MA,United States,Golden State Warriors,John Collins,,hats,Dollar,2,5,5.0,50,44,0.68
+error: undefined method `first' for nil:NilClass,Verge,Germaine,vgermaine94@arstechnica.com,39,M,Huntsville,TX,United States,Miami Heat,Karl-Anthony Towns,Washington Mystics,socks,Dollar,1,4,8.6,83,44,0.32
+error: undefined method `first' for nil:NilClass,Kennith,Balassa,kbalassa95@multiply.com,48,M,Amarillo,TX,United States,Dallas Mavericks,Luka Doncic,New York Liberty,socks,Dollar,4,8,5.0,74,55,0.75
+error: undefined method `first' for nil:NilClass,Shamus,Dablin,sdablin96@desdev.cn,41,M,Las Vegas,NV,United States,Boston Celtics,Kyrie Irving,Los Angeles Sparks,sweatshirts,Dollar,1,1,5.3,48,80,0.39
+error: undefined method `first' for nil:NilClass,Nerty,Scottesmoor,nscottesmoor97@ameblo.jp,61,F,Lincoln,NE,United States,Denver Nuggets,Nikola Jokic,Phoenix Mercury,phone cases,Dollar,6,2,8.5,51,53,0.63
+error: undefined method `first' for nil:NilClass,Clarine,Cummine,ccummine98@usgs.gov,65,F,Birmingham,AL,United States,Miami Heat,Kawhi Leonard,,jerseys,Dollar,4,5,10.8,71,66,0.4
+error: undefined method `first' for nil:NilClass,Cynthea,Ughi,cughi99@ucla.edu,80,F,Kansas City,MO,United States,Philadelphia 76ers,James Harden,Minnesota Lynx,posters,Dollar,1,2,11.6,43,63,0.35
+error: undefined method `first' for nil:NilClass,Oates,Hebdon,ohebdon9a@jiathis.com,28,M,Long Beach,CA,United States,Dallas Mavericks,Joel Embiid,Seattle Storm,phone cases,Dollar,0,4,7.6,70,64,0.69
+error: undefined method `first' for nil:NilClass,Letty,Tunnick,ltunnick9b@tuttocitta.it,80,F,Saint Paul,MN,United States,Los Angeles Lakers,Bam Adebayo,,posters,Dollar,1,5,11.8,78,61,0.43
+error: undefined method `first' for nil:NilClass,Perri,Forestel,pforestel9c@sphinn.com,49,F,Ridgely,MD,United States,Houston Rockets,Bam Adebayo,Las Vegas Aces,sweatshirts,Dollar,0,1,7.2,53,63,0.56
+error: undefined method `first' for nil:NilClass,Waly,Yurevich,wyurevich9d@zimbio.com,56,F,Rochester,NY,United States,Toronto Raptors,Chris Paul,Phoenix Mercury,sweatshirts,Dollar,6,5,11.6,72,65,0.77
+error: undefined method `first' for nil:NilClass,Padriac,Collum,pcollum9e@usa.gov,30,M,Tacoma,WA,United States,Boston Celtics,Russell Westbrook,Phoenix Mercury,keychains,Dollar,4,4,7.8,81,50,0.51
+error: undefined method `first' for nil:NilClass,Vita,Mansford,vmansford9f@eepurl.com,68,F,Salem,OR,United States,Miami Heat,Kyrie Irving,Atlanta Dream,hats,Dollar,5,3,7.4,51,77,0.57
+error: undefined method `first' for nil:NilClass,Yolande,Biernat,ybiernat9g@xinhuanet.com,33,F,Richmond,VA,United States,Chicago Bulls,Jamal Murray,Phoenix Mercury,jerseys,Dollar,0,7,8.4,70,65,0.54
+error: undefined method `first' for nil:NilClass,Logan,Strathern,lstrathern9h@mapquest.com,56,M,Birmingham,AL,United States,Los Angeles Lakers,Stephen Curry,,water bottles,Dollar,4,3,11.5,70,48,0.59
+error: undefined method `first' for nil:NilClass,Antone,Timlett,atimlett9i@nhs.uk,79,M,Seminole,FL,United States,Los Angeles Lakers,Paul George,,keychains,Dollar,6,0,11.2,54,78,0.48
+error: undefined method `first' for nil:NilClass,Duky,Gonzalvo,dgonzalvo9j@unc.edu,36,M,Atlanta,GA,United States,Toronto Raptors,Rudy Gobert,,blankets,Dollar,1,3,9.1,88,73,0.51
+error: undefined method `first' for nil:NilClass,Bat,Shannahan,bshannahan9k@hubpages.com,80,M,Houston,TX,United States,Miami Heat,Paul George,Phoenix Mercury,water bottles,Dollar,3,6,5.8,40,72,0.38
+error: undefined method `first' for nil:NilClass,Sianna,How to preserve,showtopreserve9l@histats.com,72,F,Washington,DC,United States,Los Angeles Lakers,Brandon Ingram,Chicago Sky,socks,Dollar,5,7,11.1,70,40,0.59
+error: undefined method `first' for nil:NilClass,Archaimbaud,Seivwright,aseivwright9m@unc.edu,61,M,Irvine,CA,United States,Chicago Bulls,De'Aaron Fox,Washington Mystics,blankets,Dollar,4,0,11.2,42,60,0.62
+error: undefined method `first' for nil:NilClass,Rhona,Lambshine,rlambshine9n@mlb.com,25,F,Muncie,IN,United States,Philadelphia 76ers,Karl-Anthony Towns,Dallas Wings,sweatshirts,Dollar,5,4,4.5,58,74,0.54
+error: undefined method `first' for nil:NilClass,Corine,Garralts,cgarralts9o@shinystat.com,20,F,Hattiesburg,MS,United States,Los Angeles Lakers,Damian Lillard,New York Liberty,keychains,Dollar,1,2,8.3,69,54,0.68
+error: undefined method `first' for nil:NilClass,Latrina,Domange,ldomange9p@uiuc.edu,69,F,Oakland,CA,United States,Boston Celtics,Zion Williamson,,water bottles,Dollar,0,5,6.7,38,42,0.44
+error: undefined method `first' for nil:NilClass,Faulkner,Gobolos,fgobolos9q@theglobeandmail.com,79,M,New York City,NY,United States,Golden State Warriors,Luka Doncic,Dallas Wings,blankets,Dollar,0,2,8.4,41,78,0.65
+error: undefined method `first' for nil:NilClass,Solly,Garment,sgarment9r@jugem.jp,23,M,Jackson,MS,United States,Philadelphia 76ers,Kevin Durant,Seattle Storm,backpacks,Dollar,3,1,4.0,54,63,0.57
+error: undefined method `first' for nil:NilClass,Vonni,Dawidman,vdawidman9s@unesco.org,37,F,Salt Lake City,UT,United States,Chicago Bulls,Karl-Anthony Towns,Seattle Storm,sweatshirts,Dollar,3,6,11.1,61,52,0.77
+error: undefined method `first' for nil:NilClass,Patsy,Dudding,pdudding9t@scientificamerican.com,56,F,Saint Petersburg,FL,United States,Dallas Mavericks,Dejounte Murray,,water bottles,Dollar,1,0,4.9,71,47,0.44
+error: undefined method `first' for nil:NilClass,Brandea,Fusco,bfusco9u@domainmarket.com,69,F,Athens,GA,United States,Toronto Raptors,Zach LaVine,,hats,Dollar,3,5,9.0,67,59,0.66
+error: undefined method `first' for nil:NilClass,Elsa,Ferdinand,eferdinand9v@independent.co.uk,54,F,Riverside,CA,United States,Philadelphia 76ers,LeBron James,Atlanta Dream,blankets,Dollar,6,4,5.5,30,67,0.36
+error: undefined method `first' for nil:NilClass,Linda,Rosone,lrosone9w@telegraph.co.uk,48,F,Shawnee Mission,KS,United States,Golden State Warriors,Devin Booker,Las Vegas Aces,blankets,Dollar,4,4,11.2,33,66,0.31
+error: undefined method `first' for nil:NilClass,Cully,McColl,cmccoll9x@usgs.gov,44,M,Houston,TX,United States,Los Angeles Lakers,Klay Thompson,Chicago Sky,jerseys,Dollar,1,1,9.7,39,41,0.71
+error: undefined method `first' for nil:NilClass,Pat,Redmain,predmain9y@buzzfeed.com,34,F,Milwaukee,WI,United States,Miami Heat,Kyle Lowry,Phoenix Mercury,water bottles,Dollar,0,0,8.4,48,54,0.44
+error: undefined method `first' for nil:NilClass,Bev,Maggs,bmaggs9z@techcrunch.com,71,F,Los Angeles,CA,United States,Los Angeles Lakers,Stephen Curry,Chicago Sky,hats,Dollar,2,2,8.5,34,65,0.75
+error: undefined method `first' for nil:NilClass,Bevin,Ratnege,bratnegea0@forbes.com,20,M,Jackson,MS,United States,Philadelphia 76ers,Donovan Mitchell,,blankets,Dollar,1,3,10.5,83,44,0.52
+error: undefined method `first' for nil:NilClass,Walsh,Winton,wwintona1@surveymonkey.com,31,M,Memphis,TN,United States,Philadelphia 76ers,Bam Adebayo,Minnesota Lynx,water bottles,Dollar,2,6,6.7,83,66,0.52
+error: undefined method `first' for nil:NilClass,Maggee,Parham,mparhama2@google.com.hk,45,F,Louisville,KY,United States,Los Angeles Lakers,Brandon Ingram,New York Liberty,posters,Dollar,4,8,4.3,79,69,0.72
+error: undefined method `first' for nil:NilClass,Reinhold,Dann,rdanna3@google.co.uk,80,M,Anchorage,AK,United States,Boston Celtics,Shai Gilgeous-Alexander,Phoenix Mercury,socks,Dollar,0,4,10.7,87,44,0.46
+error: undefined method `first' for nil:NilClass,Duky,Fitkin,dfitkina4@theglobeandmail.com,22,M,New York City,NY,United States,Dallas Mavericks,Ben Simmons,Los Angeles Sparks,keychains,Dollar,6,7,4.8,45,45,0.49
+error: undefined method `first' for nil:NilClass,Solomon,Strute,sstrutea5@census.gov,65,M,Dayton,OH,United States,Los Angeles Lakers,Jayson Tatum,,blankets,Dollar,1,4,6.3,43,67,0.38
+error: undefined method `first' for nil:NilClass,Candra,Glantz,cglantza6@nasa.gov,38,F,Harrisburg,PA,United States,Philadelphia 76ers,Jimmy Butler,Seattle Storm,socks,Dollar,4,0,11.6,83,44,0.55
+error: undefined method `first' for nil:NilClass,Abie,Eagell,aeagella7@hostgator.com,71,M,Palmdale,CA,United States,Dallas Mavericks,Damian Lillard,,posters,Dollar,2,8,9.0,66,63,0.58
+error: undefined method `first' for nil:NilClass,Gaspar,Sellar,gsellara8@barnesandnoble.com,34,M,New Orleans,LA,United States,Golden State Warriors,Jayson Tatum,,backpacks,Dollar,5,2,9.5,74,59,0.54
+error: undefined method `first' for nil:NilClass,Gunilla,Wooder,gwoodera9@blogs.com,54,F,Lakeland,FL,United States,Philadelphia 76ers,Fred VanVleet,Atlanta Dream,socks,Dollar,4,4,9.1,32,76,0.32
+error: undefined method `first' for nil:NilClass,Leonerd,Essex,lessexaa@china.com.cn,54,M,Miami,FL,United States,Boston Celtics,De'Aaron Fox,New York Liberty,phone cases,Dollar,0,7,9.9,66,75,0.43
+error: undefined method `first' for nil:NilClass,Huberto,MacKnockiter,hmacknockiterab@google.ru,49,M,Corona,CA,United States,Los Angeles Lakers,Bam Adebayo,New York Liberty,jerseys,Dollar,3,5,9.1,88,66,0.49
+error: undefined method `first' for nil:NilClass,Jeni,Bridgeland,jbridgelandac@nhs.uk,23,F,Nashville,TN,United States,Los Angeles Lakers,Zion Williamson,Washington Mystics,phone cases,Dollar,0,5,9.0,71,77,0.75
+error: undefined method `first' for nil:NilClass,Binni,Celier,bcelierad@salon.com,29,F,Sacramento,CA,United States,Toronto Raptors,Pascal Siakam,,hats,Dollar,6,0,9.3,31,44,0.57
+error: undefined method `first' for nil:NilClass,Merilee,Plews,mplewsae@berkeley.edu,76,F,Omaha,NE,United States,Philadelphia 76ers,Zach LaVine,Las Vegas Aces,hats,Dollar,1,3,10.7,86,79,0.34
+error: undefined method `first' for nil:NilClass,Ricard,Josilevich,rjosilevichaf@tripadvisor.com,31,M,Bridgeport,CT,United States,Chicago Bulls,James Harden,,backpacks,Dollar,0,0,6.0,53,58,0.64
+error: undefined method `first' for nil:NilClass,Galen,Scapelhorn,gscapelhornag@ucla.edu,69,M,Pittsburgh,PA,United States,Toronto Raptors,Zion Williamson,Minnesota Lynx,blankets,Dollar,1,2,5.3,30,62,0.79
+error: undefined method `first' for nil:NilClass,Elisabetta,Hedingham,ehedinghamah@hp.com,47,F,Chicago,IL,United States,Philadelphia 76ers,De'Aaron Fox,,socks,Dollar,0,2,10.6,36,53,0.6
+error: undefined method `first' for nil:NilClass,Wolfgang,Kingsman,wkingsmanai@rambler.ru,59,M,Washington,DC,United States,Golden State Warriors,Klay Thompson,Las Vegas Aces,hats,Dollar,6,0,4.6,43,49,0.73
+error: undefined method `first' for nil:NilClass,Angelique,Maund,amaundaj@loc.gov,29,F,Montgomery,AL,United States,Los Angeles Lakers,Joel Embiid,New York Liberty,jerseys,Dollar,0,0,10.0,82,41,0.64
+error: undefined method `first' for nil:NilClass,Cyndia,Kingsman,ckingsmanak@europa.eu,68,F,San Diego,CA,United States,Boston Celtics,Russell Westbrook,,keychains,Dollar,5,3,9.7,56,67,0.36
+error: undefined method `first' for nil:NilClass,Addi,Lear,alearal@newyorker.com,76,F,Washington,DC,United States,Boston Celtics,John Collins,Atlanta Dream,backpacks,Dollar,3,0,8.4,58,61,0.6
+error: undefined method `first' for nil:NilClass,Carlina,Vasilkov,cvasilkovam@vimeo.com,26,F,Boise,ID,United States,Chicago Bulls,Kyle Lowry,Atlanta Dream,sweatshirts,Dollar,4,7,7.5,36,42,0.62
+error: undefined method `first' for nil:NilClass,Serge,Busfield,sbusfieldan@bizjournals.com,64,M,Newark,NJ,United States,Miami Heat,Paul George,Los Angeles Sparks,sweatshirts,Dollar,2,4,5.6,61,45,0.41
+error: undefined method `first' for nil:NilClass,Vladamir,Ferre,vferreao@i2i.jp,44,M,Durham,NC,United States,Philadelphia 76ers,Jamal Murray,Atlanta Dream,keychains,Dollar,3,2,8.5,34,76,0.33
+error: undefined method `first' for nil:NilClass,Ellynn,Whitbread,ewhitbreadap@pcworld.com,35,F,El Paso,TX,United States,Miami Heat,Deandre Ayton,Washington Mystics,hats,Dollar,6,6,4.5,66,46,0.79
+error: undefined method `first' for nil:NilClass,Jackquelin,Breeder,jbreederaq@omniture.com,69,F,Jamaica,NY,United States,Chicago Bulls,Zach LaVine,Los Angeles Sparks,phone cases,Dollar,0,1,5.1,66,48,0.4
+error: undefined method `first' for nil:NilClass,Aloysius,Beernaert,abeernaertar@wikimedia.org,35,M,Charleston,WV,United States,Miami Heat,Kevin Durant,Chicago Sky,jerseys,Dollar,2,1,9.2,52,74,0.66
+error: undefined method `first' for nil:NilClass,Marena,Bowler,mbowleras@privacy.gov.au,80,F,Amarillo,TX,United States,Philadelphia 76ers,Dejounte Murray,Phoenix Mercury,phone cases,Dollar,6,6,6.1,38,50,0.66
+error: undefined method `first' for nil:NilClass,Magdalene,Philipet,mphilipetat@walmart.com,66,F,Richmond,VA,United States,Miami Heat,Stephen Curry,,blankets,Dollar,5,6,6.3,64,58,0.7
+error: undefined method `first' for nil:NilClass,Rockie,Lightowlers,rlightowlersau@technorati.com,37,M,Fort Worth,TX,United States,Philadelphia 76ers,Shai Gilgeous-Alexander,Phoenix Mercury,hats,Dollar,5,6,9.7,65,44,0.71
+error: undefined method `first' for nil:NilClass,Hestia,Abramson,habramsonav@usatoday.com,68,F,Minneapolis,MN,United States,Golden State Warriors,DeMar DeRozan,Atlanta Dream,water bottles,Dollar,4,3,6.2,38,66,0.69
+error: undefined method `first' for nil:NilClass,Nelia,Mahomet,nmahometaw@xrea.com,36,F,Roanoke,VA,United States,Los Angeles Lakers,Julius Randle,Atlanta Dream,socks,Dollar,2,4,4.6,43,79,0.64
+error: undefined method `first' for nil:NilClass,Skipp,Jarnell,sjarnellax@spotify.com,23,M,Buffalo,NY,United States,Los Angeles Lakers,Myles Turner,Los Angeles Sparks,blankets,Dollar,6,7,6.6,40,74,0.43
+error: undefined method `first' for nil:NilClass,Odille,Dunsmore,odunsmoreay@sphinn.com,37,F,Davenport,IA,United States,Miami Heat,Kyrie Irving,New York Liberty,hats,Dollar,5,2,8.8,73,55,0.42
+error: undefined method `first' for nil:NilClass,Idalina,Judd,ijuddaz@cargocollective.com,61,F,Montgomery,AL,United States,Golden State Warriors,Pascal Siakam,Dallas Wings,posters,Dollar,6,5,8.2,46,51,0.44
+error: undefined method `first' for nil:NilClass,Damaris,Breakwell,dbreakwellb0@cam.ac.uk,19,F,Kent,WA,United States,Chicago Bulls,De'Aaron Fox,Chicago Sky,socks,Dollar,4,6,4.9,62,54,0.8
+error: undefined method `first' for nil:NilClass,Rooney,Bootyman,rbootymanb1@taobao.com,34,M,Los Angeles,CA,United States,Denver Nuggets,DeMar DeRozan,Washington Mystics,phone cases,Dollar,6,5,11.2,39,69,0.4
+error: undefined method `first' for nil:NilClass,Emanuele,Marcombe,emarcombeb2@wufoo.com,39,M,Norfolk,VA,United States,Toronto Raptors,Shai Gilgeous-Alexander,Atlanta Dream,hats,Dollar,5,0,10.3,43,59,0.5
+error: undefined method `first' for nil:NilClass,Madelon,Langman,mlangmanb3@ca.gov,76,F,Chicago,IL,United States,Chicago Bulls,Kristaps Porzingis,Las Vegas Aces,hats,Dollar,0,1,11.6,42,58,0.36
+error: undefined method `first' for nil:NilClass,Ramsay,Kauschke,rkauschkeb4@booking.com,22,M,Houston,TX,United States,Los Angeles Lakers,Tobias Harris,Chicago Sky,blankets,Dollar,3,5,11.1,50,63,0.71
+error: undefined method `first' for nil:NilClass,Barbabas,Keniwell,bkeniwellb5@geocities.com,28,M,Des Moines,IA,United States,Golden State Warriors,Pascal Siakam,,hats,Dollar,6,7,7.2,41,66,0.82
+error: undefined method `first' for nil:NilClass,Salvidor,Goggen,sgoggenb6@i2i.jp,59,M,Rochester,MN,United States,Boston Celtics,Jayson Tatum,Phoenix Mercury,phone cases,Dollar,6,5,5.7,38,61,0.36
+error: undefined method `first' for nil:NilClass,Ashleigh,Leuren,aleurenb7@narod.ru,62,F,Billings,MT,United States,Denver Nuggets,Brandon Ingram,Washington Mystics,keychains,Dollar,5,7,11.4,66,67,0.37
+error: undefined method `first' for nil:NilClass,Suzanna,Le Huquet,slehuquetb8@wordpress.org,69,F,Springfield,IL,United States,Toronto Raptors,Brandon Ingram,Phoenix Mercury,keychains,Dollar,6,2,7.6,76,50,0.52
+error: undefined method `first' for nil:NilClass,Christy,Chill,cchillb9@t-online.de,43,M,Lake Charles,LA,United States,Golden State Warriors,Paul George,,water bottles,Dollar,1,7,4.6,35,65,0.48
+error: undefined method `first' for nil:NilClass,Gilemette,Blain,gblainba@businessinsider.com,36,F,New York City,NY,United States,Golden State Warriors,Bam Adebayo,,socks,Dollar,3,7,11.4,79,63,0.61
+error: undefined method `first' for nil:NilClass,Stacee,Seiter,sseiterbb@mac.com,31,M,Buffalo,NY,United States,Dallas Mavericks,Jaylen Brown,Dallas Wings,keychains,Dollar,2,0,7.4,56,71,0.66
+error: undefined method `first' for nil:NilClass,Frederique,Rowan,frowanbc@edublogs.org,59,F,New York City,NY,United States,Boston Celtics,Ben Simmons,Washington Mystics,backpacks,Dollar,2,8,8.4,69,69,0.59
+error: undefined method `first' for nil:NilClass,Orren,Milan,omilanbd@hao123.com,23,M,Scranton,PA,United States,Philadelphia 76ers,Ben Simmons,Seattle Storm,sweatshirts,Dollar,2,1,8.8,54,50,0.73
+error: undefined method `first' for nil:NilClass,Maxim,Reddings,mreddingsbe@t-online.de,58,M,North Las Vegas,NV,United States,Dallas Mavericks,Bam Adebayo,,backpacks,Dollar,3,2,9.3,54,40,0.65
+error: undefined method `first' for nil:NilClass,June,Ferrar,jferrarbf@hostgator.com,56,F,Washington,DC,United States,Philadelphia 76ers,Stephen Curry,Seattle Storm,water bottles,Dollar,2,2,7.8,31,45,0.66
+error: undefined method `first' for nil:NilClass,Zorine,Dowbakin,zdowbakinbg@flickr.com,39,F,Toledo,OH,United States,Dallas Mavericks,Stephen Curry,,hats,Dollar,4,0,8.4,78,60,0.46
+error: undefined method `first' for nil:NilClass,Phedra,Kuhndel,pkuhndelbh@wisc.edu,37,F,Richmond,VA,United States,Philadelphia 76ers,Pascal Siakam,Chicago Sky,posters,Dollar,3,7,11.0,40,79,0.54
+error: undefined method `first' for nil:NilClass,Cris,Locke,clockebi@biblegateway.com,68,M,Irvine,CA,United States,Chicago Bulls,Donovan Mitchell,Phoenix Mercury,backpacks,Dollar,5,8,4.4,35,75,0.31
+error: undefined method `first' for nil:NilClass,Daile,Neads,dneadsbj@skyrock.com,20,F,Dallas,TX,United States,Chicago Bulls,Anthony Davis,Dallas Wings,jerseys,Dollar,6,7,4.7,68,59,0.59
+error: undefined method `first' for nil:NilClass,Sinclare,Speeks,sspeeksbk@aboutads.info,28,M,Olympia,WA,United States,Philadelphia 76ers,Jamal Murray,Seattle Storm,water bottles,Dollar,3,8,6.4,79,64,0.55
+error: undefined method `first' for nil:NilClass,Darelle,Paute,dpautebl@friendfeed.com,35,F,Peoria,IL,United States,Los Angeles Lakers,Devin Booker,,keychains,Dollar,6,1,4.7,65,75,0.54
+error: undefined method `first' for nil:NilClass,Burg,Purse,bpursebm@census.gov,61,M,Lansing,MI,United States,Los Angeles Lakers,Rudy Gobert,,water bottles,Dollar,3,1,4.4,43,54,0.69
+error: undefined method `first' for nil:NilClass,Gerrilee,Carrier,gcarrierbn@hp.com,68,F,Baton Rouge,LA,United States,Miami Heat,Jimmy Butler,Dallas Wings,jerseys,Dollar,4,4,6.3,82,60,0.82
+error: undefined method `first' for nil:NilClass,Pepita,Combes,pcombesbo@fastcompany.com,48,F,Canton,OH,United States,Los Angeles Lakers,Brandon Ingram,Chicago Sky,sweatshirts,Dollar,5,3,8.2,67,63,0.55
+error: undefined method `first' for nil:NilClass,Agace,Vasilik,avasilikbp@wordpress.org,69,F,Hot Springs National Park,AR,United States,Chicago Bulls,Devin Booker,,sweatshirts,Dollar,4,8,4.0,43,74,0.78
+error: undefined method `first' for nil:NilClass,Virge,Ovill,vovillbq@reddit.com,45,M,Tacoma,WA,United States,Los Angeles Lakers,Rudy Gobert,Los Angeles Sparks,hats,Dollar,4,4,6.8,67,55,0.8
+error: undefined method `first' for nil:NilClass,Jaime,Trim,jtrimbr@mashable.com,44,M,Augusta,GA,United States,Toronto Raptors,Klay Thompson,Chicago Sky,hats,Dollar,2,6,8.4,78,50,0.61
+error: undefined method `first' for nil:NilClass,Maryrose,Chesworth,mchesworthbs@jugem.jp,50,F,Birmingham,AL,United States,Golden State Warriors,Russell Westbrook,Chicago Sky,sweatshirts,Dollar,5,0,4.1,50,48,0.75
+error: undefined method `first' for nil:NilClass,Brigitta,Bonaire,bbonairebt@baidu.com,40,F,Richmond,VA,United States,Dallas Mavericks,Paul George,Dallas Wings,keychains,Dollar,1,5,4.6,61,72,0.42
+error: undefined method `first' for nil:NilClass,Everett,Allin,eallinbu@posterous.com,37,M,Kansas City,MO,United States,Chicago Bulls,Karl-Anthony Towns,,water bottles,Dollar,0,3,6.6,65,43,0.56
+error: undefined method `first' for nil:NilClass,Aldis,Wallworth,awallworthbv@hostgator.com,41,M,Reston,VA,United States,Chicago Bulls,Joel Embiid,,keychains,Dollar,0,5,4.8,70,55,0.34
+error: undefined method `first' for nil:NilClass,Inga,Gatecliff,igatecliffbw@thetimes.co.uk,56,F,Houston,TX,United States,Golden State Warriors,Russell Westbrook,,water bottles,Dollar,4,4,4.5,79,58,0.38
+error: undefined method `first' for nil:NilClass,Chip,Edis,cedisbx@imgur.com,64,M,Watertown,MA,United States,Los Angeles Lakers,Kyle Lowry,,posters,Dollar,0,6,11.6,73,74,0.37
+error: undefined method `first' for nil:NilClass,Rich,Matyushonok,rmatyushonokby@omniture.com,22,M,Muskegon,MI,United States,Chicago Bulls,Pascal Siakam,,phone cases,Dollar,6,6,4.4,60,65,0.49
+error: undefined method `first' for nil:NilClass,Gus,Roset,grosetbz@drupal.org,34,M,Sacramento,CA,United States,Los Angeles Lakers,John Collins,Phoenix Mercury,phone cases,Dollar,0,3,9.5,70,55,0.38
+error: undefined method `first' for nil:NilClass,Brewer,Penton,bpentonc0@deviantart.com,42,M,Boston,MA,United States,Los Angeles Lakers,Zach LaVine,Seattle Storm,phone cases,Dollar,6,5,11.4,54,48,0.44
+error: undefined method `first' for nil:NilClass,Carolus,Crallan,ccrallanc1@deviantart.com,23,M,Springfield,MO,United States,Los Angeles Lakers,Stephen Curry,Minnesota Lynx,phone cases,Dollar,4,1,4.3,38,72,0.51
+error: undefined method `first' for nil:NilClass,Bronnie,Seabright,bseabrightc2@forbes.com,71,M,Salt Lake City,UT,United States,Denver Nuggets,Kyrie Irving,Seattle Storm,keychains,Dollar,6,1,8.4,79,48,0.67
+error: undefined method `first' for nil:NilClass,Randie,Cogar,rcogarc3@google.it,36,M,Miami Beach,FL,United States,Los Angeles Lakers,Ben Simmons,Dallas Wings,posters,Dollar,0,4,5.0,74,41,0.45
+error: undefined method `first' for nil:NilClass,Carlota,Attridge,cattridgec4@sciencedaily.com,66,F,Woburn,MA,United States,Boston Celtics,Ja Morant,,keychains,Dollar,4,3,8.2,48,76,0.48
+error: undefined method `first' for nil:NilClass,Noby,Musico,nmusicoc5@archive.org,62,M,Saint Paul,MN,United States,Boston Celtics,Ben Simmons,Washington Mystics,phone cases,Dollar,3,1,4.4,78,42,0.57
+error: undefined method `first' for nil:NilClass,Clo,Pahler,cpahlerc6@businesswire.com,50,F,Tampa,FL,United States,Boston Celtics,Trae Young,Seattle Storm,keychains,Dollar,0,2,11.1,71,79,0.67
+error: undefined method `first' for nil:NilClass,Kaitlynn,Geldeford,kgeldefordc7@hp.com,24,F,Hartford,CT,United States,Chicago Bulls,DeMar DeRozan,Seattle Storm,hats,Dollar,4,1,11.2,49,73,0.56
+error: undefined method `first' for nil:NilClass,Maurits,Van der Kruijs,mvanderkruijsc8@auda.org.au,32,M,Columbus,GA,United States,Philadelphia 76ers,Trae Young,Las Vegas Aces,posters,Dollar,5,0,4.9,43,48,0.5
+error: undefined method `first' for nil:NilClass,Townsend,Bonicelli,tbonicellic9@prlog.org,58,M,Henderson,NV,United States,Miami Heat,Jimmy Butler,,blankets,Dollar,3,4,7.6,66,65,0.61
+error: undefined method `first' for nil:NilClass,Megen,Ohlsen,mohlsenca@clickbank.net,54,F,Sacramento,CA,United States,Miami Heat,Luka Doncic,,socks,Dollar,2,8,5.0,42,47,0.64
+error: undefined method `first' for nil:NilClass,Gennifer,Colquite,gcolquitecb@goo.gl,27,F,Houston,TX,United States,Dallas Mavericks,Pascal Siakam,Seattle Storm,socks,Dollar,0,3,9.7,45,78,0.63
+error: undefined method `first' for nil:NilClass,Alaine,Krabbe,akrabbecc@ox.ac.uk,35,F,Washington,DC,United States,Dallas Mavericks,D'Angelo Russell,Minnesota Lynx,sweatshirts,Dollar,5,7,10.5,55,54,0.55
+error: undefined method `first' for nil:NilClass,Kain,Agron,kagroncd@howstuffworks.com,51,M,Shawnee Mission,KS,United States,Denver Nuggets,Anthony Davis,Dallas Wings,sweatshirts,Dollar,2,1,5.9,31,42,0.4
+error: undefined method `first' for nil:NilClass,Alonzo,Lorenc,alorencce@goo.ne.jp,41,M,Cape Coral,FL,United States,Los Angeles Lakers,LeBron James,New York Liberty,sweatshirts,Dollar,6,2,6.6,33,57,0.59
+error: undefined method `first' for nil:NilClass,Worthy,Hush,whushcf@ow.ly,38,M,Sacramento,CA,United States,Toronto Raptors,Pascal Siakam,Las Vegas Aces,hats,Dollar,1,5,9.2,88,53,0.35
+error: undefined method `first' for nil:NilClass,Prentice,Renner,prennercg@ibm.com,39,M,Miami,FL,United States,Chicago Bulls,Kawhi Leonard,New York Liberty,hats,Dollar,6,2,8.5,64,79,0.39
+error: undefined method `first' for nil:NilClass,Wylie,Whiteoak,wwhiteoakch@yahoo.com,30,M,Houston,TX,United States,Denver Nuggets,Giannis Antetokounmpo,Dallas Wings,jerseys,Dollar,5,6,5.8,67,56,0.39
+error: undefined method `first' for nil:NilClass,Nikola,Vigneron,nvigneronci@nifty.com,24,M,Young America,MN,United States,Denver Nuggets,James Harden,,socks,Dollar,2,4,5.2,40,79,0.49
+error: undefined method `first' for nil:NilClass,Rriocard,Moysey,rmoyseycj@indiegogo.com,56,M,Saint Paul,MN,United States,Chicago Bulls,Pascal Siakam,,keychains,Dollar,0,4,10.1,64,62,0.62
+error: undefined method `first' for nil:NilClass,Tilly,Acklands,tacklandsck@auda.org.au,51,F,Reno,NV,United States,Miami Heat,Jaylen Brown,,sweatshirts,Dollar,1,5,5.1,54,59,0.82
+error: undefined method `first' for nil:NilClass,Pamela,Bourtoumieux,pbourtoumieuxcl@miibeian.gov.cn,66,F,Topeka,KS,United States,Los Angeles Lakers,Zach LaVine,Chicago Sky,posters,Dollar,2,0,7.2,62,61,0.78
+error: undefined method `first' for nil:NilClass,Michaeline,Nias,mniascm@topsy.com,57,F,Kansas City,MO,United States,Dallas Mavericks,Zach LaVine,Dallas Wings,backpacks,Dollar,5,7,8.0,66,58,0.78
+error: undefined method `first' for nil:NilClass,Leona,Ossulton,lossultoncn@cnbc.com,76,F,Cleveland,OH,United States,Denver Nuggets,Jamal Murray,Washington Mystics,phone cases,Dollar,5,7,9.5,31,55,0.8
+error: undefined method `first' for nil:NilClass,Nat,Wootton,nwoottonco@phpbb.com,31,M,Pittsburgh,PA,United States,Golden State Warriors,Tobias Harris,Los Angeles Sparks,jerseys,Dollar,3,4,7.3,60,53,0.54
+error: undefined method `first' for nil:NilClass,Alexandr,Webb-Bowen,awebbbowencp@phpbb.com,77,M,Reading,PA,United States,Philadelphia 76ers,Karl-Anthony Towns,Dallas Wings,hats,Dollar,0,7,9.6,42,55,0.38
+error: undefined method `first' for nil:NilClass,Corly,Shyre,cshyrecq@ca.gov,73,F,Colorado Springs,CO,United States,Chicago Bulls,Kyle Lowry,,backpacks,Dollar,2,4,9.2,68,54,0.36
+error: undefined method `first' for nil:NilClass,Stacia,Medcraft,smedcraftcr@theatlantic.com,27,F,Pensacola,FL,United States,Philadelphia 76ers,Deandre Ayton,New York Liberty,posters,Dollar,5,3,8.6,73,68,0.77
+error: undefined method `first' for nil:NilClass,Gregoire,Elliott,gelliottcs@china.com.cn,80,M,Santa Barbara,CA,United States,Golden State Warriors,Kevin Durant,Atlanta Dream,phone cases,Dollar,1,2,4.4,36,40,0.63
+error: undefined method `first' for nil:NilClass,Marya,O' Donohoe,modonohoect@pcworld.com,41,F,Austin,TX,United States,Dallas Mavericks,Anthony Davis,Washington Mystics,jerseys,Dollar,0,6,8.6,70,41,0.64
+error: undefined method `first' for nil:NilClass,Salomon,Tomkin,stomkincu@multiply.com,48,M,Oklahoma City,OK,United States,Philadelphia 76ers,Kevin Durant,,sweatshirts,Dollar,1,5,7.5,69,62,0.34
+error: undefined method `first' for nil:NilClass,Silvio,Ralls,srallscv@lycos.com,57,M,Topeka,KS,United States,Miami Heat,Bradley Beal,Las Vegas Aces,water bottles,Dollar,6,1,10.9,82,67,0.76
+error: undefined method `first' for nil:NilClass,Dorrie,Aylmer,daylmercw@ask.com,39,F,Alexandria,LA,United States,Los Angeles Lakers,James Harden,Washington Mystics,blankets,Dollar,4,8,5.4,42,46,0.63
+error: undefined method `first' for nil:NilClass,Rhett,Groll,rgrollcx@princeton.edu,35,M,Fargo,ND,United States,Los Angeles Lakers,Luka Doncic,Dallas Wings,posters,Dollar,1,1,9.2,82,42,0.46
+error: undefined method `first' for nil:NilClass,Roy,Arrow,rarrowcy@vk.com,65,M,Atlanta,GA,United States,Los Angeles Lakers,Jayson Tatum,,hats,Dollar,5,4,5.9,73,76,0.72
+error: undefined method `first' for nil:NilClass,Nedda,Ofer,nofercz@ftc.gov,76,F,Houston,TX,United States,Houston Rockets,Karl-Anthony Towns,Minnesota Lynx,keychains,Dollar,0,4,11.6,65,49,0.61
+error: undefined method `first' for nil:NilClass,Ozzie,Gornal,ogornald0@eventbrite.com,44,M,Newport Beach,CA,United States,Toronto Raptors,Rudy Gobert,New York Liberty,keychains,Dollar,3,4,6.8,78,47,0.38
+error: undefined method `first' for nil:NilClass,Laryssa,Izachik,lizachikd1@fema.gov,55,F,Akron,OH,United States,Los Angeles Lakers,LeBron James,Dallas Wings,blankets,Dollar,4,7,11.3,54,63,0.78
+error: undefined method `first' for nil:NilClass,Franny,Dymott,fdymottd2@reverbnation.com,72,M,Pensacola,FL,United States,Denver Nuggets,Devin Booker,Minnesota Lynx,phone cases,Dollar,5,5,8.6,41,55,0.38
+error: undefined method `first' for nil:NilClass,Inessa,Molloy,imolloyd3@bandcamp.com,50,F,Fort Lauderdale,FL,United States,Dallas Mavericks,Zion Williamson,,posters,Dollar,1,8,7.0,39,40,0.75
+error: undefined method `first' for nil:NilClass,Obidiah,Plesing,oplesingd4@ustream.tv,21,M,New Haven,CT,United States,Chicago Bulls,James Harden,Dallas Wings,keychains,Dollar,4,3,9.2,90,43,0.4
+error: undefined method `first' for nil:NilClass,Thalia,Millier,tmillierd5@google.co.jp,19,F,Madison,WI,United States,Philadelphia 76ers,Stephen Curry,Dallas Wings,blankets,Dollar,5,5,11.1,52,52,0.7
+error: undefined method `first' for nil:NilClass,Micheil,McEntee,mmcenteed6@intel.com,30,M,Laurel,MD,United States,Golden State Warriors,Jaylen Brown,Washington Mystics,keychains,Dollar,5,8,7.0,39,66,0.52
+error: undefined method `first' for nil:NilClass,Arden,Oloman,aolomand7@go.com,66,F,Seattle,WA,United States,Denver Nuggets,Chris Paul,Washington Mystics,posters,Dollar,4,8,5.7,64,78,0.69
+error: undefined method `first' for nil:NilClass,Beck,Schiell,bschielld8@opera.com,77,M,Katy,TX,United States,Denver Nuggets,Chris Paul,Washington Mystics,posters,Dollar,5,5,5.0,55,42,0.53
+error: undefined method `first' for nil:NilClass,Goddart,Morehall,gmorehalld9@yahoo.com,49,M,Irvine,CA,United States,Golden State Warriors,DeMar DeRozan,Chicago Sky,socks,Dollar,3,7,7.9,51,75,0.67
+error: undefined method `first' for nil:NilClass,Raye,Bentz,rbentzda@delicious.com,77,F,El Paso,TX,United States,Golden State Warriors,Joel Embiid,Atlanta Dream,sweatshirts,Dollar,2,5,11.7,88,59,0.6
+error: undefined method `first' for nil:NilClass,Sylas,Crawcour,scrawcourdb@altervista.org,70,M,Amarillo,TX,United States,Golden State Warriors,Jayson Tatum,Atlanta Dream,sweatshirts,Dollar,0,8,7.3,83,52,0.35
+error: undefined method `first' for nil:NilClass,Queenie,Chate,qchatedc@rediff.com,35,F,North Little Rock,AR,United States,Los Angeles Lakers,Domantas Sabonis,,sweatshirts,Dollar,1,0,10.7,79,76,0.51
+error: undefined method `first' for nil:NilClass,Norris,Gorgl,ngorgldd@trellian.com,72,M,Washington,DC,United States,Golden State Warriors,Bam Adebayo,Minnesota Lynx,hats,Dollar,0,2,4.7,64,66,0.51
+error: undefined method `first' for nil:NilClass,Mary,Kennerknecht,mkennerknechtde@trellian.com,35,F,Winston Salem,NC,United States,Philadelphia 76ers,Ja Morant,,backpacks,Dollar,6,1,11.1,44,72,0.43
+error: undefined method `first' for nil:NilClass,Shanda,Brunini,sbruninidf@archive.org,63,F,Cincinnati,OH,United States,Golden State Warriors,Giannis Antetokounmpo,New York Liberty,backpacks,Dollar,4,2,11.3,40,46,0.6
+error: undefined method `first' for nil:NilClass,Hadrian,Gwynne,hgwynnedg@reddit.com,54,M,Fort Lauderdale,FL,United States,Houston Rockets,Kristaps Porzingis,Los Angeles Sparks,backpacks,Dollar,4,1,10.1,71,47,0.58
+error: undefined method `first' for nil:NilClass,Brynne,Duckham,bduckhamdh@ted.com,22,F,Charleston,WV,United States,Golden State Warriors,Luka Doncic,,hats,Dollar,2,6,8.2,78,77,0.36
+error: undefined method `first' for nil:NilClass,Olav,Shermar,oshermardi@yahoo.com,43,M,Fresno,CA,United States,Los Angeles Lakers,CJ McCollum,Chicago Sky,backpacks,Dollar,4,5,6.1,75,54,0.64
+error: undefined method `first' for nil:NilClass,Randolf,Nurden,rnurdendj@uol.com.br,40,M,Madison,WI,United States,Golden State Warriors,Jaylen Brown,Los Angeles Sparks,socks,Dollar,2,0,10.9,41,41,0.44
+error: undefined method `first' for nil:NilClass,Ericka,Chamberlayne,echamberlaynedk@hhs.gov,64,F,Pasadena,CA,United States,Chicago Bulls,Julius Randle,,socks,Dollar,3,0,8.0,88,57,0.81
+error: undefined method `first' for nil:NilClass,Sena,Siss,ssissdl@timesonline.co.uk,38,F,Jacksonville,FL,United States,Miami Heat,Julius Randle,Dallas Wings,posters,Dollar,3,6,10.6,72,49,0.69
+error: undefined method `first' for nil:NilClass,Loraine,Clench,lclenchdm@elegantthemes.com,36,F,Houston,TX,United States,Los Angeles Lakers,Trae Young,Minnesota Lynx,sweatshirts,Dollar,1,3,5.3,37,79,0.64
+error: undefined method `first' for nil:NilClass,Merilyn,Girardetti,mgirardettidn@wunderground.com,36,F,Birmingham,AL,United States,Los Angeles Lakers,Pascal Siakam,Atlanta Dream,blankets,Dollar,5,8,11.1,62,49,0.35
+error: undefined method `first' for nil:NilClass,Alvy,Gut,agutdo@1688.com,72,M,New York City,NY,United States,Golden State Warriors,Dejounte Murray,Chicago Sky,phone cases,Dollar,1,6,5.5,71,55,0.51
+error: undefined method `first' for nil:NilClass,Benyamin,Tunnah,btunnahdp@msn.com,75,M,Washington,DC,United States,Los Angeles Lakers,Jimmy Butler,Chicago Sky,hats,Dollar,2,0,5.2,77,61,0.64
+error: undefined method `first' for nil:NilClass,Daryl,Highman,dhighmandq@google.com,61,M,El Paso,TX,United States,Philadelphia 76ers,Julius Randle,Los Angeles Sparks,backpacks,Dollar,4,4,11.9,83,73,0.57
+error: undefined method `first' for nil:NilClass,Eolanda,Richards,erichardsdr@skyrock.com,62,F,Columbus,OH,United States,Miami Heat,Russell Westbrook,Dallas Wings,keychains,Dollar,3,1,10.8,56,56,0.81
+error: undefined method `first' for nil:NilClass,Isaak,Leinthall,ileinthallds@blogger.com,72,M,Peoria,IL,United States,Dallas Mavericks,Pascal Siakam,Washington Mystics,hats,Dollar,2,5,5.4,41,60,0.57
+error: undefined method `first' for nil:NilClass,Randene,Gosker,rgoskerdt@t-online.de,38,F,Tulsa,OK,United States,Golden State Warriors,Donovan Mitchell,Los Angeles Sparks,sweatshirts,Dollar,6,6,11.9,54,47,0.46
+error: undefined method `first' for nil:NilClass,Gregg,Joy,gjoydu@goo.gl,75,M,Fresno,CA,United States,Philadelphia 76ers,Ben Simmons,Chicago Sky,blankets,Dollar,2,4,6.0,48,80,0.65
+error: undefined method `first' for nil:NilClass,Iorgo,Henke,ihenkedv@ox.ac.uk,58,M,El Paso,TX,United States,Toronto Raptors,Dejounte Murray,Washington Mystics,hats,Dollar,3,4,8.3,32,61,0.7
+error: undefined method `first' for nil:NilClass,Amii,Flay,aflaydw@about.com,42,F,Norwalk,CT,United States,Miami Heat,Rudy Gobert,,keychains,Dollar,5,4,10.5,49,77,0.75
+error: undefined method `first' for nil:NilClass,Thebault,Woolvett,twoolvettdx@flavors.me,47,M,Fort Lauderdale,FL,United States,Golden State Warriors,Dejounte Murray,,sweatshirts,Dollar,3,3,10.4,87,52,0.44
+error: undefined method `first' for nil:NilClass,Krishnah,Dollimore,kdollimoredy@instagram.com,36,M,Trenton,NJ,United States,Chicago Bulls,Kyle Lowry,New York Liberty,water bottles,Dollar,1,5,6.6,47,52,0.61
+error: undefined method `first' for nil:NilClass,Kelcy,Royce,kroycedz@cocolog-nifty.com,28,F,Boise,ID,United States,Houston Rockets,Karl-Anthony Towns,New York Liberty,phone cases,Dollar,4,8,10.6,87,79,0.5
+error: undefined method `first' for nil:NilClass,Elmore,Duffield,eduffielde0@ca.gov,68,M,Austin,TX,United States,Philadelphia 76ers,Chris Paul,,socks,Dollar,5,3,9.2,68,77,0.81
+error: undefined method `first' for nil:NilClass,Dasie,Robinette,drobinettee1@eventbrite.com,54,F,Dallas,TX,United States,Golden State Warriors,John Collins,Las Vegas Aces,sweatshirts,Dollar,4,3,9.1,87,76,0.65
+error: undefined method `first' for nil:NilClass,Abbe,Heskey,aheskeye2@digg.com,42,M,Syracuse,NY,United States,Toronto Raptors,D'Angelo Russell,Phoenix Mercury,socks,Dollar,3,5,9.8,33,44,0.48
+error: undefined method `first' for nil:NilClass,Derk,Whall,dwhalle3@devhub.com,31,M,Colorado Springs,CO,United States,Miami Heat,James Harden,Los Angeles Sparks,keychains,Dollar,5,5,8.1,86,63,0.65
+error: undefined method `first' for nil:NilClass,Jacky,Beldom,jbeldome4@mail.ru,75,F,Philadelphia,PA,United States,Denver Nuggets,DeMar DeRozan,Dallas Wings,phone cases,Dollar,6,3,4.9,61,45,0.42
+error: undefined method `first' for nil:NilClass,Garret,Dabell,gdabelle5@sakura.ne.jp,25,M,Roanoke,VA,United States,Los Angeles Lakers,Zion Williamson,,water bottles,Dollar,4,8,7.2,34,60,0.74
+error: undefined method `first' for nil:NilClass,Justina,Jorioz,jjorioze6@slate.com,26,F,Sacramento,CA,United States,Los Angeles Lakers,Chris Paul,Washington Mystics,water bottles,Dollar,0,5,10.7,51,45,0.71
+error: undefined method `first' for nil:NilClass,Franni,Nel,fnele7@posterous.com,25,F,Kansas City,MO,United States,Toronto Raptors,Jayson Tatum,,sweatshirts,Dollar,0,2,9.2,30,53,0.58
+error: undefined method `first' for nil:NilClass,Ky,Cabbell,kcabbelle8@ftc.gov,79,M,Saint Louis,MO,United States,Los Angeles Lakers,Kyrie Irving,Washington Mystics,water bottles,Dollar,4,3,9.0,39,72,0.73
+error: undefined method `first' for nil:NilClass,Chet,Robert,croberte9@t-online.de,58,M,Charleston,WV,United States,Los Angeles Lakers,Dejounte Murray,New York Liberty,socks,Dollar,6,4,5.8,45,46,0.51
+error: undefined method `first' for nil:NilClass,Ernestus,Bennellick,ebennellickea@typepad.com,56,M,New York City,NY,United States,Dallas Mavericks,Kyrie Irving,Las Vegas Aces,jerseys,Dollar,5,7,4.2,71,78,0.58
+error: undefined method `first' for nil:NilClass,Abey,Raccio,araccioeb@disqus.com,32,M,Hamilton,OH,United States,Golden State Warriors,Fred VanVleet,Washington Mystics,backpacks,Dollar,2,8,6.2,67,58,0.41
+error: undefined method `first' for nil:NilClass,Pauly,Beeze,pbeezeec@wsj.com,75,M,Staten Island,NY,United States,Los Angeles Lakers,Paul George,Atlanta Dream,jerseys,Dollar,5,1,10.9,57,56,0.66
+error: undefined method `first' for nil:NilClass,Ludwig,Jewise,ljewiseed@squidoo.com,58,M,Philadelphia,PA,United States,Golden State Warriors,John Collins,Washington Mystics,phone cases,Dollar,1,7,9.5,35,63,0.4
+error: undefined method `first' for nil:NilClass,Alie,Klosges,aklosgesee@canalblog.com,64,F,Irving,TX,United States,Houston Rockets,Julius Randle,Las Vegas Aces,phone cases,Dollar,2,7,7.9,45,64,0.59
+error: undefined method `first' for nil:NilClass,Bunnie,Cranstoun,bcranstounef@kickstarter.com,65,F,Charlotte,NC,United States,Miami Heat,Joel Embiid,New York Liberty,hats,Dollar,0,7,4.1,75,78,0.66
+error: undefined method `first' for nil:NilClass,Bebe,Blemings,bblemingseg@printfriendly.com,71,F,Van Nuys,CA,United States,Toronto Raptors,D'Angelo Russell,Los Angeles Sparks,keychains,Dollar,4,1,8.3,75,56,0.51
+error: undefined method `first' for nil:NilClass,Mechelle,Klimontovich,mklimontovicheh@discovery.com,24,F,Houston,TX,United States,Philadelphia 76ers,Stephen Curry,Chicago Sky,hats,Dollar,3,3,5.1,32,74,0.39
+error: undefined method `first' for nil:NilClass,Sela,Bronger,sbrongerei@youtube.com,18,F,San Francisco,CA,United States,Chicago Bulls,Kevin Durant,Atlanta Dream,water bottles,Dollar,5,7,4.6,61,49,0.46
+error: undefined method `first' for nil:NilClass,Tori,Hamberston,thamberstonej@telegraph.co.uk,30,F,Washington,DC,United States,Toronto Raptors,Brandon Ingram,Las Vegas Aces,blankets,Dollar,6,1,4.4,31,57,0.31
+error: undefined method `first' for nil:NilClass,Melody,Hollyard,mhollyardek@gizmodo.com,51,F,Newport Beach,CA,United States,Philadelphia 76ers,Bam Adebayo,,sweatshirts,Dollar,6,4,6.5,85,51,0.33
+error: undefined method `first' for nil:NilClass,Gayel,Tefft,gtefftel@about.me,26,F,Washington,DC,United States,Dallas Mavericks,Kyrie Irving,New York Liberty,phone cases,Dollar,6,5,5.7,73,52,0.76
+error: undefined method `first' for nil:NilClass,Bernadette,Strong,bstrongem@macromedia.com,61,F,Young America,MN,United States,Toronto Raptors,Russell Westbrook,Washington Mystics,sweatshirts,Dollar,5,1,9.4,83,69,0.73
+error: undefined method `first' for nil:NilClass,Stewart,Drinnan,sdrinnanen@redcross.org,45,M,Amarillo,TX,United States,Dallas Mavericks,Zach LaVine,Los Angeles Sparks,keychains,Dollar,3,0,6.8,63,77,0.49
+error: undefined method `first' for nil:NilClass,Denise,Laneham,dlanehameo@ed.gov,26,F,Grand Junction,CO,United States,Los Angeles Lakers,DeMar DeRozan,Dallas Wings,phone cases,Dollar,6,0,7.9,79,80,0.79
+error: undefined method `first' for nil:NilClass,Brittney,Hewson,bhewsonep@marriott.com,40,F,Seattle,WA,United States,Toronto Raptors,Trae Young,Chicago Sky,posters,Dollar,1,5,8.8,38,62,0.5
+error: undefined method `first' for nil:NilClass,Merwin,Depka,mdepkaeq@hatena.ne.jp,35,M,San Antonio,TX,United States,Boston Celtics,Kristaps Porzingis,Las Vegas Aces,phone cases,Dollar,0,0,10.5,42,62,0.82
+error: undefined method `first' for nil:NilClass,Chrystal,Dayne,cdayneer@ox.ac.uk,34,F,Pittsburgh,PA,United States,Los Angeles Lakers,Ben Simmons,Las Vegas Aces,hats,Dollar,3,6,4.1,59,44,0.63
+error: undefined method `first' for nil:NilClass,Sansone,Blasli,sblaslies@mail.ru,41,M,Boston,MA,United States,Denver Nuggets,Jayson Tatum,Dallas Wings,blankets,Dollar,2,5,11.6,59,47,0.33
+error: undefined method `first' for nil:NilClass,Dara,Cammish,dcammishet@virginia.edu,76,F,Houston,TX,United States,Golden State Warriors,CJ McCollum,Phoenix Mercury,jerseys,Dollar,1,4,6.1,31,61,0.5
+error: undefined method `first' for nil:NilClass,Virgie,Elt,velteu@nba.com,18,F,Dallas,TX,United States,Boston Celtics,CJ McCollum,New York Liberty,posters,Dollar,6,2,7.5,56,61,0.78
+error: undefined method `first' for nil:NilClass,Rodrick,Ree,rreeev@bizjournals.com,59,M,Toledo,OH,United States,Chicago Bulls,Myles Turner,Seattle Storm,sweatshirts,Dollar,3,3,5.3,42,68,0.73
+error: undefined method `first' for nil:NilClass,Eden,Matschke,ematschkeew@google.com.au,32,F,Fort Lauderdale,FL,United States,Dallas Mavericks,Kawhi Leonard,,blankets,Dollar,5,0,11.3,66,45,0.53
+error: undefined method `first' for nil:NilClass,Milty,Matasov,mmatasovex@facebook.com,20,M,Atlanta,GA,United States,Golden State Warriors,Karl-Anthony Towns,Dallas Wings,phone cases,Dollar,3,1,9.0,57,56,0.8
+error: undefined method `first' for nil:NilClass,Page,Richard,prichardey@huffingtonpost.com,25,M,Marietta,GA,United States,Golden State Warriors,Dejounte Murray,Las Vegas Aces,hats,Dollar,0,4,8.0,89,50,0.4
+error: undefined method `first' for nil:NilClass,Mirelle,Pimlock,mpimlockez@pagesperso-orange.fr,61,F,Baton Rouge,LA,United States,Golden State Warriors,James Harden,Minnesota Lynx,keychains,Dollar,0,0,10.3,77,77,0.41
+error: undefined method `first' for nil:NilClass,Micheline,Stockoe,mstockoef0@github.io,77,F,Boston,MA,United States,Los Angeles Lakers,Brandon Ingram,Atlanta Dream,backpacks,Dollar,0,1,8.9,71,57,0.65
+error: undefined method `first' for nil:NilClass,Lilah,Saing,lsaingf1@so-net.ne.jp,70,F,Charlotte,NC,United States,Golden State Warriors,Russell Westbrook,,backpacks,Dollar,0,1,11.2,39,66,0.38
+error: undefined method `first' for nil:NilClass,Michel,Husthwaite,mhusthwaitef2@hugedomains.com,18,M,Shawnee Mission,KS,United States,Miami Heat,Jayson Tatum,,water bottles,Dollar,5,4,10.8,65,59,0.38
+error: undefined method `first' for nil:NilClass,Barnaby,Haysar,bhaysarf3@ovh.net,46,M,Houston,TX,United States,Chicago Bulls,Pascal Siakam,,socks,Dollar,2,8,11.7,58,70,0.6
+error: undefined method `first' for nil:NilClass,Celestyn,Lindop,clindopf4@comsenz.com,68,F,Shreveport,LA,United States,Philadelphia 76ers,Klay Thompson,Seattle Storm,jerseys,Dollar,1,5,8.3,69,46,0.35
+error: undefined method `first' for nil:NilClass,Ermina,Cumberledge,ecumberledgef5@si.edu,46,F,Worcester,MA,United States,Miami Heat,James Harden,Chicago Sky,phone cases,Dollar,5,4,11.7,74,65,0.79
+error: undefined method `first' for nil:NilClass,Anthia,Clemmen,aclemmenf6@ovh.net,47,F,Kansas City,MO,United States,Denver Nuggets,D'Angelo Russell,,water bottles,Dollar,5,1,10.2,38,60,0.45
+error: undefined method `first' for nil:NilClass,Astra,ducarme,aducarmef7@usnews.com,38,F,Chicago,IL,United States,Los Angeles Lakers,Zach LaVine,Los Angeles Sparks,sweatshirts,Dollar,6,0,7.4,39,72,0.69
+error: undefined method `first' for nil:NilClass,Melitta,Kellough,mkelloughf8@paginegialle.it,32,F,Scottsdale,AZ,United States,Los Angeles Lakers,Kevin Durant,Seattle Storm,water bottles,Dollar,2,7,7.4,36,54,0.59
+error: undefined method `first' for nil:NilClass,Dusty,Morman,dmormanf9@blog.com,80,F,Melbourne,FL,United States,Miami Heat,Chris Paul,Atlanta Dream,phone cases,Dollar,1,3,6.4,83,80,0.55
+error: undefined method `first' for nil:NilClass,Lilllie,Gaunson,lgaunsonfa@examiner.com,69,F,Birmingham,AL,United States,Philadelphia 76ers,Nikola Jokic,Seattle Storm,water bottles,Dollar,6,3,10.6,74,79,0.59
+error: undefined method `first' for nil:NilClass,Melisent,Beat,mbeatfb@dailymotion.com,21,F,Bismarck,ND,United States,Golden State Warriors,Paul George,Atlanta Dream,sweatshirts,Dollar,3,5,5.8,51,68,0.36
+error: undefined method `first' for nil:NilClass,Meara,Reubens,mreubensfc@about.me,38,F,Spokane,WA,United States,Denver Nuggets,John Collins,Los Angeles Sparks,keychains,Dollar,1,0,11.1,58,49,0.55
+error: undefined method `first' for nil:NilClass,Alexio,Slott,aslottfd@usa.gov,77,M,Toledo,OH,United States,Boston Celtics,Kyle Lowry,,hats,Dollar,3,3,4.5,36,61,0.44
+error: undefined method `first' for nil:NilClass,Salomo,Agutter,sagutterfe@live.com,22,M,Flushing,NY,United States,Golden State Warriors,Kawhi Leonard,,phone cases,Dollar,2,4,6.9,78,78,0.33
+error: undefined method `first' for nil:NilClass,Britta,Minto,bmintoff@cpanel.net,25,F,Brooklyn,NY,United States,Philadelphia 76ers,Ben Simmons,,phone cases,Dollar,3,0,9.2,84,53,0.35
+error: undefined method `first' for nil:NilClass,Lorianna,Bariball,lbariballfg@disqus.com,61,F,Sioux Falls,SD,United States,Los Angeles Lakers,Russell Westbrook,Washington Mystics,hats,Dollar,2,8,9.1,76,71,0.64
+error: undefined method `first' for nil:NilClass,Raf,Pacitti,rpacittifh@discovery.com,20,F,Orlando,FL,United States,Toronto Raptors,Kyle Lowry,Washington Mystics,blankets,Dollar,1,1,8.4,39,47,0.67
+error: undefined method `first' for nil:NilClass,Sherwynd,Doag,sdoagfi@amazon.co.jp,70,M,Washington,DC,United States,Dallas Mavericks,Zach LaVine,Chicago Sky,phone cases,Dollar,5,5,4.0,43,70,0.78
+error: undefined method `first' for nil:NilClass,Toni,D'Hooge,tdhoogefj@furl.net,22,F,Richmond,VA,United States,Miami Heat,LeBron James,Washington Mystics,blankets,Dollar,1,1,4.8,80,55,0.55
+error: undefined method `first' for nil:NilClass,Cleve,Risely,criselyfk@usatoday.com,22,M,Lima,OH,United States,Chicago Bulls,Anthony Davis,Seattle Storm,backpacks,Dollar,2,6,9.2,45,46,0.58
+error: undefined method `first' for nil:NilClass,Carleton,Jessard,cjessardfl@scribd.com,36,M,Torrance,CA,United States,Los Angeles Lakers,Bam Adebayo,New York Liberty,water bottles,Dollar,0,4,6.6,64,50,0.57
+error: undefined method `first' for nil:NilClass,Fredia,Ilyasov,filyasovfm@jiathis.com,56,F,Dallas,TX,United States,Boston Celtics,De'Aaron Fox,Los Angeles Sparks,blankets,Dollar,2,3,7.7,89,49,0.41
+error: undefined method `first' for nil:NilClass,Waverly,Hucquart,whucquartfn@umn.edu,66,M,Beaverton,OR,United States,Chicago Bulls,Myles Turner,Chicago Sky,phone cases,Dollar,1,2,7.0,52,76,0.52
+error: undefined method `first' for nil:NilClass,Berty,Druhan,bdruhanfo@nationalgeographic.com,28,F,Philadelphia,PA,United States,Philadelphia 76ers,Karl-Anthony Towns,Washington Mystics,hats,Dollar,5,3,11.8,56,51,0.81
+error: undefined method `first' for nil:NilClass,Phineas,Escala,pescalafp@nationalgeographic.com,58,M,Concord,CA,United States,Los Angeles Lakers,Kyrie Irving,,posters,Dollar,5,5,6.1,50,48,0.8
+error: undefined method `first' for nil:NilClass,Giff,Lambart,glambartfq@etsy.com,38,M,Sacramento,CA,United States,Golden State Warriors,Fred VanVleet,New York Liberty,jerseys,Dollar,2,0,11.3,39,42,0.59
+error: undefined method `first' for nil:NilClass,Xylina,Cully,xcullyfr@merriam-webster.com,58,F,Richmond,VA,United States,Los Angeles Lakers,Kyrie Irving,Minnesota Lynx,keychains,Dollar,2,8,7.5,75,69,0.66
+error: undefined method `first' for nil:NilClass,Traver,Tuddall,ttuddallfs@mlb.com,74,M,Tampa,FL,United States,Denver Nuggets,Kristaps Porzingis,,sweatshirts,Dollar,6,6,9.1,51,42,0.58
+error: undefined method `first' for nil:NilClass,Nellie,Brotherhead,nbrotherheadft@uiuc.edu,42,F,Sacramento,CA,United States,Dallas Mavericks,James Harden,,posters,Dollar,1,4,9.6,90,50,0.48
+error: undefined method `first' for nil:NilClass,Nikki,Spendley,nspendleyfu@omniture.com,60,F,Trenton,NJ,United States,Los Angeles Lakers,Rudy Gobert,Chicago Sky,blankets,Dollar,6,1,6.5,59,71,0.41
+error: undefined method `first' for nil:NilClass,Austine,Haith,ahaithfv@eepurl.com,45,F,El Paso,TX,United States,Chicago Bulls,Jayson Tatum,New York Liberty,hats,Dollar,5,6,4.0,35,40,0.41
+error: undefined method `first' for nil:NilClass,Patty,Firebrace,pfirebracefw@java.com,59,M,Tulsa,OK,United States,Philadelphia 76ers,Jayson Tatum,Seattle Storm,phone cases,Dollar,3,7,8.0,73,43,0.81
+error: undefined method `first' for nil:NilClass,Marcelle,Emanuelli,memanuellifx@seattletimes.com,66,F,Washington,DC,United States,Miami Heat,Brandon Ingram,Chicago Sky,keychains,Dollar,3,8,6.7,76,73,0.59
+error: undefined method `first' for nil:NilClass,Petr,Glaum,pglaumfy@technorati.com,72,M,Boynton Beach,FL,United States,Boston Celtics,Russell Westbrook,New York Liberty,backpacks,Dollar,1,2,6.3,90,47,0.65
+error: undefined method `first' for nil:NilClass,Katie,O'Fogerty,kofogertyfz@tinypic.com,39,F,Columbus,OH,United States,Chicago Bulls,Anthony Davis,Los Angeles Sparks,sweatshirts,Dollar,1,8,7.9,70,59,0.35
+error: undefined method `first' for nil:NilClass,Philipa,Goretti,pgorettig0@issuu.com,71,F,Gainesville,FL,United States,Denver Nuggets,Myles Turner,,posters,Dollar,0,3,6.4,86,73,0.66
+error: undefined method `first' for nil:NilClass,Beau,Edgeller,bedgellerg1@icq.com,24,M,Washington,DC,United States,Dallas Mavericks,John Collins,,posters,Dollar,6,5,4.8,79,60,0.55
+error: undefined method `first' for nil:NilClass,Trefor,Vyse,tvyseg2@weather.com,55,M,Bryan,TX,United States,Philadelphia 76ers,Jaylen Brown,Phoenix Mercury,blankets,Dollar,5,0,8.5,56,75,0.73
+error: undefined method `first' for nil:NilClass,Abagail,Handrick,ahandrickg3@livejournal.com,73,F,Boston,MA,United States,Miami Heat,Anthony Davis,,water bottles,Dollar,6,8,6.6,71,74,0.61
+error: undefined method `first' for nil:NilClass,Meir,Petow,mpetowg4@unblog.fr,42,M,Pompano Beach,FL,United States,Golden State Warriors,Jimmy Butler,,posters,Dollar,2,3,5.9,86,58,0.63
+error: undefined method `first' for nil:NilClass,Barbi,Bambra,bbambrag5@free.fr,39,F,Denver,CO,United States,Miami Heat,Jamal Murray,,blankets,Dollar,3,0,6.1,74,44,0.53
+error: undefined method `first' for nil:NilClass,Netty,Gartan,ngartang6@angelfire.com,74,F,Amarillo,TX,United States,Dallas Mavericks,Kristaps Porzingis,Las Vegas Aces,hats,Dollar,0,7,5.3,74,59,0.64
+error: undefined method `first' for nil:NilClass,Janice,Cape,jcapeg7@netscape.com,66,F,Sacramento,CA,United States,Golden State Warriors,Jimmy Butler,Chicago Sky,keychains,Dollar,5,1,4.7,47,56,0.6
+error: undefined method `first' for nil:NilClass,Karoly,Adamini,kadaminig8@baidu.com,18,M,Charlottesville,VA,United States,Golden State Warriors,Trae Young,,water bottles,Dollar,3,4,6.2,67,71,0.81
+error: undefined method `first' for nil:NilClass,Weston,Bernardez,wbernardezg9@ted.com,56,M,New York City,NY,United States,Philadelphia 76ers,Trae Young,Las Vegas Aces,socks,Dollar,2,8,10.9,52,44,0.5
+error: undefined method `first' for nil:NilClass,Suzann,Earwicker,searwickerga@baidu.com,80,F,Des Moines,IA,United States,Chicago Bulls,Rudy Gobert,Washington Mystics,jerseys,Dollar,4,6,10.5,36,64,0.42
+error: undefined method `first' for nil:NilClass,Rozella,Dain,rdaingb@ucla.edu,62,F,Sacramento,CA,United States,Philadelphia 76ers,Jimmy Butler,Las Vegas Aces,backpacks,Dollar,1,6,7.9,69,66,0.79
+error: undefined method `first' for nil:NilClass,Nikoletta,Flippini,nflippinigc@imgur.com,74,F,Chicago,IL,United States,Los Angeles Lakers,Julius Randle,,keychains,Dollar,4,4,4.1,68,55,0.36
+error: undefined method `first' for nil:NilClass,Meier,Jessup,mjessupgd@bloomberg.com,68,M,Tempe,AZ,United States,Dallas Mavericks,Bradley Beal,Los Angeles Sparks,phone cases,Dollar,3,6,5.8,78,47,0.52
+error: undefined method `first' for nil:NilClass,Ginger,Mabe,gmabege@wired.com,70,F,Detroit,MI,United States,Los Angeles Lakers,Luka Doncic,Phoenix Mercury,sweatshirts,Dollar,0,0,5.7,48,66,0.63
+error: undefined method `first' for nil:NilClass,Caryn,Attew,cattewgf@java.com,74,F,Omaha,NE,United States,Miami Heat,Jimmy Butler,Chicago Sky,sweatshirts,Dollar,2,6,11.4,42,66,0.78
+error: undefined method `first' for nil:NilClass,Lucita,Gainsboro,lgainsborogg@gravatar.com,57,F,Pittsburgh,PA,United States,Dallas Mavericks,Kyrie Irving,Los Angeles Sparks,hats,Dollar,4,5,7.3,71,51,0.64
+error: undefined method `first' for nil:NilClass,Maje,Breeze,mbreezegh@comsenz.com,45,M,Escondido,CA,United States,Chicago Bulls,Jimmy Butler,Dallas Wings,socks,Dollar,3,3,9.5,32,65,0.65
+error: undefined method `first' for nil:NilClass,Hillard,Cerro,hcerrogi@springer.com,62,M,Merrifield,VA,United States,Los Angeles Lakers,Damian Lillard,Minnesota Lynx,phone cases,Dollar,5,7,10.0,78,62,0.79
+error: undefined method `first' for nil:NilClass,Donalt,Tellett,dtellettgj@state.tx.us,64,M,Bethlehem,PA,United States,Toronto Raptors,Shai Gilgeous-Alexander,,blankets,Dollar,3,4,6.8,46,73,0.51
+error: undefined method `first' for nil:NilClass,Louise,Bullerwell,lbullerwellgk@imgur.com,62,F,Canton,OH,United States,Houston Rockets,Deandre Ayton,Los Angeles Sparks,backpacks,Dollar,5,6,6.8,89,65,0.69
+error: undefined method `first' for nil:NilClass,Kata,Moncreiff,kmoncreiffgl@ovh.net,63,F,Glendale,CA,United States,Los Angeles Lakers,Giannis Antetokounmpo,,jerseys,Dollar,5,0,6.2,68,42,0.6
+error: undefined method `first' for nil:NilClass,Philbert,Westell,pwestellgm@arstechnica.com,80,M,Columbia,SC,United States,Chicago Bulls,Shai Gilgeous-Alexander,Atlanta Dream,hats,Dollar,4,1,9.2,38,79,0.4
+error: undefined method `first' for nil:NilClass,Lemmie,Richings,lrichingsgn@slate.com,29,M,Baltimore,MD,United States,Denver Nuggets,Trae Young,,phone cases,Dollar,3,8,4.1,55,66,0.74
+error: undefined method `first' for nil:NilClass,Daisy,Cockayme,dcockaymego@unesco.org,72,F,Long Beach,CA,United States,Los Angeles Lakers,Damian Lillard,Seattle Storm,posters,Dollar,1,7,10.3,37,57,0.8
+error: undefined method `first' for nil:NilClass,Sadella,Massot,smassotgp@a8.net,69,F,Honolulu,HI,United States,Toronto Raptors,Bam Adebayo,Washington Mystics,water bottles,Dollar,1,7,11.4,63,54,0.55
+error: undefined method `first' for nil:NilClass,August,McCoole,amccoolegq@bbb.org,55,M,Mobile,AL,United States,Philadelphia 76ers,Kawhi Leonard,Minnesota Lynx,hats,Dollar,1,8,11.7,68,69,0.57
+error: undefined method `first' for nil:NilClass,Bren,Schwandner,bschwandnergr@kickstarter.com,39,F,San Bernardino,CA,United States,Los Angeles Lakers,Brandon Ingram,Las Vegas Aces,socks,Dollar,3,0,7.6,60,80,0.66
+error: undefined method `first' for nil:NilClass,Gifford,Chetter,gchettergs@woothemes.com,69,M,Clearwater,FL,United States,Golden State Warriors,Rudy Gobert,Washington Mystics,phone cases,Dollar,0,1,11.1,59,74,0.53
+error: undefined method `first' for nil:NilClass,Levey,Rundle,lrundlegt@histats.com,24,M,Anchorage,AK,United States,Dallas Mavericks,Luka Doncic,Minnesota Lynx,jerseys,Dollar,4,6,6.5,87,64,0.42
+error: undefined method `first' for nil:NilClass,Aurthur,Coxhead,acoxheadgu@canalblog.com,67,M,New York City,NY,United States,Toronto Raptors,Dejounte Murray,Las Vegas Aces,backpacks,Dollar,4,4,7.4,90,67,0.51
+error: undefined method `first' for nil:NilClass,Abra,Earey,aeareygv@tinyurl.com,19,F,Portland,OR,United States,Los Angeles Lakers,D'Angelo Russell,Chicago Sky,keychains,Dollar,3,8,11.5,40,74,0.74
+error: undefined method `first' for nil:NilClass,Sophronia,Guisby,sguisbygw@tamu.edu,32,F,Los Angeles,CA,United States,Philadelphia 76ers,Jamal Murray,Seattle Storm,blankets,Dollar,5,1,4.1,72,52,0.79
+error: undefined method `first' for nil:NilClass,Georgianne,Avrahamian,gavrahamiangx@ocn.ne.jp,62,F,Baton Rouge,LA,United States,Chicago Bulls,John Collins,Atlanta Dream,socks,Dollar,0,0,11.4,44,48,0.49
+error: undefined method `first' for nil:NilClass,Dre,Fratczak,dfratczakgy@cisco.com,54,F,Salt Lake City,UT,United States,Chicago Bulls,Karl-Anthony Towns,,keychains,Dollar,1,2,11.3,85,49,0.41
+error: undefined method `first' for nil:NilClass,Ardelia,Deniset,adenisetgz@altervista.org,66,F,Saint Augustine,FL,United States,Boston Celtics,Joel Embiid,Minnesota Lynx,hats,Dollar,1,4,5.0,49,43,0.78
+error: undefined method `first' for nil:NilClass,Jamison,Aubury,jauburyh0@cpanel.net,31,M,Yonkers,NY,United States,Dallas Mavericks,Zion Williamson,Seattle Storm,phone cases,Dollar,6,5,10.7,58,61,0.55
+error: undefined method `first' for nil:NilClass,Reeta,Broughton,rbroughtonh1@github.io,18,F,Petaluma,CA,United States,Golden State Warriors,Kyle Lowry,Seattle Storm,phone cases,Dollar,1,7,5.6,50,67,0.46
+error: undefined method `first' for nil:NilClass,Darill,Stickells,dstickellsh2@blogspot.com,35,M,Young America,MN,United States,Miami Heat,Chris Paul,Atlanta Dream,posters,Dollar,4,0,7.7,71,74,0.3
+error: undefined method `first' for nil:NilClass,Marianna,Fright,mfrighth3@mysql.com,50,F,Los Angeles,CA,United States,Miami Heat,Bradley Beal,Seattle Storm,backpacks,Dollar,5,7,5.6,71,48,0.46
+error: undefined method `first' for nil:NilClass,Homere,Bruneton,hbrunetonh4@hatena.ne.jp,23,M,Dayton,OH,United States,Houston Rockets,CJ McCollum,Atlanta Dream,phone cases,Dollar,6,1,11.2,45,76,0.41
+error: undefined method `first' for nil:NilClass,Oliviero,Harroll,oharrollh5@ibm.com,69,M,Cedar Rapids,IA,United States,Los Angeles Lakers,Domantas Sabonis,Los Angeles Sparks,phone cases,Dollar,1,7,11.0,47,59,0.46
+error: undefined method `first' for nil:NilClass,Kyla,Iannello,kiannelloh6@wufoo.com,76,F,San Angelo,TX,United States,Dallas Mavericks,Kristaps Porzingis,Los Angeles Sparks,hats,Dollar,4,7,10.3,49,54,0.78
+error: undefined method `first' for nil:NilClass,Marshall,Dillaway,mdillawayh7@nationalgeographic.com,59,M,San Rafael,CA,United States,Chicago Bulls,Klay Thompson,,socks,Dollar,1,5,5.5,47,55,0.54
+error: undefined method `first' for nil:NilClass,Susie,Gude,sgudeh8@bloglines.com,22,F,Iowa City,IA,United States,Golden State Warriors,Pascal Siakam,Chicago Sky,backpacks,Dollar,3,3,11.9,34,63,0.58
+error: undefined method `first' for nil:NilClass,Amitie,McCleverty,amcclevertyh9@mapy.cz,64,F,Fort Collins,CO,United States,Philadelphia 76ers,Ben Simmons,New York Liberty,water bottles,Dollar,3,6,6.2,59,73,0.36
+error: undefined method `first' for nil:NilClass,Mill,Doig,mdoigha@infoseek.co.jp,24,M,Saint Paul,MN,United States,Chicago Bulls,Anthony Davis,Minnesota Lynx,keychains,Dollar,6,4,5.7,78,45,0.56
+error: undefined method `first' for nil:NilClass,Horton,Hardiker,hhardikerhb@freewebs.com,45,M,Dallas,TX,United States,Denver Nuggets,Kevin Durant,Washington Mystics,posters,Dollar,1,6,5.7,71,74,0.57
+error: undefined method `first' for nil:NilClass,Evey,Castelletti,ecastellettihc@salon.com,56,F,Atlanta,GA,United States,Toronto Raptors,Zion Williamson,Los Angeles Sparks,phone cases,Dollar,1,7,7.0,42,49,0.38
+error: undefined method `first' for nil:NilClass,Marv,Brandrick,mbrandrickhd@drupal.org,42,M,Saint Louis,MO,United States,Los Angeles Lakers,Julius Randle,New York Liberty,phone cases,Dollar,1,6,6.3,67,59,0.79
+error: undefined method `first' for nil:NilClass,Zebulen,Zavattiero,zzavattierohe@army.mil,31,M,Bakersfield,CA,United States,Dallas Mavericks,Pascal Siakam,,posters,Dollar,4,5,8.4,36,40,0.37
+error: undefined method `first' for nil:NilClass,Rosy,Bawcock,rbawcockhf@is.gd,63,F,Davenport,IA,United States,Miami Heat,DeMar DeRozan,Dallas Wings,hats,Dollar,2,7,4.6,62,43,0.75
+error: undefined method `first' for nil:NilClass,Sianna,Raith,sraithhg@chronoengine.com,18,F,Jersey City,NJ,United States,Denver Nuggets,Kevin Durant,,jerseys,Dollar,1,5,4.6,67,80,0.42
+error: undefined method `first' for nil:NilClass,Sancho,Spadeck,sspadeckhh@sourceforge.net,28,M,Yakima,WA,United States,Golden State Warriors,Kyrie Irving,Minnesota Lynx,sweatshirts,Dollar,3,8,9.0,45,46,0.44
+error: undefined method `first' for nil:NilClass,Ximenez,Abba,xabbahi@samsung.com,22,M,El Paso,TX,United States,Toronto Raptors,Zion Williamson,Minnesota Lynx,phone cases,Dollar,3,8,9.5,53,73,0.4
+error: undefined method `first' for nil:NilClass,Ardyth,Debney,adebneyhj@mapquest.com,21,F,El Paso,TX,United States,Boston Celtics,Myles Turner,New York Liberty,phone cases,Dollar,5,4,7.5,48,49,0.6
+error: undefined method `first' for nil:NilClass,Ki,Guess,kguesshk@t.co,24,F,San Jose,CA,United States,Golden State Warriors,Kawhi Leonard,,sweatshirts,Dollar,4,3,6.4,33,49,0.37
+error: undefined method `first' for nil:NilClass,Joaquin,Varney,jvarneyhl@barnesandnoble.com,54,M,Albany,GA,United States,Golden State Warriors,Anthony Davis,Minnesota Lynx,blankets,Dollar,6,6,10.4,32,71,0.63
+error: undefined method `first' for nil:NilClass,Brew,Britee,bbriteehm@geocities.com,32,M,Glendale,AZ,United States,Houston Rockets,John Collins,Minnesota Lynx,sweatshirts,Dollar,4,3,10.9,64,61,0.48
+error: undefined method `first' for nil:NilClass,Denver,McMichan,dmcmichanhn@paginegialle.it,80,M,Morgantown,WV,United States,Toronto Raptors,Kawhi Leonard,Seattle Storm,blankets,Dollar,3,1,8.7,79,74,0.81
+error: undefined method `first' for nil:NilClass,Cassie,Baroux,cbarouxho@about.me,68,M,Denver,CO,United States,Miami Heat,Nikola Jokic,,water bottles,Dollar,0,3,10.1,61,77,0.67
+error: undefined method `first' for nil:NilClass,Phineas,Spittall,pspittallhp@spiegel.de,70,M,El Paso,TX,United States,Miami Heat,Bradley Beal,Phoenix Mercury,posters,Dollar,6,7,11.0,35,50,0.33
+error: undefined method `first' for nil:NilClass,Rolf,Batty,rbattyhq@scientificamerican.com,65,M,Fresno,CA,United States,Golden State Warriors,Julius Randle,Minnesota Lynx,posters,Dollar,6,3,6.9,81,54,0.32
+error: undefined method `first' for nil:NilClass,Rafi,Lively,rlivelyhr@virginia.edu,59,M,Seattle,WA,United States,Chicago Bulls,De'Aaron Fox,Los Angeles Sparks,socks,Dollar,5,0,9.9,50,57,0.72
+error: undefined method `first' for nil:NilClass,Cristobal,Wyleman,cwylemanhs@nih.gov,70,M,Spokane,WA,United States,Boston Celtics,Damian Lillard,Minnesota Lynx,phone cases,Dollar,4,6,11.9,72,45,0.47
+error: undefined method `first' for nil:NilClass,Irwinn,Rosenblath,irosenblathht@constantcontact.com,28,M,Littleton,CO,United States,Los Angeles Lakers,Kristaps Porzingis,Los Angeles Sparks,phone cases,Dollar,4,8,4.0,41,64,0.6
+error: undefined method `first' for nil:NilClass,Bruce,Lockhead,blockheadhu@yahoo.co.jp,55,M,Tucson,AZ,United States,Los Angeles Lakers,Nikola Jokic,Seattle Storm,water bottles,Dollar,4,6,5.3,53,66,0.34
+error: undefined method `first' for nil:NilClass,Billy,Rotte,brottehv@webmd.com,34,M,Paterson,NJ,United States,Boston Celtics,DeMar DeRozan,,socks,Dollar,0,0,6.9,75,78,0.52
+error: undefined method `first' for nil:NilClass,Sorcha,McCahey,smccaheyhw@simplemachines.org,37,F,Minneapolis,MN,United States,Dallas Mavericks,De'Aaron Fox,Washington Mystics,backpacks,Dollar,4,2,10.0,36,67,0.75
+error: undefined method `first' for nil:NilClass,Gherardo,Trymme,gtrymmehx@xing.com,22,M,Houston,TX,United States,Houston Rockets,Kyle Lowry,,hats,Dollar,2,7,6.4,68,48,0.71
+error: undefined method `first' for nil:NilClass,Lexis,Hendron,lhendronhy@adobe.com,40,F,Washington,DC,United States,Denver Nuggets,Deandre Ayton,,backpacks,Dollar,3,3,10.6,40,67,0.67
+error: undefined method `first' for nil:NilClass,Cassandry,Gambie,cgambiehz@bizjournals.com,69,F,Charleston,WV,United States,Miami Heat,Kristaps Porzingis,Phoenix Mercury,keychains,Dollar,3,3,8.7,53,74,0.35
+error: undefined method `first' for nil:NilClass,Ad,O' Donohue,aodonohuei0@blogger.com,46,M,Houston,TX,United States,Chicago Bulls,Joel Embiid,New York Liberty,keychains,Dollar,0,6,7.4,42,64,0.35
+error: undefined method `first' for nil:NilClass,Harmony,Bramont,hbramonti1@nymag.com,79,F,Fresno,CA,United States,Philadelphia 76ers,Paul George,Phoenix Mercury,blankets,Dollar,5,5,6.6,45,77,0.46
+error: undefined method `first' for nil:NilClass,Winona,Benning,wbenningi2@sbwire.com,60,F,Dallas,TX,United States,Denver Nuggets,Jayson Tatum,Dallas Wings,posters,Dollar,1,7,5.3,81,59,0.57
+error: undefined method `first' for nil:NilClass,Sidonnie,Vasyushkhin,svasyushkhini3@t.co,22,F,Naples,FL,United States,Golden State Warriors,Rudy Gobert,Washington Mystics,phone cases,Dollar,1,6,6.4,80,45,0.73
+error: undefined method `first' for nil:NilClass,Josephine,Harcarse,jharcarsei4@studiopress.com,34,F,Shreveport,LA,United States,Golden State Warriors,Kyle Lowry,Chicago Sky,blankets,Dollar,1,5,8.9,42,50,0.3
+error: undefined method `first' for nil:NilClass,Reinhard,Chirm,rchirmi5@howstuffworks.com,74,M,Cincinnati,OH,United States,Golden State Warriors,Ben Simmons,,water bottles,Dollar,1,0,9.1,57,58,0.63
+error: undefined method `first' for nil:NilClass,Sandra,Summerton,ssummertoni6@squarespace.com,76,F,Duluth,MN,United States,Miami Heat,Russell Westbrook,Los Angeles Sparks,phone cases,Dollar,3,3,4.2,83,51,0.43
+error: undefined method `first' for nil:NilClass,Torrance,Fearney,tfearneyi7@miitbeian.gov.cn,75,M,Phoenix,AZ,United States,Los Angeles Lakers,Anthony Davis,Minnesota Lynx,socks,Dollar,3,2,6.2,30,66,0.42
+error: undefined method `first' for nil:NilClass,Virgina,Matantsev,vmatantsevi8@is.gd,74,F,Bakersfield,CA,United States,Chicago Bulls,Myles Turner,Las Vegas Aces,jerseys,Dollar,0,6,8.0,76,62,0.52
+error: undefined method `first' for nil:NilClass,Federica,Abbess,fabbessi9@elpais.com,41,F,Frankfort,KY,United States,Golden State Warriors,Donovan Mitchell,Las Vegas Aces,water bottles,Dollar,6,4,9.7,60,51,0.67
+error: undefined method `first' for nil:NilClass,Hirsch,Carnachen,hcarnachenia@mapy.cz,56,M,Silver Spring,MD,United States,Philadelphia 76ers,Anthony Davis,Chicago Sky,backpacks,Dollar,0,2,9.2,43,73,0.37
+error: undefined method `first' for nil:NilClass,Austin,O' Bee,aobeeib@illinois.edu,66,M,Huntington,WV,United States,Los Angeles Lakers,Bam Adebayo,Chicago Sky,hats,Dollar,2,6,11.3,56,61,0.55
+error: undefined method `first' for nil:NilClass,Vernen,Saunter,vsaunteric@unc.edu,78,M,Lubbock,TX,United States,Miami Heat,Jayson Tatum,Minnesota Lynx,phone cases,Dollar,1,4,9.3,66,43,0.75
+error: undefined method `first' for nil:NilClass,Shelby,Shooter,sshooterid@phoca.cz,42,F,Portland,OR,United States,Miami Heat,Kyrie Irving,,posters,Dollar,2,2,8.3,55,59,0.3
+error: undefined method `first' for nil:NilClass,Kassi,Hearnes,khearnesie@eventbrite.com,64,F,Bozeman,MT,United States,Los Angeles Lakers,Jimmy Butler,Minnesota Lynx,sweatshirts,Dollar,5,5,11.0,88,70,0.44
+error: undefined method `first' for nil:NilClass,Pembroke,Seif,pseifif@japanpost.jp,50,M,Athens,GA,United States,Golden State Warriors,Ben Simmons,Minnesota Lynx,jerseys,Dollar,4,3,9.4,31,77,0.67
+error: undefined method `first' for nil:NilClass,Jim,McNamee,jmcnameeig@ehow.com,55,M,Rochester,NY,United States,Miami Heat,Dejounte Murray,Chicago Sky,backpacks,Dollar,1,2,5.3,68,70,0.35
+error: undefined method `first' for nil:NilClass,Chuck,Baillie,cbaillieih@dropbox.com,61,M,Staten Island,NY,United States,Chicago Bulls,Jayson Tatum,Los Angeles Sparks,blankets,Dollar,4,2,7.7,38,62,0.72
+error: undefined method `first' for nil:NilClass,Siana,Santore,ssantoreii@tripod.com,73,F,Lafayette,LA,United States,Miami Heat,Joel Embiid,Phoenix Mercury,phone cases,Dollar,0,2,10.6,31,79,0.65
+error: undefined method `first' for nil:NilClass,Sheilakathryn,Blindermann,sblindermannij@washington.edu,37,F,Peoria,AZ,United States,Los Angeles Lakers,Bam Adebayo,Las Vegas Aces,backpacks,Dollar,4,6,6.8,60,54,0.37
+error: undefined method `first' for nil:NilClass,Meghann,Coxwell,mcoxwellik@trellian.com,54,F,Mesquite,TX,United States,Boston Celtics,Trae Young,,water bottles,Dollar,1,5,8.3,70,60,0.62
+error: undefined method `first' for nil:NilClass,Heinrik,Peet,hpeetil@printfriendly.com,62,M,Oklahoma City,OK,United States,Denver Nuggets,Julius Randle,Las Vegas Aces,water bottles,Dollar,6,3,10.0,34,61,0.74
+error: undefined method `first' for nil:NilClass,Collete,Gentil,cgentilim@bizjournals.com,23,F,Los Angeles,CA,United States,Miami Heat,Jimmy Butler,Las Vegas Aces,jerseys,Dollar,2,7,5.5,31,48,0.82
+error: undefined method `first' for nil:NilClass,Ricky,Monkeman,rmonkemanin@narod.ru,66,M,Charlotte,NC,United States,Los Angeles Lakers,Chris Paul,Los Angeles Sparks,posters,Dollar,6,1,6.5,47,52,0.48
+error: undefined method `first' for nil:NilClass,Drona,Lynagh,dlynaghio@weather.com,77,F,Lexington,KY,United States,Dallas Mavericks,Fred VanVleet,Dallas Wings,phone cases,Dollar,6,2,9.1,63,71,0.68
+error: undefined method `first' for nil:NilClass,Kira,Ashe,kasheip@chicagotribune.com,77,F,Little Rock,AR,United States,Miami Heat,Ja Morant,Minnesota Lynx,hats,Dollar,0,1,6.6,82,47,0.79
+error: undefined method `first' for nil:NilClass,Kevina,Matyas,kmatyasiq@oracle.com,74,F,Oakland,CA,United States,Boston Celtics,LeBron James,Los Angeles Sparks,sweatshirts,Dollar,4,6,5.9,86,50,0.65
+error: undefined method `first' for nil:NilClass,Halette,Skydall,hskydallir@mashable.com,37,F,Fredericksburg,VA,United States,Chicago Bulls,Brandon Ingram,Washington Mystics,keychains,Dollar,3,4,6.2,53,76,0.79
+error: undefined method `first' for nil:NilClass,Gage,Stowgill,gstowgillis@infoseek.co.jp,74,M,Jeffersonville,IN,United States,Miami Heat,James Harden,Atlanta Dream,jerseys,Dollar,6,6,8.3,62,65,0.77
+error: undefined method `first' for nil:NilClass,Ludwig,Litt,llittit@intel.com,54,M,Nashville,TN,United States,Chicago Bulls,Karl-Anthony Towns,Las Vegas Aces,phone cases,Dollar,2,4,11.0,65,65,0.47
+error: undefined method `first' for nil:NilClass,Kermit,Gilston,kgilstoniu@msu.edu,28,M,Dallas,TX,United States,Toronto Raptors,Chris Paul,Dallas Wings,water bottles,Dollar,4,8,7.4,86,55,0.3
+error: undefined method `first' for nil:NilClass,Shurwood,Lapworth,slapworthiv@buzzfeed.com,22,M,Salt Lake City,UT,United States,Philadelphia 76ers,Kyrie Irving,,posters,Dollar,3,2,4.8,67,56,0.52
+error: undefined method `first' for nil:NilClass,Janie,Lamberth,jlamberthiw@discovery.com,60,F,Tampa,FL,United States,Dallas Mavericks,Kevin Durant,Minnesota Lynx,jerseys,Dollar,4,8,7.4,72,79,0.7
+error: undefined method `first' for nil:NilClass,Horst,Febry,hfebryix@facebook.com,33,M,Spartanburg,SC,United States,Golden State Warriors,Anthony Davis,Atlanta Dream,sweatshirts,Dollar,6,3,5.4,90,70,0.71
+error: undefined method `first' for nil:NilClass,Lindy,Wadworth,lwadworthiy@cnet.com,67,F,Chicago,IL,United States,Dallas Mavericks,Russell Westbrook,Chicago Sky,blankets,Dollar,1,6,8.3,31,61,0.37
+error: undefined method `first' for nil:NilClass,Lyndsey,Bentzen,lbentzeniz@jugem.jp,21,F,Miami,FL,United States,Golden State Warriors,Dejounte Murray,Chicago Sky,keychains,Dollar,6,0,11.9,72,59,0.44
+error: undefined method `first' for nil:NilClass,Graham,Gauld,ggauldj0@uol.com.br,79,M,New York City,NY,United States,Houston Rockets,Dejounte Murray,Los Angeles Sparks,posters,Dollar,6,1,7.2,80,80,0.39
+error: undefined method `first' for nil:NilClass,Byram,Gimeno,bgimenoj1@scientificamerican.com,78,M,Shreveport,LA,United States,Dallas Mavericks,Paul George,Los Angeles Sparks,hats,Dollar,4,7,9.0,62,78,0.76
+error: undefined method `first' for nil:NilClass,Raynell,Portress,rportressj2@vimeo.com,79,F,Jefferson City,MO,United States,Dallas Mavericks,Kyle Lowry,,water bottles,Dollar,5,4,5.8,79,74,0.79
+error: undefined method `first' for nil:NilClass,Stavros,Baines,sbainesj3@youtu.be,65,M,Honolulu,HI,United States,Dallas Mavericks,Joel Embiid,,posters,Dollar,6,3,5.7,63,54,0.5
+error: undefined method `first' for nil:NilClass,Aymer,Harral,aharralj4@oracle.com,40,M,Los Angeles,CA,United States,Toronto Raptors,Zach LaVine,,phone cases,Dollar,2,1,9.7,52,80,0.6
+error: undefined method `first' for nil:NilClass,Franky,Sonnenschein,fsonnenscheinj5@usnews.com,58,M,Syracuse,NY,United States,Chicago Bulls,Chris Paul,,keychains,Dollar,0,8,9.0,68,76,0.3
+error: undefined method `first' for nil:NilClass,Aldwin,Benes,abenesj6@addtoany.com,52,M,Largo,FL,United States,Miami Heat,Pascal Siakam,Los Angeles Sparks,blankets,Dollar,5,3,7.8,47,48,0.44
+error: undefined method `first' for nil:NilClass,Reginauld,Pavlenko,rpavlenkoj7@marketwatch.com,36,M,Jefferson City,MO,United States,Miami Heat,James Harden,Los Angeles Sparks,socks,Dollar,5,6,9.5,52,47,0.45
+error: undefined method `first' for nil:NilClass,Fidelia,Cud,fcudj8@ebay.co.uk,35,F,Philadelphia,PA,United States,Dallas Mavericks,DeMar DeRozan,Atlanta Dream,hats,Dollar,6,5,8.0,78,50,0.74
+error: undefined method `first' for nil:NilClass,Arlene,Studdert,astuddertj9@blog.com,58,F,Pensacola,FL,United States,Houston Rockets,Julius Randle,Washington Mystics,water bottles,Dollar,4,5,9.6,61,72,0.44
+error: undefined method `first' for nil:NilClass,Olenka,Abercrombie,oabercrombieja@theatlantic.com,37,F,Peoria,AZ,United States,Boston Celtics,Shai Gilgeous-Alexander,,hats,Dollar,3,5,11.6,60,42,0.82
+error: undefined method `first' for nil:NilClass,Mariele,Limeburn,mlimeburnjb@cloudflare.com,70,F,Jamaica,NY,United States,Golden State Warriors,CJ McCollum,,jerseys,Dollar,1,2,5.4,59,51,0.42
+error: undefined method `first' for nil:NilClass,Ewart,Vassel,evasseljc@pbs.org,79,M,Lincoln,NE,United States,Dallas Mavericks,Fred VanVleet,Chicago Sky,keychains,Dollar,4,7,9.3,71,42,0.31
+error: undefined method `first' for nil:NilClass,Marielle,Wale,mwalejd@facebook.com,66,F,Dayton,OH,United States,Philadelphia 76ers,Luka Doncic,Minnesota Lynx,blankets,Dollar,0,3,8.6,90,62,0.77
+error: undefined method `first' for nil:NilClass,Cate,Pirt,cpirtje@engadget.com,25,F,Bonita Springs,FL,United States,Miami Heat,Pascal Siakam,,sweatshirts,Dollar,5,6,9.8,57,77,0.75
+error: undefined method `first' for nil:NilClass,Gifford,Minghella,gminghellajf@usatoday.com,66,M,Cleveland,OH,United States,Golden State Warriors,Giannis Antetokounmpo,Seattle Storm,blankets,Dollar,4,0,9.3,51,48,0.47
+error: undefined method `first' for nil:NilClass,Maximilian,Hensmans,mhensmansjg@google.es,47,M,Gilbert,AZ,United States,Chicago Bulls,D'Angelo Russell,Atlanta Dream,water bottles,Dollar,0,8,6.4,34,59,0.76
+error: undefined method `first' for nil:NilClass,Kristopher,Arends,karendsjh@imdb.com,39,M,Wichita,KS,United States,Los Angeles Lakers,LeBron James,Seattle Storm,socks,Dollar,1,3,10.8,73,61,0.51
+error: undefined method `first' for nil:NilClass,Binny,L'Hommeau,blhommeauji@sourceforge.net,67,F,Lubbock,TX,United States,Denver Nuggets,Russell Westbrook,,keychains,Dollar,3,0,9.7,35,79,0.67
+error: undefined method `first' for nil:NilClass,Kamilah,Osbourne,kosbournejj@java.com,32,F,Louisville,KY,United States,Miami Heat,Luka Doncic,Dallas Wings,jerseys,Dollar,3,6,5.1,40,75,0.66
+error: undefined method `first' for nil:NilClass,Marcie,Tassel,mtasseljk@unicef.org,72,F,Trenton,NJ,United States,Philadelphia 76ers,Domantas Sabonis,Washington Mystics,socks,Dollar,1,4,7.1,73,54,0.59
+error: undefined method `first' for nil:NilClass,Kamillah,Porteous,kporteousjl@reverbnation.com,20,F,Phoenix,AZ,United States,Philadelphia 76ers,Nikola Jokic,Los Angeles Sparks,phone cases,Dollar,4,2,4.4,81,51,0.77
+error: undefined method `first' for nil:NilClass,Avram,Alexander,aalexanderjm@tamu.edu,75,M,Dallas,TX,United States,Philadelphia 76ers,James Harden,,socks,Dollar,6,6,7.3,57,42,0.4
+error: undefined method `first' for nil:NilClass,Max,Paz,mpazjn@t-online.de,70,M,Salt Lake City,UT,United States,Miami Heat,Jimmy Butler,New York Liberty,water bottles,Dollar,0,2,11.9,73,43,0.57
+error: undefined method `first' for nil:NilClass,Gusta,Selwood,gselwoodjo@biglobe.ne.jp,23,F,Oklahoma City,OK,United States,Golden State Warriors,DeMar DeRozan,Chicago Sky,posters,Dollar,5,2,4.8,51,63,0.54
+error: undefined method `first' for nil:NilClass,Danni,Escalera,descalerajp@unicef.org,46,F,Fort Worth,TX,United States,Miami Heat,Kawhi Leonard,Chicago Sky,hats,Dollar,1,2,5.2,84,76,0.32
+error: undefined method `first' for nil:NilClass,Stoddard,Laweles,slawelesjq@patch.com,58,F,Fort Worth,TX,United States,Chicago Bulls,Bam Adebayo,Minnesota Lynx,blankets,Dollar,6,2,6.8,73,69,0.77
+error: undefined method `first' for nil:NilClass,Yovonnda,Martinek,ymartinekjr@unesco.org,26,F,Phoenix,AZ,United States,Miami Heat,Julius Randle,Las Vegas Aces,backpacks,Dollar,0,0,5.1,67,40,0.49
+error: undefined method `first' for nil:NilClass,Ferdy,Izchaki,fizchakijs@gmpg.org,27,M,Fort Wayne,IN,United States,Golden State Warriors,Zach LaVine,New York Liberty,posters,Dollar,5,4,4.8,90,55,0.42
+error: undefined method `first' for nil:NilClass,Cassie,Heasley,cheasleyjt@usa.gov,36,F,Rockford,IL,United States,Philadelphia 76ers,Devin Booker,Washington Mystics,hats,Dollar,1,7,8.7,76,71,0.62
+error: undefined method `first' for nil:NilClass,Aubrey,Aksell,aaksellju@salon.com,77,M,Baton Rouge,LA,United States,Denver Nuggets,Nikola Jokic,Las Vegas Aces,hats,Dollar,3,2,4.5,60,80,0.41
+error: undefined method `first' for nil:NilClass,Rriocard,Ridout,rridoutjv@huffingtonpost.com,62,M,Macon,GA,United States,Chicago Bulls,Zach LaVine,,socks,Dollar,2,1,4.5,32,51,0.52
+error: undefined method `first' for nil:NilClass,Thacher,Onyon,tonyonjw@homestead.com,43,M,Albuquerque,NM,United States,Chicago Bulls,Damian Lillard,Los Angeles Sparks,blankets,Dollar,6,2,9.2,67,77,0.82
+error: undefined method `first' for nil:NilClass,Katherina,Bonallick,kbonallickjx@trellian.com,64,F,Waterbury,CT,United States,Philadelphia 76ers,Klay Thompson,Seattle Storm,blankets,Dollar,5,0,9.4,39,43,0.54
+error: undefined method `first' for nil:NilClass,Lillis,Patman,lpatmanjy@noaa.gov,26,F,Wilmington,DE,United States,Chicago Bulls,Brandon Ingram,Washington Mystics,phone cases,Dollar,3,4,7.5,36,64,0.81
+error: undefined method `first' for nil:NilClass,Darwin,Malatalant,dmalatalantjz@clickbank.net,30,M,Mobile,AL,United States,Golden State Warriors,Nikola Jokic,Las Vegas Aces,sweatshirts,Dollar,2,1,11.4,38,67,0.4
+error: undefined method `first' for nil:NilClass,Matthiew,Edney,medneyk0@washington.edu,24,M,Sarasota,FL,United States,Los Angeles Lakers,Russell Westbrook,Los Angeles Sparks,sweatshirts,Dollar,3,4,8.1,62,72,0.5
+error: undefined method `first' for nil:NilClass,Harry,Maciaszek,hmaciaszekk1@abc.net.au,74,M,Salt Lake City,UT,United States,Dallas Mavericks,Nikola Jokic,,jerseys,Dollar,3,7,9.3,37,46,0.72
+error: undefined method `first' for nil:NilClass,Alex,Marusik,amarusikk2@macromedia.com,65,M,Hot Springs National Park,AR,United States,Boston Celtics,Stephen Curry,,hats,Dollar,0,0,7.8,87,48,0.72
+error: undefined method `first' for nil:NilClass,Zed,Rankine,zrankinek3@ezinearticles.com,55,M,Lexington,KY,United States,Los Angeles Lakers,Ben Simmons,Los Angeles Sparks,socks,Dollar,5,0,9.2,69,59,0.74
+error: undefined method `first' for nil:NilClass,Marys,Cutmere,mcutmerek4@mail.ru,79,F,Youngstown,OH,United States,Los Angeles Lakers,Karl-Anthony Towns,,sweatshirts,Dollar,0,1,10.7,32,71,0.81
+error: undefined method `first' for nil:NilClass,Tyler,Brundill,tbrundillk5@zimbio.com,22,M,Juneau,AK,United States,Los Angeles Lakers,Donovan Mitchell,Los Angeles Sparks,water bottles,Dollar,4,0,11.5,47,40,0.33
+error: undefined method `first' for nil:NilClass,Masha,Cosford,mcosfordk6@amazon.de,20,F,Pittsburgh,PA,United States,Golden State Warriors,Joel Embiid,,sweatshirts,Dollar,3,7,10.5,51,65,0.7
+error: undefined method `first' for nil:NilClass,Sonny,Hugin,shugink7@illinois.edu,59,M,Lake Worth,FL,United States,Houston Rockets,Giannis Antetokounmpo,Washington Mystics,blankets,Dollar,4,5,11.6,70,72,0.44
+error: undefined method `first' for nil:NilClass,Garrott,Scadding,gscaddingk8@mapy.cz,65,M,Boca Raton,FL,United States,Los Angeles Lakers,Kyrie Irving,Dallas Wings,posters,Dollar,6,4,4.7,31,42,0.62
+error: undefined method `first' for nil:NilClass,Jaine,Hepher,jhepherk9@prlog.org,71,F,Sacramento,CA,United States,Los Angeles Lakers,Karl-Anthony Towns,Minnesota Lynx,water bottles,Dollar,5,3,5.4,75,49,0.53
+error: undefined method `first' for nil:NilClass,Glory,Hedley,ghedleyka@state.tx.us,68,F,Denver,CO,United States,Golden State Warriors,Jimmy Butler,Washington Mystics,blankets,Dollar,3,0,9.7,37,52,0.38
+error: undefined method `first' for nil:NilClass,Monica,Fellon,mfellonkb@blog.com,23,F,Colorado Springs,CO,United States,Golden State Warriors,Domantas Sabonis,,socks,Dollar,0,2,5.3,32,64,0.74
+error: undefined method `first' for nil:NilClass,Nico,Quinnell,nquinnellkc@qq.com,32,M,Merrifield,VA,United States,Boston Celtics,Nikola Jokic,Dallas Wings,blankets,Dollar,0,1,10.9,63,56,0.41
+error: undefined method `first' for nil:NilClass,Torrin,Antuk,tantukkd@theglobeandmail.com,65,M,Sarasota,FL,United States,Dallas Mavericks,Zion Williamson,Los Angeles Sparks,phone cases,Dollar,6,2,8.3,48,43,0.45
+error: undefined method `first' for nil:NilClass,Rita,Esome,resomeke@yellowpages.com,74,F,Washington,DC,United States,Miami Heat,Brandon Ingram,Las Vegas Aces,phone cases,Dollar,2,5,9.9,32,47,0.64
+error: undefined method `first' for nil:NilClass,Claudia,Rawling,crawlingkf@elegantthemes.com,32,F,Burbank,CA,United States,Golden State Warriors,Trae Young,,phone cases,Dollar,2,0,7.6,39,67,0.49
+error: undefined method `first' for nil:NilClass,Leora,Goodlife,lgoodlifekg@1688.com,45,F,Memphis,TN,United States,Chicago Bulls,Jamal Murray,Washington Mystics,blankets,Dollar,3,7,5.4,87,47,0.73
+error: undefined method `first' for nil:NilClass,Bobbie,Ajam,bajamkh@merriam-webster.com,55,F,Pittsburgh,PA,United States,Chicago Bulls,Jamal Murray,Atlanta Dream,water bottles,Dollar,1,0,10.0,51,47,0.51
+error: undefined method `first' for nil:NilClass,Kiley,McCourt,kmccourtki@comsenz.com,59,F,Texarkana,TX,United States,Chicago Bulls,Pascal Siakam,Washington Mystics,backpacks,Dollar,6,2,10.0,47,63,0.76
+error: undefined method `first' for nil:NilClass,Kale,Oxenden,koxendenkj@devhub.com,46,M,Jacksonville,FL,United States,Boston Celtics,Luka Doncic,Minnesota Lynx,hats,Dollar,1,8,10.5,77,55,0.56
+error: undefined method `first' for nil:NilClass,Edwin,Striker,estrikerkk@wufoo.com,41,M,Corpus Christi,TX,United States,Golden State Warriors,Donovan Mitchell,,phone cases,Dollar,2,7,8.4,50,42,0.33
+error: undefined method `first' for nil:NilClass,Geoff,Hanniger,ghannigerkl@merriam-webster.com,28,M,Waterloo,IA,United States,Philadelphia 76ers,Giannis Antetokounmpo,Los Angeles Sparks,blankets,Dollar,1,1,6.9,55,40,0.32
+error: undefined method `first' for nil:NilClass,Elvina,Summerhayes,esummerhayeskm@cnn.com,68,F,Denver,CO,United States,Philadelphia 76ers,Deandre Ayton,Seattle Storm,posters,Dollar,6,8,7.7,33,62,0.31
+error: undefined method `first' for nil:NilClass,Barry,Braghini,bbraghinikn@is.gd,31,M,New Bedford,MA,United States,Miami Heat,Bradley Beal,Phoenix Mercury,water bottles,Dollar,0,8,8.8,67,70,0.69
+error: undefined method `first' for nil:NilClass,Herschel,Brusby,hbrusbyko@spotify.com,28,M,Clearwater,FL,United States,Toronto Raptors,Devin Booker,Minnesota Lynx,keychains,Dollar,2,4,10.5,87,44,0.69
+error: undefined method `first' for nil:NilClass,Laraine,Wolfit,lwolfitkp@intel.com,78,F,Trenton,NJ,United States,Los Angeles Lakers,Ja Morant,Atlanta Dream,hats,Dollar,4,6,11.6,39,69,0.79
+error: undefined method `first' for nil:NilClass,Reinald,Shawcross,rshawcrosskq@indiegogo.com,18,M,Seattle,WA,United States,Philadelphia 76ers,Julius Randle,,backpacks,Dollar,5,5,11.5,56,73,0.65
+error: undefined method `first' for nil:NilClass,Otha,Sutcliff,osutcliffkr@bbb.org,53,F,Pasadena,CA,United States,Los Angeles Lakers,Dejounte Murray,,phone cases,Dollar,3,6,8.8,80,41,0.59
+error: undefined method `first' for nil:NilClass,Hinda,Mogford,hmogfordks@msn.com,40,F,Los Angeles,CA,United States,Toronto Raptors,Joel Embiid,,backpacks,Dollar,2,2,8.1,30,43,0.37
+error: undefined method `first' for nil:NilClass,Valentino,Malden,vmaldenkt@livejournal.com,30,M,Oceanside,CA,United States,Denver Nuggets,Tobias Harris,Seattle Storm,sweatshirts,Dollar,6,8,8.6,90,58,0.51
+error: undefined method `first' for nil:NilClass,Rubin,Ewles,rewlesku@ebay.com,31,M,Henderson,NV,United States,Houston Rockets,Anthony Davis,Los Angeles Sparks,sweatshirts,Dollar,6,8,5.1,80,76,0.34
+error: undefined method `first' for nil:NilClass,Ashli,Harm,aharmkv@ucoz.com,21,F,Brockton,MA,United States,Los Angeles Lakers,Kevin Durant,,blankets,Dollar,4,3,5.8,36,53,0.59
+error: undefined method `first' for nil:NilClass,Bertie,Stallebrass,bstallebrasskw@infoseek.co.jp,67,F,Nashville,TN,United States,Golden State Warriors,Domantas Sabonis,Las Vegas Aces,water bottles,Dollar,5,8,11.4,33,47,0.71
+error: undefined method `first' for nil:NilClass,Adina,Alexis,aalexiskx@nba.com,18,F,Killeen,TX,United States,Philadelphia 76ers,Kyle Lowry,Las Vegas Aces,hats,Dollar,2,3,6.8,34,61,0.42
+error: undefined method `first' for nil:NilClass,Albina,Bristo,abristoky@webs.com,70,F,Wilmington,NC,United States,Miami Heat,Donovan Mitchell,,water bottles,Dollar,6,7,11.4,73,63,0.41
+error: undefined method `first' for nil:NilClass,Aubine,Dobinson,adobinsonkz@china.com.cn,69,F,Erie,PA,United States,Philadelphia 76ers,Tobias Harris,,blankets,Dollar,2,0,11.5,73,53,0.72
+error: undefined method `first' for nil:NilClass,Zedekiah,Hunnywell,zhunnywelll0@usnews.com,54,M,Erie,PA,United States,Golden State Warriors,Domantas Sabonis,New York Liberty,phone cases,Dollar,4,6,5.5,66,77,0.81
+error: undefined method `first' for nil:NilClass,Lorraine,Looney,llooneyl1@google.com.br,26,F,Fort Myers,FL,United States,Golden State Warriors,Dejounte Murray,Seattle Storm,posters,Dollar,4,0,8.2,67,42,0.78
+error: undefined method `first' for nil:NilClass,Doreen,Follit,dfollitl2@economist.com,77,F,San Diego,CA,United States,Miami Heat,Devin Booker,Washington Mystics,hats,Dollar,3,2,11.4,60,50,0.73
+error: undefined method `first' for nil:NilClass,Trisha,Klimkiewich,tklimkiewichl3@printfriendly.com,47,F,Hayward,CA,United States,Miami Heat,Rudy Gobert,Dallas Wings,phone cases,Dollar,5,4,11.4,82,76,0.73
+error: undefined method `first' for nil:NilClass,Demetria,Halle,dhallel4@psu.edu,58,F,Dayton,OH,United States,Miami Heat,Zion Williamson,New York Liberty,posters,Dollar,6,5,4.5,52,59,0.32
+error: undefined method `first' for nil:NilClass,Elicia,Enrietto,eenriettol5@4shared.com,63,F,Oklahoma City,OK,United States,Toronto Raptors,Donovan Mitchell,Chicago Sky,jerseys,Dollar,6,0,6.4,75,73,0.49
+error: undefined method `first' for nil:NilClass,Andra,Lemmens,alemmensl6@hatena.ne.jp,79,F,Alpharetta,GA,United States,Los Angeles Lakers,Pascal Siakam,Seattle Storm,phone cases,Dollar,3,5,10.9,85,74,0.42
+error: undefined method `first' for nil:NilClass,Cris,MacTeague,cmacteaguel7@nba.com,23,F,Tulsa,OK,United States,Miami Heat,Nikola Jokic,,water bottles,Dollar,0,7,10.8,69,68,0.57
+error: undefined method `first' for nil:NilClass,Danya,Colbeck,dcolbeckl8@cyberchimps.com,54,M,Panama City,FL,United States,Golden State Warriors,Jaylen Brown,Minnesota Lynx,sweatshirts,Dollar,3,6,8.0,32,41,0.75
+error: undefined method `first' for nil:NilClass,Kipp,Wooller,kwoollerl9@earthlink.net,39,M,Oakland,CA,United States,Philadelphia 76ers,Jaylen Brown,,socks,Dollar,5,4,8.2,89,43,0.66
+error: undefined method `first' for nil:NilClass,Catharine,Billanie,cbillaniela@bloglovin.com,59,F,Saint Paul,MN,United States,Philadelphia 76ers,Donovan Mitchell,Los Angeles Sparks,phone cases,Dollar,1,4,10.2,81,41,0.5
+error: undefined method `first' for nil:NilClass,Drake,Keward,dkewardlb@admin.ch,57,M,Honolulu,HI,United States,Golden State Warriors,Kyle Lowry,,backpacks,Dollar,1,2,9.3,69,76,0.32
+error: undefined method `first' for nil:NilClass,Hillier,Pietrzyk,hpietrzyklc@godaddy.com,46,M,Boston,MA,United States,Golden State Warriors,Brandon Ingram,Chicago Sky,jerseys,Dollar,5,4,10.8,41,60,0.36
+error: undefined method `first' for nil:NilClass,Nana,Mayow,nmayowld@pcworld.com,43,F,Boise,ID,United States,Golden State Warriors,Bam Adebayo,,phone cases,Dollar,4,2,10.9,62,61,0.37
+error: undefined method `first' for nil:NilClass,Rowney,Cregeen,rcregeenle@histats.com,80,M,Pittsburgh,PA,United States,Chicago Bulls,Fred VanVleet,,water bottles,Dollar,5,4,7.3,62,50,0.62
+error: undefined method `first' for nil:NilClass,Locke,Vereker,lverekerlf@geocities.jp,22,M,Pittsburgh,PA,United States,Chicago Bulls,Anthony Davis,Atlanta Dream,sweatshirts,Dollar,0,1,7.8,69,68,0.64
+error: undefined method `first' for nil:NilClass,Anitra,Muffett,amuffettlg@jiathis.com,18,F,Wilkes Barre,PA,United States,Golden State Warriors,Jaylen Brown,Minnesota Lynx,blankets,Dollar,5,5,5.8,48,74,0.42
+error: undefined method `first' for nil:NilClass,Balduin,Lindborg,blindborglh@statcounter.com,53,M,Saint Paul,MN,United States,Miami Heat,Jamal Murray,Seattle Storm,keychains,Dollar,6,3,11.6,31,46,0.36
+error: undefined method `first' for nil:NilClass,Fey,Allmann,fallmannli@nationalgeographic.com,64,F,Philadelphia,PA,United States,Los Angeles Lakers,D'Angelo Russell,Las Vegas Aces,water bottles,Dollar,3,1,7.7,57,49,0.35
+error: undefined method `first' for nil:NilClass,Bernadine,Pusey,bpuseylj@newsvine.com,40,F,Columbus,OH,United States,Golden State Warriors,Shai Gilgeous-Alexander,New York Liberty,sweatshirts,Dollar,3,3,5.1,80,42,0.77
+error: undefined method `first' for nil:NilClass,Hedwiga,Verrall,hverralllk@tripod.com,62,F,Canton,OH,United States,Chicago Bulls,Kyrie Irving,Los Angeles Sparks,posters,Dollar,1,0,5.0,44,60,0.36
+error: undefined method `first' for nil:NilClass,Shell,Haynesford,shaynesfordll@yellowbook.com,69,F,Mobile,AL,United States,Houston Rockets,Jimmy Butler,Seattle Storm,backpacks,Dollar,3,4,11.9,65,61,0.43
+error: undefined method `first' for nil:NilClass,Scottie,Kemmer,skemmerlm@imdb.com,47,M,Vero Beach,FL,United States,Philadelphia 76ers,Kevin Durant,,backpacks,Dollar,4,3,6.5,69,45,0.37
+error: undefined method `first' for nil:NilClass,Deana,Parlett,dparlettln@hugedomains.com,75,F,Phoenix,AZ,United States,Golden State Warriors,Bam Adebayo,,sweatshirts,Dollar,2,1,8.8,51,41,0.31
+error: undefined method `first' for nil:NilClass,Gawen,McFadyen,gmcfadyenlo@liveinternet.ru,61,M,Pasadena,CA,United States,Miami Heat,Bam Adebayo,Los Angeles Sparks,backpacks,Dollar,3,4,4.9,83,65,0.48
+error: undefined method `first' for nil:NilClass,Rebbecca,LaBastida,rlabastidalp@dyndns.org,49,F,Orlando,FL,United States,Philadelphia 76ers,Karl-Anthony Towns,Chicago Sky,socks,Dollar,6,6,11.3,42,70,0.39
+error: undefined method `first' for nil:NilClass,Gwenora,Johanssen,gjohanssenlq@guardian.co.uk,35,F,Dallas,TX,United States,Houston Rockets,LeBron James,Minnesota Lynx,jerseys,Dollar,3,3,10.7,58,74,0.61
+error: undefined method `first' for nil:NilClass,Karyn,Tumility,ktumilitylr@acquirethisname.com,59,F,San Jose,CA,United States,Golden State Warriors,Ja Morant,,jerseys,Dollar,4,3,11.2,73,63,0.49
+error: undefined method `first' for nil:NilClass,Carree,McAughtrie,cmcaughtriels@hubpages.com,62,F,Cleveland,OH,United States,Miami Heat,Rudy Gobert,Las Vegas Aces,jerseys,Dollar,5,2,4.8,50,58,0.56
+error: undefined method `first' for nil:NilClass,Dianemarie,Threlkeld,dthrelkeldlt@harvard.edu,60,F,Roanoke,VA,United States,Philadelphia 76ers,DeMar DeRozan,Los Angeles Sparks,hats,Dollar,1,2,6.5,38,51,0.56
+error: undefined method `first' for nil:NilClass,Hugibert,Rummin,hrumminlu@trellian.com,50,M,New York City,NY,United States,Denver Nuggets,Julius Randle,New York Liberty,jerseys,Dollar,1,1,10.7,67,58,0.55
+error: undefined method `first' for nil:NilClass,Massimiliano,Milkins,mmilkinslv@ihg.com,20,M,Wilmington,DE,United States,Houston Rockets,Nikola Jokic,,water bottles,Dollar,6,4,11.8,70,45,0.4
+error: undefined method `first' for nil:NilClass,Godfry,Karslake,gkarslakelw@mozilla.org,59,M,Sacramento,CA,United States,Dallas Mavericks,Dejounte Murray,,hats,Dollar,6,8,8.7,83,61,0.55
+error: undefined method `first' for nil:NilClass,Tobi,MacRedmond,tmacredmondlx@skype.com,49,F,New York City,NY,United States,Los Angeles Lakers,Jayson Tatum,New York Liberty,posters,Dollar,6,6,6.8,34,55,0.53
+error: undefined method `first' for nil:NilClass,Rollins,Ford,rfordly@dmoz.org,72,M,Asheville,NC,United States,Golden State Warriors,Devin Booker,Las Vegas Aces,sweatshirts,Dollar,5,2,7.4,56,55,0.77
+error: undefined method `first' for nil:NilClass,Raine,Ribou,rriboulz@kickstarter.com,41,F,Louisville,KY,United States,Los Angeles Lakers,Ben Simmons,,keychains,Dollar,1,3,8.6,38,57,0.71
+error: undefined method `first' for nil:NilClass,Karlens,Beining,kbeiningm0@mozilla.org,38,M,Milwaukee,WI,United States,Denver Nuggets,Damian Lillard,,water bottles,Dollar,3,6,5.9,31,76,0.44
+error: undefined method `first' for nil:NilClass,Corry,Usherwood,cusherwoodm1@twitter.com,54,F,San Francisco,CA,United States,Miami Heat,Karl-Anthony Towns,Phoenix Mercury,posters,Dollar,1,0,7.2,82,46,0.64
+error: undefined method `first' for nil:NilClass,Arny,Hessenthaler,ahessenthalerm2@ocn.ne.jp,66,M,Newport Beach,CA,United States,Dallas Mavericks,Ben Simmons,Atlanta Dream,blankets,Dollar,6,1,10.6,72,57,0.72
+error: undefined method `first' for nil:NilClass,Emilee,Copeland,ecopelandm3@hibu.com,27,F,West Palm Beach,FL,United States,Los Angeles Lakers,Donovan Mitchell,Dallas Wings,socks,Dollar,3,7,10.3,90,48,0.44
+error: undefined method `first' for nil:NilClass,Tedd,Thorald,tthoraldm4@intel.com,60,M,Spokane,WA,United States,Miami Heat,Kyrie Irving,Dallas Wings,socks,Dollar,3,2,10.6,60,70,0.6
+error: undefined method `first' for nil:NilClass,Mickie,Toderini,mtoderinim5@goo.ne.jp,35,M,Worcester,MA,United States,Denver Nuggets,Donovan Mitchell,,socks,Dollar,1,4,8.9,42,64,0.58
+error: undefined method `first' for nil:NilClass,Heinrick,Bloyes,hbloyesm6@arizona.edu,61,M,Madison,WI,United States,Chicago Bulls,Paul George,Minnesota Lynx,hats,Dollar,6,2,7.7,36,74,0.51
+error: undefined method `first' for nil:NilClass,Kendricks,Ferroni,kferronim7@webs.com,54,M,Jacksonville,FL,United States,Philadelphia 76ers,Kawhi Leonard,Los Angeles Sparks,sweatshirts,Dollar,5,8,6.0,68,72,0.54
+error: undefined method `first' for nil:NilClass,Allister,Pyle,apylem8@wired.com,44,M,Pinellas Park,FL,United States,Miami Heat,Shai Gilgeous-Alexander,Washington Mystics,hats,Dollar,0,5,11.8,33,55,0.73
+error: undefined method `first' for nil:NilClass,Colan,Sieb,csiebm9@xing.com,46,M,Kansas City,MO,United States,Golden State Warriors,Julius Randle,Las Vegas Aces,keychains,Dollar,3,1,4.8,34,79,0.74
+error: undefined method `first' for nil:NilClass,Hansiain,De Malchar,hdemalcharma@ycombinator.com,62,M,Harrisburg,PA,United States,Los Angeles Lakers,LeBron James,Washington Mystics,blankets,Dollar,0,5,8.4,31,62,0.43
+error: undefined method `first' for nil:NilClass,Lisle,Harpham,lharphammb@amazon.co.jp,79,M,Annapolis,MD,United States,Chicago Bulls,Zach LaVine,,water bottles,Dollar,4,6,10.2,57,47,0.34
+error: undefined method `first' for nil:NilClass,Lebbie,Kardos,lkardosmc@blogger.com,78,F,Minneapolis,MN,United States,Los Angeles Lakers,Kevin Durant,,backpacks,Dollar,0,1,6.5,84,80,0.48
+error: undefined method `first' for nil:NilClass,Therine,Guice,tguicemd@xrea.com,53,F,White Plains,NY,United States,Los Angeles Lakers,Devin Booker,Las Vegas Aces,keychains,Dollar,1,2,10.1,42,50,0.8
+error: undefined method `first' for nil:NilClass,Benjamen,Wilderspoon,bwilderspoonme@loc.gov,76,M,Corpus Christi,TX,United States,Houston Rockets,Dejounte Murray,Seattle Storm,keychains,Dollar,1,0,5.0,36,76,0.71
+error: undefined method `first' for nil:NilClass,Delila,Eble,deblemf@msu.edu,52,F,Honolulu,HI,United States,Denver Nuggets,Joel Embiid,Minnesota Lynx,blankets,Dollar,2,2,7.8,52,79,0.41
+error: undefined method `first' for nil:NilClass,Raphael,Herrema,rherremamg@youku.com,49,M,Salt Lake City,UT,United States,Dallas Mavericks,Zach LaVine,,keychains,Dollar,4,6,11.5,54,63,0.61
+error: undefined method `first' for nil:NilClass,Thelma,Benes,tbenesmh@thetimes.co.uk,65,F,Washington,DC,United States,Golden State Warriors,DeMar DeRozan,,sweatshirts,Dollar,0,2,9.5,49,40,0.69
+error: undefined method `first' for nil:NilClass,Floria,Vayne,fvaynemi@sciencedaily.com,40,F,Akron,OH,United States,Houston Rockets,Karl-Anthony Towns,,keychains,Dollar,3,6,10.7,34,58,0.8
+error: undefined method `first' for nil:NilClass,Georas,O'Loghlen,gologhlenmj@skyrock.com,18,M,Wichita,KS,United States,Houston Rockets,Shai Gilgeous-Alexander,Washington Mystics,backpacks,Dollar,4,6,11.2,75,41,0.69
+error: undefined method `first' for nil:NilClass,Sibyl,Satterthwaite,ssatterthwaitemk@thetimes.co.uk,66,M,El Paso,TX,United States,Golden State Warriors,Klay Thompson,Los Angeles Sparks,socks,Dollar,2,5,9.6,74,68,0.77
+error: undefined method `first' for nil:NilClass,Carlie,Cops,ccopsml@php.net,68,M,Bronx,NY,United States,Los Angeles Lakers,James Harden,Los Angeles Sparks,keychains,Dollar,0,7,9.9,52,70,0.66
+error: undefined method `first' for nil:NilClass,Bethena,Wallwood,bwallwoodmm@goo.ne.jp,54,F,Tulsa,OK,United States,Houston Rockets,Ben Simmons,Los Angeles Sparks,blankets,Dollar,5,2,11.4,52,59,0.49
+error: undefined method `first' for nil:NilClass,Winifield,O'Hogertie,wohogertiemn@amazon.co.jp,54,M,Fort Wayne,IN,United States,Miami Heat,Paul George,Atlanta Dream,water bottles,Dollar,1,1,7.9,67,61,0.69
+error: undefined method `first' for nil:NilClass,Chere,Fritter,cfrittermo@merriam-webster.com,58,F,Wichita,KS,United States,Miami Heat,Trae Young,Las Vegas Aces,blankets,Dollar,3,6,11.6,61,51,0.81
+error: undefined method `first' for nil:NilClass,Payton,Brannan,pbrannanmp@webs.com,25,M,Yonkers,NY,United States,Philadelphia 76ers,Julius Randle,Seattle Storm,sweatshirts,Dollar,4,1,10.6,56,62,0.4
+error: undefined method `first' for nil:NilClass,Nicolea,Karmel,nkarmelmq@sogou.com,21,F,Alexandria,VA,United States,Golden State Warriors,Chris Paul,New York Liberty,phone cases,Dollar,3,2,6.6,62,60,0.54
+error: undefined method `first' for nil:NilClass,Haywood,Wadge,hwadgemr@phpbb.com,56,M,Grand Rapids,MI,United States,Los Angeles Lakers,Jaylen Brown,Minnesota Lynx,water bottles,Dollar,3,3,8.2,48,70,0.7
+error: undefined method `first' for nil:NilClass,Clary,O'Spellissey,cospellisseyms@huffingtonpost.com,52,F,New York City,NY,United States,Boston Celtics,Shai Gilgeous-Alexander,Los Angeles Sparks,backpacks,Dollar,2,6,10.8,39,55,0.77
+error: undefined method `first' for nil:NilClass,Sarah,Farrent,sfarrentmt@vistaprint.com,33,F,Jackson,MS,United States,Dallas Mavericks,Zion Williamson,Las Vegas Aces,sweatshirts,Dollar,6,6,4.5,54,46,0.52
+error: undefined method `first' for nil:NilClass,Perl,Katte,pkattemu@w3.org,44,F,Alexandria,VA,United States,Golden State Warriors,Rudy Gobert,Minnesota Lynx,backpacks,Dollar,4,7,6.6,82,45,0.43
+error: undefined method `first' for nil:NilClass,Quinlan,Risebrow,qrisebrowmv@dion.ne.jp,40,M,Newark,NJ,United States,Miami Heat,Domantas Sabonis,Atlanta Dream,jerseys,Dollar,1,1,6.3,68,65,0.59
+error: undefined method `first' for nil:NilClass,Glynn,Bogies,gbogiesmw@webnode.com,38,M,Migrate,KY,United States,Los Angeles Lakers,Bradley Beal,Las Vegas Aces,keychains,Dollar,3,5,4.0,35,61,0.74
+error: undefined method `first' for nil:NilClass,Sheila-kathryn,Simoens,ssimoensmx@infoseek.co.jp,41,F,Madison,WI,United States,Dallas Mavericks,Stephen Curry,Los Angeles Sparks,keychains,Dollar,6,0,5.4,40,47,0.33
+error: undefined method `first' for nil:NilClass,Andris,Cattenach,acattenachmy@yahoo.com,67,M,Boise,ID,United States,Miami Heat,Donovan Mitchell,,backpacks,Dollar,2,8,11.6,55,62,0.7
+error: undefined method `first' for nil:NilClass,Myranda,Gladdish,mgladdishmz@qq.com,49,F,Dayton,OH,United States,Golden State Warriors,Giannis Antetokounmpo,Washington Mystics,blankets,Dollar,3,4,8.4,75,78,0.62
+error: undefined method `first' for nil:NilClass,Norris,Physic,nphysicn0@a8.net,70,M,Ocala,FL,United States,Golden State Warriors,Domantas Sabonis,Phoenix Mercury,hats,Dollar,4,3,9.2,82,79,0.71
+error: undefined method `first' for nil:NilClass,Laure,Wolfinger,lwolfingern1@rakuten.co.jp,65,F,Amarillo,TX,United States,Los Angeles Lakers,Anthony Davis,Chicago Sky,keychains,Dollar,2,8,11.2,40,49,0.43
+error: undefined method `first' for nil:NilClass,Felicdad,Lante,flanten2@ning.com,69,F,Salt Lake City,UT,United States,Dallas Mavericks,Klay Thompson,Phoenix Mercury,keychains,Dollar,6,1,4.0,65,54,0.46
+error: undefined method `first' for nil:NilClass,Salvidor,Mineghelli,smineghellin3@census.gov,79,M,Harrisburg,PA,United States,Dallas Mavericks,Ja Morant,Washington Mystics,water bottles,Dollar,3,1,7.4,64,65,0.82
+error: undefined method `first' for nil:NilClass,Alvira,Gergher,agerghern4@goo.ne.jp,41,F,Englewood,CO,United States,Golden State Warriors,Jimmy Butler,Los Angeles Sparks,sweatshirts,Dollar,1,2,6.6,50,41,0.65
+error: undefined method `first' for nil:NilClass,Shelby,Fiddy,sfiddyn5@mysql.com,36,F,Houston,TX,United States,Chicago Bulls,Ben Simmons,,sweatshirts,Dollar,0,7,7.0,40,57,0.62
+error: undefined method `first' for nil:NilClass,Georgie,Edney,gedneyn6@latimes.com,18,F,Nashville,TN,United States,Miami Heat,Luka Doncic,Washington Mystics,posters,Dollar,3,1,10.1,41,42,0.38
+error: undefined method `first' for nil:NilClass,Baldwin,Meriguet,bmeriguetn7@quantcast.com,24,M,Indianapolis,IN,United States,Toronto Raptors,Klay Thompson,,backpacks,Dollar,1,8,9.7,53,73,0.79
+error: undefined method `first' for nil:NilClass,Judith,Letham,jlethamn8@wikimedia.org,69,F,Denver,CO,United States,Golden State Warriors,Kristaps Porzingis,Dallas Wings,blankets,Dollar,1,3,7.7,75,57,0.43
+error: undefined method `first' for nil:NilClass,Lorenza,McKeurtan,lmckeurtann9@goo.gl,25,F,Omaha,NE,United States,Golden State Warriors,Kawhi Leonard,Las Vegas Aces,jerseys,Dollar,1,1,6.5,46,72,0.81
+error: undefined method `first' for nil:NilClass,Angelia,Spriggin,asprigginna@de.vu,62,F,Carol Stream,IL,United States,Dallas Mavericks,Kawhi Leonard,Las Vegas Aces,posters,Dollar,2,0,9.8,84,55,0.47
+error: undefined method `first' for nil:NilClass,Silvana,Lummis,slummisnb@zdnet.com,41,F,Greenville,SC,United States,Miami Heat,Joel Embiid,Chicago Sky,hats,Dollar,4,2,8.7,73,51,0.68
+error: undefined method `first' for nil:NilClass,Ondrea,Petrowsky,opetrowskync@vistaprint.com,60,F,Riverside,CA,United States,Denver Nuggets,Luka Doncic,Washington Mystics,sweatshirts,Dollar,2,6,4.3,68,47,0.34
+error: undefined method `first' for nil:NilClass,Garald,Klagges,gklaggesnd@prlog.org,48,M,Denver,CO,United States,Golden State Warriors,Jamal Murray,Washington Mystics,jerseys,Dollar,3,0,10.2,59,72,0.34
+error: undefined method `first' for nil:NilClass,Bent,Arnald,barnaldne@bloglines.com,58,M,Gainesville,FL,United States,Los Angeles Lakers,Kawhi Leonard,Chicago Sky,socks,Dollar,0,7,7.7,57,46,0.69
+error: undefined method `first' for nil:NilClass,Elva,Startin,estartinnf@lulu.com,18,F,Van Nuys,CA,United States,Philadelphia 76ers,Tobias Harris,Chicago Sky,sweatshirts,Dollar,2,7,7.6,50,43,0.63
+error: undefined method `first' for nil:NilClass,Dolli,Loader,dloaderng@github.io,61,F,Birmingham,AL,United States,Chicago Bulls,Kevin Durant,,water bottles,Dollar,4,2,6.3,32,65,0.81
+error: undefined method `first' for nil:NilClass,Elnar,Whittington,ewhittingtonnh@mtv.com,18,M,Topeka,KS,United States,Los Angeles Lakers,John Collins,,hats,Dollar,4,0,7.3,39,72,0.66
+error: undefined method `first' for nil:NilClass,Angela,Hounson,ahounsonni@walmart.com,19,F,Atlanta,GA,United States,Golden State Warriors,Fred VanVleet,Minnesota Lynx,posters,Dollar,6,4,5.1,57,49,0.6
+error: undefined method `first' for nil:NilClass,Innis,Zottoli,izottolinj@upenn.edu,65,M,Cleveland,OH,United States,Philadelphia 76ers,Kyle Lowry,Atlanta Dream,blankets,Dollar,1,1,8.0,46,44,0.41
+error: undefined method `first' for nil:NilClass,Gabey,Moggie,gmoggienk@sitemeter.com,57,F,Lancaster,CA,United States,Miami Heat,Karl-Anthony Towns,Seattle Storm,jerseys,Dollar,0,1,7.6,54,44,0.65
+error: undefined method `first' for nil:NilClass,Dean,Arnaudet,darnaudetnl@theatlantic.com,38,M,Troy,MI,United States,Dallas Mavericks,Kawhi Leonard,Los Angeles Sparks,blankets,Dollar,2,2,9.1,54,58,0.64
+error: undefined method `first' for nil:NilClass,Elias,Owen,eowennm@patch.com,72,M,Bethesda,MD,United States,Philadelphia 76ers,Ben Simmons,Las Vegas Aces,phone cases,Dollar,4,7,11.4,72,63,0.55
+error: undefined method `first' for nil:NilClass,Tam,Bengall,tbengallnn@elegantthemes.com,46,M,Washington,DC,United States,Golden State Warriors,Nikola Jokic,Chicago Sky,socks,Dollar,2,4,6.6,35,78,0.59
+error: undefined method `first' for nil:NilClass,Samuele,Davies,sdaviesno@cdbaby.com,36,M,Anchorage,AK,United States,Golden State Warriors,Domantas Sabonis,,jerseys,Dollar,4,3,5.0,87,67,0.41
+error: undefined method `first' for nil:NilClass,Regina,Fenlon,rfenlonnp@fotki.com,43,F,Brooklyn,NY,United States,Los Angeles Lakers,DeMar DeRozan,,jerseys,Dollar,1,1,8.7,46,42,0.52
+error: undefined method `first' for nil:NilClass,Lemuel,Monini,lmonininq@github.com,32,M,Odessa,TX,United States,Houston Rockets,Fred VanVleet,Washington Mystics,phone cases,Dollar,3,8,5.3,47,64,0.5
+error: undefined method `first' for nil:NilClass,Leoline,Canto,lcantonr@infoseek.co.jp,61,F,Houston,TX,United States,Miami Heat,Nikola Jokic,,sweatshirts,Dollar,3,0,11.4,87,48,0.45
+error: undefined method `first' for nil:NilClass,Ezra,Winchurst,ewinchurstns@people.com.cn,35,M,Spokane,WA,United States,Philadelphia 76ers,LeBron James,,backpacks,Dollar,3,6,8.1,71,58,0.38
+error: undefined method `first' for nil:NilClass,Gretel,Jelliman,gjellimannt@ebay.com,58,F,Bloomington,IN,United States,Denver Nuggets,Zion Williamson,New York Liberty,jerseys,Dollar,2,2,7.7,78,42,0.35
+error: undefined method `first' for nil:NilClass,Salomone,Traut,strautnu@ning.com,66,M,Wilmington,NC,United States,Los Angeles Lakers,Devin Booker,Chicago Sky,hats,Dollar,4,2,4.7,64,54,0.59
+error: undefined method `first' for nil:NilClass,Emelia,Newlove,enewlovenv@ftc.gov,45,F,Springfield,IL,United States,Los Angeles Lakers,LeBron James,Atlanta Dream,phone cases,Dollar,6,7,7.5,57,53,0.59
+error: undefined method `first' for nil:NilClass,Lula,Canto,lcantonw@mozilla.com,37,F,Dallas,TX,United States,Boston Celtics,Jamal Murray,Minnesota Lynx,hats,Dollar,6,8,11.2,34,72,0.78
+error: undefined method `first' for nil:NilClass,Louise,Tuttle,ltuttlenx@vimeo.com,24,F,Fort Lauderdale,FL,United States,Los Angeles Lakers,Kevin Durant,Minnesota Lynx,posters,Dollar,2,6,9.9,78,72,0.43
+error: undefined method `first' for nil:NilClass,Kelcie,Paslow,kpaslowny@livejournal.com,75,F,Saint Louis,MO,United States,Philadelphia 76ers,James Harden,Los Angeles Sparks,sweatshirts,Dollar,3,0,7.5,57,65,0.69
+error: undefined method `first' for nil:NilClass,Pinchas,Parradine,pparradinenz@msu.edu,79,M,San Jose,CA,United States,Philadelphia 76ers,D'Angelo Russell,,phone cases,Dollar,4,2,5.0,31,77,0.81
+error: undefined method `first' for nil:NilClass,Levin,Battman,lbattmano0@t-online.de,43,M,Schenectady,NY,United States,Toronto Raptors,Giannis Antetokounmpo,Las Vegas Aces,posters,Dollar,0,0,10.8,65,50,0.54
+error: undefined method `first' for nil:NilClass,Stephine,Leppingwell,sleppingwello1@home.pl,24,F,Pocatello,ID,United States,Los Angeles Lakers,John Collins,Seattle Storm,water bottles,Dollar,5,8,10.2,53,80,0.65
+error: undefined method `first' for nil:NilClass,Talyah,Fairy,tfairyo2@ihg.com,64,F,Melbourne,FL,United States,Denver Nuggets,Pascal Siakam,Las Vegas Aces,phone cases,Dollar,5,3,10.2,58,46,0.52
+error: undefined method `first' for nil:NilClass,Joellyn,Cookney,jcookneyo3@dyndns.org,39,F,Hartford,CT,United States,Boston Celtics,Jayson Tatum,Las Vegas Aces,hats,Dollar,1,8,11.8,85,77,0.39
+error: undefined method `first' for nil:NilClass,Eirena,McFetridge,emcfetridgeo4@prlog.org,35,F,Norfolk,VA,United States,Dallas Mavericks,Bradley Beal,Washington Mystics,posters,Dollar,0,7,10.5,48,43,0.32
+error: undefined method `first' for nil:NilClass,Ruthy,Hunday,rhundayo5@imageshack.us,79,F,Syracuse,NY,United States,Chicago Bulls,Jamal Murray,,socks,Dollar,3,6,10.9,44,69,0.72
+error: undefined method `first' for nil:NilClass,Leigh,Tippetts,ltippettso6@bbc.co.uk,67,M,Louisville,KY,United States,Dallas Mavericks,Rudy Gobert,Las Vegas Aces,blankets,Dollar,3,0,4.8,61,57,0.5
+error: undefined method `first' for nil:NilClass,Alvera,Luto,alutoo7@whitehouse.gov,21,F,Alpharetta,GA,United States,Golden State Warriors,LeBron James,Las Vegas Aces,jerseys,Dollar,2,4,5.6,43,73,0.81
+error: undefined method `first' for nil:NilClass,Kenon,Brugsma,kbrugsmao8@themeforest.net,78,M,Anderson,IN,United States,Miami Heat,Fred VanVleet,,posters,Dollar,5,3,9.8,57,58,0.76
+error: undefined method `first' for nil:NilClass,Zacharie,Castanho,zcastanhoo9@ed.gov,80,M,San Antonio,TX,United States,Los Angeles Lakers,Bam Adebayo,Chicago Sky,water bottles,Dollar,2,0,9.8,64,66,0.74
+error: undefined method `first' for nil:NilClass,Jarrid,Rodolphe,jrodolpheoa@nasa.gov,63,M,Orange,CA,United States,Dallas Mavericks,Domantas Sabonis,,phone cases,Dollar,0,3,9.1,50,43,0.43
+error: undefined method `first' for nil:NilClass,Erskine,Stickles,esticklesob@unblog.fr,65,M,Naples,FL,United States,Los Angeles Lakers,Shai Gilgeous-Alexander,Los Angeles Sparks,water bottles,Dollar,3,4,9.9,88,73,0.43
+error: undefined method `first' for nil:NilClass,Barnie,Bullimore,bbullimoreoc@alexa.com,62,M,Houston,TX,United States,Houston Rockets,Kyle Lowry,,posters,Dollar,1,1,5.9,85,49,0.75
+error: undefined method `first' for nil:NilClass,Nathaniel,Garriock,ngarriockod@hexun.com,25,M,Roanoke,VA,United States,Chicago Bulls,Jimmy Butler,,water bottles,Dollar,2,3,11.4,55,78,0.8
+error: undefined method `first' for nil:NilClass,Roy,Vanelli,rvanellioe@networkadvertising.org,68,M,Saint Louis,MO,United States,Dallas Mavericks,CJ McCollum,Minnesota Lynx,posters,Dollar,0,7,8.0,46,51,0.5
+error: undefined method `first' for nil:NilClass,Brenna,Styan,bstyanof@rediff.com,24,F,Salt Lake City,UT,United States,Golden State Warriors,Anthony Davis,Seattle Storm,sweatshirts,Dollar,5,4,7.3,63,77,0.45
+error: undefined method `first' for nil:NilClass,Stanislaus,Dalziel,sdalzielog@hatena.ne.jp,21,M,Torrance,CA,United States,Houston Rockets,Jayson Tatum,Minnesota Lynx,socks,Dollar,6,7,8.1,75,41,0.49
+error: undefined method `first' for nil:NilClass,Dewitt,Roakes,droakesoh@foxnews.com,77,M,Fort Lauderdale,FL,United States,Philadelphia 76ers,Myles Turner,,socks,Dollar,0,3,6.2,30,56,0.44
+error: undefined method `first' for nil:NilClass,Iggy,Lindback,ilindbackoi@google.pl,34,M,Albany,NY,United States,Philadelphia 76ers,Deandre Ayton,Los Angeles Sparks,socks,Dollar,6,8,10.2,39,58,0.37
+error: undefined method `first' for nil:NilClass,Saba,Sussans,ssussansoj@mail.ru,59,F,Jamaica,NY,United States,Golden State Warriors,Dejounte Murray,Washington Mystics,water bottles,Dollar,1,8,7.7,66,80,0.35
+error: undefined method `first' for nil:NilClass,Ashley,Ambrosoni,aambrosoniok@barnesandnoble.com,42,M,Odessa,TX,United States,Miami Heat,Zach LaVine,,socks,Dollar,2,4,5.6,70,75,0.79
+error: undefined method `first' for nil:NilClass,Derby,Tomala,dtomalaol@instagram.com,65,M,El Paso,TX,United States,Los Angeles Lakers,Stephen Curry,Atlanta Dream,hats,Dollar,0,8,10.6,49,52,0.47
+error: undefined method `first' for nil:NilClass,Ruthi,Robbie,rrobbieom@dagondesign.com,36,F,Washington,DC,United States,Dallas Mavericks,Deandre Ayton,Las Vegas Aces,blankets,Dollar,3,4,7.2,53,42,0.65
+error: undefined method `first' for nil:NilClass,Daron,Proughten,dproughtenon@technorati.com,69,M,Saint Paul,MN,United States,Philadelphia 76ers,Devin Booker,Phoenix Mercury,phone cases,Dollar,3,3,11.5,50,73,0.39
+error: undefined method `first' for nil:NilClass,Farand,Seaborne,fseaborneoo@stanford.edu,32,F,Henderson,NV,United States,Dallas Mavericks,Kristaps Porzingis,,backpacks,Dollar,0,8,8.5,37,74,0.48
+error: undefined method `first' for nil:NilClass,Terra,Hazell,thazellop@oakley.com,44,F,Sioux City,IA,United States,Chicago Bulls,Devin Booker,,socks,Dollar,4,4,8.6,76,77,0.57
+error: undefined method `first' for nil:NilClass,Annabela,Pringour,apringouroq@mit.edu,64,F,Akron,OH,United States,Golden State Warriors,Jamal Murray,Chicago Sky,jerseys,Dollar,2,1,8.9,57,64,0.39
+error: undefined method `first' for nil:NilClass,Ardyth,Hasluck,ahasluckor@cnbc.com,76,F,Newton,MA,United States,Los Angeles Lakers,CJ McCollum,Washington Mystics,water bottles,Dollar,3,8,11.1,70,44,0.64
+error: undefined method `first' for nil:NilClass,Jean,Huddlestone,jhuddlestoneos@pen.io,66,F,Bloomington,IL,United States,Chicago Bulls,CJ McCollum,Minnesota Lynx,hats,Dollar,2,1,8.2,89,76,0.8
+error: undefined method `first' for nil:NilClass,Vinnie,Raffin,vraffinot@go.com,49,M,Charlotte,NC,United States,Los Angeles Lakers,Russell Westbrook,,blankets,Dollar,2,0,10.2,70,73,0.76
+error: undefined method `first' for nil:NilClass,Hernando,Throssell,hthrossellou@instagram.com,71,M,Duluth,MN,United States,Miami Heat,Rudy Gobert,New York Liberty,water bottles,Dollar,4,3,11.4,42,69,0.59
+error: undefined method `first' for nil:NilClass,Lindsey,Sommerton,lsommertonov@pagesperso-orange.fr,18,M,Clearwater,FL,United States,Los Angeles Lakers,Donovan Mitchell,Las Vegas Aces,keychains,Dollar,2,7,6.8,45,40,0.6
+error: undefined method `first' for nil:NilClass,Tucker,Pinnick,tpinnickow@smh.com.au,58,M,Atlanta,GA,United States,Los Angeles Lakers,Chris Paul,Los Angeles Sparks,phone cases,Dollar,1,2,7.8,71,72,0.52
+error: undefined method `first' for nil:NilClass,Tadeas,Hallor,thallorox@globo.com,64,M,Brooklyn,NY,United States,Miami Heat,CJ McCollum,Seattle Storm,socks,Dollar,0,1,4.2,70,52,0.72
+error: undefined method `first' for nil:NilClass,Linc,Lafont,llafontoy@wikia.com,47,M,Fresno,CA,United States,Miami Heat,Anthony Davis,Seattle Storm,sweatshirts,Dollar,2,6,8.0,85,59,0.55
+error: undefined method `first' for nil:NilClass,Rocky,Bernolet,rbernoletoz@imageshack.us,45,M,Albuquerque,NM,United States,Los Angeles Lakers,Donovan Mitchell,Washington Mystics,socks,Dollar,5,6,5.2,75,53,0.44
+error: undefined method `first' for nil:NilClass,Erie,Boffey,eboffeyp0@bravesites.com,34,M,Bronx,NY,United States,Denver Nuggets,James Harden,Minnesota Lynx,hats,Dollar,5,5,4.3,42,68,0.41
+error: undefined method `first' for nil:NilClass,Abran,Binning,abinningp1@instagram.com,78,M,Macon,GA,United States,Miami Heat,Jamal Murray,,jerseys,Dollar,4,6,9.6,86,56,0.54
+error: undefined method `first' for nil:NilClass,Jamesy,How to preserve,jhowtopreservep2@ca.gov,68,M,Portland,OR,United States,Golden State Warriors,Damian Lillard,,phone cases,Dollar,0,1,10.5,75,55,0.31
+error: undefined method `first' for nil:NilClass,Jim,Whittles,jwhittlesp3@gizmodo.com,29,M,Pittsburgh,PA,United States,Toronto Raptors,Shai Gilgeous-Alexander,Atlanta Dream,backpacks,Dollar,5,6,7.5,72,78,0.5
+error: undefined method `first' for nil:NilClass,Hugibert,Clement,hclementp4@sbwire.com,66,M,New Castle,PA,United States,Toronto Raptors,Rudy Gobert,,blankets,Dollar,0,4,7.1,76,78,0.74
+error: undefined method `first' for nil:NilClass,Lonny,Few,lfewp5@trellian.com,34,M,Spokane,WA,United States,Philadelphia 76ers,Brandon Ingram,,jerseys,Dollar,5,4,11.6,41,75,0.36
+error: undefined method `first' for nil:NilClass,Terry,Whiteside,twhitesidep6@typepad.com,41,F,Austin,TX,United States,Philadelphia 76ers,Myles Turner,,jerseys,Dollar,3,4,4.4,39,62,0.53
+error: undefined method `first' for nil:NilClass,Lark,Spurge,lspurgep7@wired.com,67,F,El Paso,TX,United States,Chicago Bulls,D'Angelo Russell,New York Liberty,keychains,Dollar,4,4,8.2,37,72,0.45
+error: undefined method `first' for nil:NilClass,Pip,Beall,pbeallp8@yellowpages.com,42,M,Fort Wayne,IN,United States,Los Angeles Lakers,Dejounte Murray,Washington Mystics,water bottles,Dollar,5,1,8.9,76,42,0.4
+error: undefined method `first' for nil:NilClass,Chrystal,Bakeup,cbakeupp9@yahoo.co.jp,29,F,New York City,NY,United States,Philadelphia 76ers,Chris Paul,Seattle Storm,hats,Dollar,0,2,5.2,65,46,0.34
+error: undefined method `first' for nil:NilClass,Burg,Kenningley,bkenningleypa@dailymotion.com,63,M,Provo,UT,United States,Toronto Raptors,CJ McCollum,Washington Mystics,sweatshirts,Dollar,4,7,7.6,36,46,0.67
+error: undefined method `first' for nil:NilClass,Koralle,Torrance,ktorrancepb@cnet.com,54,F,Brooksville,FL,United States,Miami Heat,Tobias Harris,Las Vegas Aces,water bottles,Dollar,2,5,7.2,55,51,0.56
+error: undefined method `first' for nil:NilClass,Virgie,Rodwell,vrodwellpc@reference.com,19,M,New York City,NY,United States,Dallas Mavericks,Trae Young,Seattle Storm,socks,Dollar,4,4,6.2,33,72,0.48
+error: undefined method `first' for nil:NilClass,Marco,Favey,mfaveypd@umn.edu,22,M,San Bernardino,CA,United States,Los Angeles Lakers,Damian Lillard,Minnesota Lynx,hats,Dollar,6,4,6.1,63,53,0.4
+error: undefined method `first' for nil:NilClass,Orlan,Mathan,omathanpe@si.edu,32,M,Buffalo,NY,United States,Chicago Bulls,Jaylen Brown,Chicago Sky,jerseys,Dollar,3,4,8.4,81,75,0.48
+error: undefined method `first' for nil:NilClass,Lanie,Bonsul,lbonsulpf@studiopress.com,36,F,Wichita,KS,United States,Philadelphia 76ers,Julius Randle,Phoenix Mercury,posters,Dollar,5,1,9.5,38,57,0.49
+error: undefined method `first' for nil:NilClass,Terencio,Sivyer,tsivyerpg@elpais.com,28,M,Lawrenceville,GA,United States,Chicago Bulls,Bam Adebayo,,backpacks,Dollar,2,7,11.6,58,40,0.66
+error: undefined method `first' for nil:NilClass,Stormie,Yashin,syashinph@ucsd.edu,65,F,Fort Worth,TX,United States,Los Angeles Lakers,De'Aaron Fox,Los Angeles Sparks,keychains,Dollar,2,4,6.2,32,68,0.4
+error: undefined method `first' for nil:NilClass,Micki,Gosling,mgoslingpi@ezinearticles.com,58,F,Chicago,IL,United States,Chicago Bulls,Devin Booker,Dallas Wings,keychains,Dollar,2,7,4.3,67,40,0.57
+error: undefined method `first' for nil:NilClass,Holmes,Acory,hacorypj@cocolog-nifty.com,67,M,San Diego,CA,United States,Los Angeles Lakers,Tobias Harris,Minnesota Lynx,keychains,Dollar,3,0,11.6,34,49,0.41
+error: undefined method `first' for nil:NilClass,Mariya,Cowlam,mcowlampk@posterous.com,39,F,Saint Petersburg,FL,United States,Chicago Bulls,Kristaps Porzingis,,water bottles,Dollar,4,4,10.5,43,63,0.42
+error: undefined method `first' for nil:NilClass,Gisele,Fronzek,gfronzekpl@cpanel.net,20,F,El Paso,TX,United States,Denver Nuggets,Dejounte Murray,Chicago Sky,hats,Dollar,5,0,5.5,74,77,0.35
+error: undefined method `first' for nil:NilClass,Peyter,McAllaster,pmcallasterpm@toplist.cz,54,M,Vancouver,WA,United States,Miami Heat,Kristaps Porzingis,Seattle Storm,posters,Dollar,1,7,10.2,51,43,0.53
+error: undefined method `first' for nil:NilClass,Paola,Meier,pmeierpn@hatena.ne.jp,38,F,Midland,TX,United States,Miami Heat,Nikola Jokic,Dallas Wings,backpacks,Dollar,6,8,7.6,50,57,0.77
+error: undefined method `first' for nil:NilClass,Harriott,MacDonell,hmacdonellpo@house.gov,27,F,Sterling,VA,United States,Houston Rockets,Stephen Curry,,blankets,Dollar,0,2,12.0,88,62,0.7
+error: undefined method `first' for nil:NilClass,Asa,Masdin,amasdinpp@admin.ch,43,M,Ridgely,MD,United States,Dallas Mavericks,LeBron James,Los Angeles Sparks,keychains,Dollar,2,3,9.5,48,71,0.65
+error: undefined method `first' for nil:NilClass,Bertie,Syres,bsyrespq@statcounter.com,67,M,Indianapolis,IN,United States,Boston Celtics,Trae Young,,keychains,Dollar,0,2,10.9,57,41,0.56
+error: undefined method `first' for nil:NilClass,Obed,Musk,omuskpr@bbb.org,79,M,Charlotte,NC,United States,Chicago Bulls,Ben Simmons,Atlanta Dream,sweatshirts,Dollar,0,6,4.2,68,56,0.58
+error: undefined method `first' for nil:NilClass,Blondie,Westmancoat,bwestmancoatps@wunderground.com,44,F,Saginaw,MI,United States,Chicago Bulls,John Collins,Seattle Storm,water bottles,Dollar,0,1,6.9,74,49,0.33
+error: undefined method `first' for nil:NilClass,Ezri,Warlton,ewarltonpt@nsw.gov.au,59,M,New Haven,CT,United States,Toronto Raptors,Donovan Mitchell,Chicago Sky,socks,Dollar,4,3,9.8,34,76,0.54
+error: undefined method `first' for nil:NilClass,Wayland,Schruyers,wschruyerspu@smh.com.au,30,M,Atlanta,GA,United States,Toronto Raptors,Jayson Tatum,Chicago Sky,keychains,Dollar,3,6,8.1,87,67,0.31
+error: undefined method `first' for nil:NilClass,Rik,Brimble,rbrimblepv@diigo.com,32,M,Phoenix,AZ,United States,Chicago Bulls,Russell Westbrook,,hats,Dollar,6,6,11.3,59,45,0.38
+error: undefined method `first' for nil:NilClass,Cary,Schuricke,cschurickepw@mysql.com,31,M,Fort Lauderdale,FL,United States,Houston Rockets,D'Angelo Russell,,blankets,Dollar,5,8,11.1,57,50,0.33
+error: undefined method `first' for nil:NilClass,Abigail,Elsby,aelsbypx@blogtalkradio.com,20,F,Homestead,FL,United States,Dallas Mavericks,Julius Randle,Atlanta Dream,phone cases,Dollar,4,1,5.9,39,57,0.77
+error: undefined method `first' for nil:NilClass,Zahara,O' Bee,zobeepy@delicious.com,77,F,Syracuse,NY,United States,Golden State Warriors,Donovan Mitchell,New York Liberty,posters,Dollar,4,7,5.9,61,67,0.33
+error: undefined method `first' for nil:NilClass,Arline,Yeskov,ayeskovpz@salon.com,61,F,Anchorage,AK,United States,Chicago Bulls,Giannis Antetokounmpo,Atlanta Dream,backpacks,Dollar,4,0,4.9,61,58,0.64
+error: undefined method `first' for nil:NilClass,Heida,De Giorgis,hdegiorgisq0@sakura.ne.jp,38,F,Everett,WA,United States,Los Angeles Lakers,Julius Randle,Phoenix Mercury,socks,Dollar,2,4,7.1,34,57,0.31
+error: undefined method `first' for nil:NilClass,Dory,Martinot,dmartinotq1@scientificamerican.com,36,M,Topeka,KS,United States,Golden State Warriors,Russell Westbrook,Las Vegas Aces,blankets,Dollar,5,3,5.5,37,73,0.57
+error: undefined method `first' for nil:NilClass,Lorri,Philpots,lphilpotsq2@adobe.com,37,F,Pittsburgh,PA,United States,Chicago Bulls,Devin Booker,Minnesota Lynx,hats,Dollar,2,7,4.5,34,70,0.8
+error: undefined method `first' for nil:NilClass,Ruthie,Hallex,rhallexq3@ocn.ne.jp,56,F,Houston,TX,United States,Miami Heat,Rudy Gobert,Los Angeles Sparks,keychains,Dollar,0,1,6.5,43,44,0.54
+error: undefined method `first' for nil:NilClass,Dannie,Leason,dleasonq4@rambler.ru,62,M,Jacksonville,FL,United States,Denver Nuggets,Bam Adebayo,Minnesota Lynx,jerseys,Dollar,1,0,9.1,56,56,0.45
+error: undefined method `first' for nil:NilClass,Wallie,Pattison,wpattisonq5@about.me,45,F,San Jose,CA,United States,Philadelphia 76ers,Anthony Davis,Dallas Wings,phone cases,Dollar,1,0,6.5,49,74,0.67
+error: undefined method `first' for nil:NilClass,Viva,Andrews,vandrewsq6@chronoengine.com,44,F,Orlando,FL,United States,Philadelphia 76ers,James Harden,,phone cases,Dollar,1,6,11.6,82,72,0.52
+error: undefined method `first' for nil:NilClass,Elihu,Arrowsmith,earrowsmithq7@spotify.com,65,M,Washington,DC,United States,Philadelphia 76ers,Trae Young,,posters,Dollar,1,3,9.8,62,45,0.6
+error: undefined method `first' for nil:NilClass,Seymour,de Bullion,sdebullionq8@comcast.net,44,M,Washington,DC,United States,Chicago Bulls,Bam Adebayo,Las Vegas Aces,hats,Dollar,3,2,7.0,45,79,0.45
+error: undefined method `first' for nil:NilClass,Cloe,Heersema,cheersemaq9@ftc.gov,58,F,Levittown,PA,United States,Denver Nuggets,DeMar DeRozan,,socks,Dollar,5,1,6.5,73,48,0.47
+error: undefined method `first' for nil:NilClass,Rolfe,Sellek,rsellekqa@state.gov,24,M,Santa Fe,NM,United States,Houston Rockets,Bradley Beal,Chicago Sky,posters,Dollar,1,3,11.5,39,61,0.33
+error: undefined method `first' for nil:NilClass,Madonna,Leverage,mleverageqb@eepurl.com,62,F,Seattle,WA,United States,Denver Nuggets,Kevin Durant,Las Vegas Aces,blankets,Dollar,3,1,4.2,71,75,0.77
+error: undefined method `first' for nil:NilClass,George,Blasoni,gblasoniqc@slashdot.org,45,F,Shawnee Mission,KS,United States,Los Angeles Lakers,John Collins,,backpacks,Dollar,4,6,10.4,64,63,0.34
+error: undefined method `first' for nil:NilClass,Northrop,Bartali,nbartaliqd@symantec.com,33,M,Dallas,TX,United States,Golden State Warriors,Kyle Lowry,Dallas Wings,water bottles,Dollar,3,5,11.9,66,43,0.78
+error: undefined method `first' for nil:NilClass,Winfield,Dowey,wdoweyqe@tumblr.com,74,M,South Lake Tahoe,CA,United States,Los Angeles Lakers,Jaylen Brown,,blankets,Dollar,6,4,10.2,52,46,0.54
+error: undefined method `first' for nil:NilClass,Dennie,Henri,dhenriqf@nature.com,49,F,Philadelphia,PA,United States,Golden State Warriors,Paul George,Minnesota Lynx,hats,Dollar,3,8,11.5,59,74,0.62
+error: undefined method `first' for nil:NilClass,Gal,Carruthers,gcarruthersqg@yolasite.com,27,M,Madison,WI,United States,Philadelphia 76ers,Nikola Jokic,,jerseys,Dollar,2,6,9.5,68,57,0.71
+error: undefined method `first' for nil:NilClass,Peyton,Mathwen,pmathwenqh@yahoo.co.jp,37,M,Lawrenceville,GA,United States,Chicago Bulls,Nikola Jokic,New York Liberty,hats,Dollar,1,1,6.9,85,50,0.41
+error: undefined method `first' for nil:NilClass,Stanwood,Whisson,swhissonqi@hud.gov,51,M,New York City,NY,United States,Los Angeles Lakers,LeBron James,New York Liberty,jerseys,Dollar,2,0,4.8,48,47,0.32
+error: undefined method `first' for nil:NilClass,Maudie,McKeag,mmckeagqj@ovh.net,48,F,New Orleans,LA,United States,Los Angeles Lakers,Jaylen Brown,Dallas Wings,socks,Dollar,4,8,10.6,64,74,0.68
+error: undefined method `first' for nil:NilClass,Carolynn,Bredes,cbredesqk@ucsd.edu,32,F,Cleveland,OH,United States,Los Angeles Lakers,De'Aaron Fox,Seattle Storm,water bottles,Dollar,6,1,6.1,49,58,0.55
+error: undefined method `first' for nil:NilClass,Daveen,Dannel,ddannelql@squarespace.com,67,F,Cincinnati,OH,United States,Miami Heat,Ja Morant,Minnesota Lynx,phone cases,Dollar,1,5,8.0,30,52,0.61
+error: undefined method `first' for nil:NilClass,Joanna,Harler,jharlerqm@ucsd.edu,42,F,Mc Keesport,PA,United States,Golden State Warriors,Kristaps Porzingis,,water bottles,Dollar,3,4,4.8,84,45,0.79
+error: undefined method `first' for nil:NilClass,Joyous,Klehyn,jklehynqn@princeton.edu,44,F,Omaha,NE,United States,Philadelphia 76ers,Nikola Jokic,Phoenix Mercury,backpacks,Dollar,6,7,11.2,84,41,0.48
+error: undefined method `first' for nil:NilClass,Phip,Halifax,phalifaxqo@msn.com,37,M,Charlotte,NC,United States,Chicago Bulls,DeMar DeRozan,Washington Mystics,phone cases,Dollar,4,1,7.6,90,60,0.66
+error: undefined method `first' for nil:NilClass,Carlota,Huebner,chuebnerqp@ucoz.com,32,F,New Orleans,LA,United States,Philadelphia 76ers,Shai Gilgeous-Alexander,Minnesota Lynx,blankets,Dollar,4,1,11.1,53,65,0.5
+error: undefined method `first' for nil:NilClass,Gibb,Clemencon,gclemenconqq@wufoo.com,62,M,Atlanta,GA,United States,Denver Nuggets,Jayson Tatum,Seattle Storm,posters,Dollar,5,6,8.8,42,76,0.6
+error: undefined method `first' for nil:NilClass,Suzann,Pyser,spyserqr@blog.com,68,F,Huntsville,AL,United States,Los Angeles Lakers,Jaylen Brown,,water bottles,Dollar,3,0,5.7,67,77,0.43
+error: undefined method `first' for nil:NilClass,Giustina,Fogg,gfoggqs@g.co,21,F,Miami,FL,United States,Los Angeles Lakers,Russell Westbrook,,posters,Dollar,1,3,5.9,71,56,0.55
+error: undefined method `first' for nil:NilClass,Ware,Tatton,wtattonqt@acquirethisname.com,51,M,Gainesville,FL,United States,Chicago Bulls,CJ McCollum,Seattle Storm,hats,Dollar,4,6,7.2,34,57,0.52
+error: undefined method `first' for nil:NilClass,Tani,Spieght,tspieghtqu@ox.ac.uk,67,F,Lafayette,IN,United States,Los Angeles Lakers,Devin Booker,Chicago Sky,hats,Dollar,2,7,10.6,77,67,0.36
+error: undefined method `first' for nil:NilClass,Gilemette,Frany,gfranyqv@walmart.com,32,F,Chicago,IL,United States,Miami Heat,Jayson Tatum,Minnesota Lynx,posters,Dollar,6,3,8.9,52,69,0.37
+error: undefined method `first' for nil:NilClass,Allister,McGeever,amcgeeverqw@facebook.com,46,M,Daytona Beach,FL,United States,Philadelphia 76ers,Luka Doncic,Phoenix Mercury,backpacks,Dollar,3,6,11.3,76,64,0.41
+error: undefined method `first' for nil:NilClass,Allissa,Loughren,aloughrenqx@archive.org,19,F,Indianapolis,IN,United States,Dallas Mavericks,De'Aaron Fox,,posters,Dollar,5,1,7.4,75,61,0.45
+error: undefined method `first' for nil:NilClass,Errol,Yoell,eyoellqy@netlog.com,59,M,College Station,TX,United States,Philadelphia 76ers,LeBron James,Chicago Sky,hats,Dollar,4,5,7.5,90,43,0.61
+error: undefined method `first' for nil:NilClass,Evelyn,Zamorano,ezamoranoqz@examiner.com,31,M,Los Angeles,CA,United States,Chicago Bulls,Nikola Jokic,Los Angeles Sparks,blankets,Dollar,0,0,4.9,33,62,0.7
+error: undefined method `first' for nil:NilClass,Phillida,Mussard,pmussardr0@mail.ru,32,F,Dallas,TX,United States,Los Angeles Lakers,Myles Turner,Las Vegas Aces,water bottles,Dollar,1,3,9.3,40,80,0.44
+error: undefined method `first' for nil:NilClass,Dorene,Wannes,dwannesr1@tinyurl.com,68,F,San Francisco,CA,United States,Los Angeles Lakers,Domantas Sabonis,Chicago Sky,jerseys,Dollar,3,5,7.5,33,56,0.4
+error: undefined method `first' for nil:NilClass,Homerus,Reeveley,hreeveleyr2@miibeian.gov.cn,22,M,New York City,NY,United States,Golden State Warriors,Zach LaVine,Dallas Wings,posters,Dollar,5,3,11.2,78,74,0.77
+error: undefined method `first' for nil:NilClass,Ced,Munford,cmunfordr3@hp.com,50,M,Norman,OK,United States,Golden State Warriors,Jamal Murray,Dallas Wings,phone cases,Dollar,6,8,7.7,83,61,0.58
+error: undefined method `first' for nil:NilClass,Tonia,Grason,tgrasonr4@auda.org.au,24,F,Minneapolis,MN,United States,Miami Heat,D'Angelo Russell,Phoenix Mercury,posters,Dollar,3,2,6.6,71,75,0.58
+error: undefined method `first' for nil:NilClass,Sergeant,Forton,sfortonr5@unicef.org,70,M,Boston,MA,United States,Los Angeles Lakers,Chris Paul,Phoenix Mercury,socks,Dollar,5,3,6.5,50,69,0.53
+error: undefined method `first' for nil:NilClass,Gerty,Giovannardi,ggiovannardir6@shutterfly.com,29,F,Tucson,AZ,United States,Chicago Bulls,CJ McCollum,Las Vegas Aces,socks,Dollar,2,5,5.8,87,51,0.5
+error: undefined method `first' for nil:NilClass,Felecia,Gercke,fgercker7@infoseek.co.jp,60,F,Austin,TX,United States,Golden State Warriors,LeBron James,,hats,Dollar,6,2,4.9,50,73,0.44
+error: undefined method `first' for nil:NilClass,Marjorie,Siveyer,msiveyerr8@devhub.com,42,F,Detroit,MI,United States,Chicago Bulls,Giannis Antetokounmpo,Atlanta Dream,sweatshirts,Dollar,0,3,7.2,69,74,0.32
+error: undefined method `first' for nil:NilClass,Buddie,Mullarkey,bmullarkeyr9@skyrock.com,68,M,Augusta,GA,United States,Los Angeles Lakers,Nikola Jokic,,socks,Dollar,1,7,6.0,32,64,0.55
+error: undefined method `first' for nil:NilClass,Sayres,Wylder,swylderra@behance.net,40,M,Dallas,TX,United States,Dallas Mavericks,Julius Randle,Washington Mystics,water bottles,Dollar,0,3,7.0,33,40,0.57
+error: undefined method `first' for nil:NilClass,Elsi,Paley,epaleyrb@dagondesign.com,19,F,Brea,CA,United States,Golden State Warriors,Bam Adebayo,Washington Mystics,posters,Dollar,5,1,9.4,35,42,0.3
+error: undefined method `first' for nil:NilClass,Odele,Bullas,obullasrc@deliciousdays.com,21,F,Austin,TX,United States,Los Angeles Lakers,Karl-Anthony Towns,,blankets,Dollar,2,7,9.5,54,48,0.74
+error: undefined method `first' for nil:NilClass,Ruben,Claypoole,rclaypoolerd@wufoo.com,38,M,Evansville,IN,United States,Miami Heat,Jamal Murray,Las Vegas Aces,socks,Dollar,1,7,9.4,67,53,0.52
+error: undefined method `first' for nil:NilClass,Sheffy,Brotherick,sbrotherickre@qq.com,29,M,Washington,DC,United States,Dallas Mavericks,Chris Paul,Washington Mystics,socks,Dollar,5,7,10.2,65,76,0.77
+error: undefined method `first' for nil:NilClass,Britta,Bollon,bbollonrf@tumblr.com,80,F,Helena,MT,United States,Miami Heat,Giannis Antetokounmpo,,hats,Dollar,1,1,9.6,37,57,0.41
+error: undefined method `first' for nil:NilClass,Baron,Selvey,bselveyrg@who.int,46,M,Laredo,TX,United States,Golden State Warriors,Julius Randle,,water bottles,Dollar,5,2,9.9,32,71,0.59
+error: undefined method `first' for nil:NilClass,Mikey,Mc Giffin,mmcgiffinrh@msu.edu,69,M,Salt Lake City,UT,United States,Los Angeles Lakers,Kristaps Porzingis,Los Angeles Sparks,socks,Dollar,2,3,9.1,53,42,0.32
+error: undefined method `first' for nil:NilClass,Aubry,Siman,asimanri@people.com.cn,54,F,Norcross,GA,United States,Dallas Mavericks,Ben Simmons,Chicago Sky,keychains,Dollar,0,4,10.8,85,64,0.44
+error: undefined method `first' for nil:NilClass,Cathi,Toppes,ctoppesrj@mysql.com,39,F,West Palm Beach,FL,United States,Chicago Bulls,Nikola Jokic,Dallas Wings,socks,Dollar,3,0,7.2,65,76,0.62
+error: undefined method `first' for nil:NilClass,Glynn,Sealeaf,gsealeafrk@reuters.com,58,M,Indianapolis,IN,United States,Los Angeles Lakers,Domantas Sabonis,Seattle Storm,backpacks,Dollar,3,0,4.6,63,50,0.3
+error: undefined method `first' for nil:NilClass,Marcello,MacAlister,mmacalisterrl@gnu.org,73,M,Kansas City,MO,United States,Houston Rockets,Deandre Ayton,Las Vegas Aces,phone cases,Dollar,3,1,8.4,30,59,0.4
+error: undefined method `first' for nil:NilClass,Caldwell,Swindon,cswindonrm@acquirethisname.com,35,M,Los Angeles,CA,United States,Philadelphia 76ers,Ja Morant,Las Vegas Aces,posters,Dollar,4,6,6.7,57,48,0.71
+error: undefined method `first' for nil:NilClass,Bailey,Riddich,briddichrn@tripadvisor.com,58,M,Washington,DC,United States,Golden State Warriors,Kristaps Porzingis,,phone cases,Dollar,2,4,5.7,53,54,0.38
+error: undefined method `first' for nil:NilClass,Lynnell,Fowls,lfowlsro@livejournal.com,45,F,Reading,PA,United States,Miami Heat,Jaylen Brown,Minnesota Lynx,hats,Dollar,0,1,7.8,58,78,0.65
+error: undefined method `first' for nil:NilClass,Nahum,Giraldez,ngiraldezrp@purevolume.com,70,M,Pittsburgh,PA,United States,Golden State Warriors,Chris Paul,,jerseys,Dollar,5,8,4.2,40,49,0.75
+error: undefined method `first' for nil:NilClass,Elmo,Dufer,eduferrq@tuttocitta.it,71,M,Winter Haven,FL,United States,Philadelphia 76ers,Ben Simmons,,keychains,Dollar,3,3,4.0,39,41,0.8
+error: undefined method `first' for nil:NilClass,Mahmud,Sturney,msturneyrr@miitbeian.gov.cn,22,M,Huntsville,AL,United States,Chicago Bulls,Bradley Beal,Phoenix Mercury,socks,Dollar,3,4,9.4,58,59,0.59
