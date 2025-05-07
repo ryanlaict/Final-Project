@@ -38,11 +38,13 @@ Ensuring enough WNBA player matches for every NBA input, especially when filteri
 
 Balancing recommendation diversity (city match vs playstyle match) was tricky — too strict on either metric led to fewer or less interesting recommendations.
 
+Statistics are not perfect, and some players may be missed due to missing data. 
+
+Player stats are not the only metrics to compare players as many aspects of similariies are important such as playstyle, impact and engagement.
+
 Future Goals
 Expand player feature sets with advanced stats like usage rate, defensive rating, and shot charts for deeper player similarity.
 
 Integrate collaborative filtering based on fan behavior (e.g., fans who like LeBron also follow Breanna Stewart).
 
-Deploy a full interactive web app using Streamlit with dynamic visualizations and customer input forms.
-
-Launch A/B testing campaigns to measure the real-world impact of targeted merchandise promotions.
+Integrate more article and expert comparisons to more closely match NBA and WNBA Players together

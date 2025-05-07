@@ -4,10 +4,8 @@ from sklearn.cluster import KMeans
 from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
 
-# Your data processing and recommendation functions go here...
-# (Include the functions you already have, such as preprocess_customer_data, calculate_per, etc.)
-
-# Add your function logic here
+combined_data = pd.read_csv("combined_data.csv")
+combined_data_encoded = pd.read_csv("combined_data_encoded.csv")
 def recommend_wnba_players(nba_player, top_n=5):
     if nba_player not in combined_data_encoded["Player"].values:
         return "Player not found in dataset."
@@ -48,9 +46,6 @@ if favorite_nba_player:
     st.subheader(f"Recommended WNBA Players for {favorite_nba_player}")
     st.write(wnba_recommendations)
 elif favorite_nba_team:
-    # You could implement a similar logic for NBA teams
     st.write(f"Recommendations for WNBA players from {favorite_nba_team} team coming soon!")
 else:
     st.write("Please enter a favorite NBA player or team to get recommendations.")
-
-# You can also add more customization or other inputs if needed
